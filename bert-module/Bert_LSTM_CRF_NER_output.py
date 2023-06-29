@@ -1,3 +1,4 @@
+import glob
 import os
 from torch.utils.data import Dataset,DataLoader
 from transformers import BertTokenizer
@@ -118,15 +119,24 @@ if __name__ == "__main__":
     max_len = 30
     lr = 0.0005
     lstm_hidden = 128
+
     do_train = False
     do_test = False
-    do_input = True
-
+    do_input = False
+    print('请选择模式:')
+    print('是否训练? (需要训练则输入True，否则输入其他字符)')
+    tmp = input()
+    if tmp == 'True':
+        do_train = True
+    print('是否测试? (需要测试则输入True，否则输入其他字符)')
+    tmp = input()
+    if tmp == 'True':
+        do_test = True
+    print('是否实践? (需要实践则输入True，否则输入其他字符)')
+    tmp = input()
+    if tmp == 'True':
+        do_input = True
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
-
-
-
-
     if do_train:
         train_dataset = BertDataset(train_text,train_label,label_2_index,max_len,tokenizer,is_test=False)
         train_dataloader = DataLoader(train_dataset,batch_size=batch_size,shuffle=False)
@@ -220,15 +230,22 @@ if __name__ == "__main__":
             f.write("\n".join(test_out))
 
     if do_input:
+        teacher_path = '../CV_cabin_origin'
         model = torch.load("best_model_crf.pt")
-        text = input("请输入：")
-        text = text[:510]
-        text_idx = tokenizer.encode(text, add_special_tokens=True, return_tensors="pt")
-        text_idx = text_idx.to(device)
-
-        pre = model.forward(text_idx)
-        pre = pre[0][1:-1]
-        pre = [index_2_label[i] for i in pre]
-        print("\n".join([f"{w}：{t}" for w,t in zip(text,pre)]))
-
+        if not os.path.exists('../CV_cabin_process'):
+            os.mkdir('../CV_cabin_process')
+        for teacher_info in glob.glob(os.path.join(teacher_path, "*.txt")):
+            teacher_name = os.path.basename(teacher_info).strip().split('.')[0]
+            with open(teacher_info, mode='r+', encoding='utf-8') as teacher:
+                url = teacher.readline()
+                text = teacher.read()
+                text = text[:510]
+                text_idx = tokenizer.encode(text, add_special_tokens=True, return_tensors="pt")
+                text_idx = text_idx.to(device)
+                pre = model.forward(text_idx)
+                pre = pre[0][1:-1]
+                pre = [index_2_label[i] for i in pre]
+                with open(f'../CV_cabin_process/{teacher_name}.txt', mode='w', encoding='utf-8') as info:
+                    info.write(url+'\n')
+                    info.write("\n".join([f"{w}：{t}" for w,t in zip(text,pre)]))
 
