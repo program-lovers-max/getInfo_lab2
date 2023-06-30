@@ -91,12 +91,13 @@ class Bert_LSTM_NerModel(nn.Module):
         # self.loss_fun = nn.CrossEntropyLoss()
 
     def forward(self,batch_index,batch_label=None):
-        bert_out = self.bert(batch_index)
+        bert_out = self.bert(batch_index)   #特征
         bert_out0,bert_out1 = bert_out[0],bert_out[1]# bert_out0:字符级别特征, bert_out1:篇章级别
-
+        #经过lstm层
         lstm_out,_ = self.lstm(bert_out0)
-
+        #经过线性分类器
         pre = self.classifier(lstm_out)
+        #如果是训练，则返回损失，否则返回crf解码后的预测值
         if batch_label is not None:
             # loss = self.loss_fun(pre.reshape(-1,pre.shape[-1]),batch_label.reshape(-1))
             loss = -self.crf(pre, batch_label)
@@ -148,37 +149,41 @@ if __name__ == "__main__":
 
         dev_dataset = BertDataset(dev_text, dev_label, label_2_index, max_len, tokenizer,is_test=False)
         dev_dataloader = DataLoader(dev_dataset, batch_size=batch_size, shuffle=False)
-
+        #创建模型
         model = Bert_LSTM_NerModel(lstm_hidden,len(label_2_index)).to(device)
-        opt = AdamW(model.parameters(),lr)
+        opt = AdamW(model.parameters(),lr) #创建优化器
 
         best_score = -1
         for e in range(epoch):
-            model.train()
+            model.train()  #训练标识
             for batch_text_index,batch_label_index,batch_len in train_dataloader:
-                batch_text_index = batch_text_index.to(device)
-                batch_label_index = batch_label_index.to(device)
+                batch_text_index = batch_text_index.to(device) #将文本索引加载到设备
+                batch_label_index = batch_label_index.to(device) #将标签索引加载到设备
+                #模型训练
                 loss = model.forward(batch_text_index,batch_label_index)
                 loss.backward()
-
+                #优化
                 opt.step()
                 opt.zero_grad()
 
                 print(f'loss:{loss:.2f}')
 
-
+            #验证标识
             model.eval()
-
+            #比对标签是否预测正确
             all_pre = []
             all_tag = []
             for batch_text_index,batch_label_index,batch_len in dev_dataloader:
+                #加载入设备
                 batch_text_index = batch_text_index.to(device)
                 batch_label_index = batch_label_index.to(device)
+                #预测
                 pre = model.forward(batch_text_index)
-
+                #引入crf则不需要进行列表转换
                 # pre = pre.cpu().numpy().tolist()
+                #将tag转回列表
                 tag = batch_label_index.cpu().numpy().tolist()
-
+                #提取原始标签
                 for p,t,l in zip(pre,tag,batch_len):
                     p = p[1:1+l]
                     t = t[1:1+l]
@@ -188,20 +193,22 @@ if __name__ == "__main__":
 
                     all_pre.append(p)
                     all_tag.append(t)
-
+            #计算f1_score
             f1_score = seq_f1_score(all_tag,all_pre)
+            #如果f1_score是最好的，则保存该epoch训练出的模型
             if f1_score > best_score:
                 torch.save(model, "best_model_crf.pt")
                 best_score = f1_score
-
+            #打印信息
             print(f"best_score:{best_score:.2f},f1_score:{f1_score:.2f}")
 
     if do_test:
+        #加载测试集
         test_dataset = BertDataset(test_text, test_label, label_2_index, max_len, tokenizer,True)
         test_dataloader = DataLoader(test_dataset, batch_size=1, shuffle=False)
-
+        #加载模型
         model = torch.load("best_model_crf.pt")
-
+        #准备接收预测值、真实值
         all_pre = []
         all_tag = []
         test_out = []
@@ -215,7 +222,7 @@ if __name__ == "__main__":
             # pre = pre.cpu().numpy().tolist()
             tag = batch_label_index.cpu().numpy().tolist()
 
-
+            #拿到标签
             pre = pre[0][1:-1]
             tag = tag[0][1:-1]
 
@@ -227,29 +234,35 @@ if __name__ == "__main__":
 
             test_out.extend([f"{w} {t}" for w,t in zip(text,pre)])
             test_out.append("")
-
+        #计算f1_score
         f1_score = seq_f1_score(all_tag, all_pre)
         print(f"test_f1_score:{f1_score:.2f}")
-
+        #将文本与预测值写入文件
         with open("test_out_crf.txt", "w", encoding='utf-8') as f:
             f.write("\n".join(test_out))
 
     if do_input:
-        teacher_path = '../CV_cabin_origin'
-        model = torch.load("best_model_crf.pt")
+        teacher_path = '../CV_cabin_origin'  #预处理后的文本
+        model = torch.load("best_model_crf.pt") #加载模型
         if not os.path.exists('../CV_cabin_process'):
             os.mkdir('../CV_cabin_process')
+        #逐个遍历
         for teacher_info in glob.glob(os.path.join(teacher_path, "*.txt")):
             teacher_name = os.path.basename(teacher_info).strip().split('.')[0]
             with open(teacher_info, mode='r+', encoding='utf-8') as teacher:
-                url = teacher.readline()
+                url = teacher.readline() #拿url
                 text = teacher.read()
-                text = text[:510]
+                text = text[:510] #bert最多支持512字符，除去首尾填充为510
+                #文本编码
                 text_idx = tokenizer.encode(text, add_special_tokens=True, return_tensors="pt")
                 text_idx = text_idx.to(device)
+                #获取预测值
                 pre = model.forward(text_idx)
+                #除去首尾占位
                 pre = pre[0][1:-1]
+                #获取原始标签
                 pre = [index_2_label[i] for i in pre]
+                #写入文件
                 with open(f'../CV_cabin_process/{teacher_name}.txt', mode='w', encoding='utf-8') as info:
                     info.write(url)
                     info.write("\n".join([f"{w} {t}" for w,t in zip(text,pre)]))

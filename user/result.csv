@@ -1,118 +1,60 @@
 教师姓名,匹配内容,URL
-乔秀全,"['博士生导师', '计算机应用技术专业', '博士学位']",https://teacher.bupt.edu.cn/qiaoxiuquan
-于艳华,"['博导', '博士生导师']",https://teacher.bupt.edu.cn/yuyanhua
-亓峰,"['博导', '计算机学院', '计算机科学与技术']",https://teacher.bupt.edu.cn/qifeng
-付霄元,['博导'],https://teacher.bupt.edu.cn/fuxiaoyuan1
-修佳鹏,['博士学位'],https://teacher.bupt.edu.cn/xiujiapeng
-傅慧源,"['博士生导师', '博士学位']",https://teacher.bupt.edu.cn/fuhuiyuan
-傅湘玲,"['计算机学院', '博士生导师', '博士学位']",https://teacher.bupt.edu.cn/fuxiangling
-刘会永,"['计算机学院', '博士学位', '博士']",https://teacher.bupt.edu.cn/liuhuiyong/zh_CN/index.htm
-刘伟,"['计算机学院', '博士学位']",https://teacher.bupt.edu.cn/liuwei3
+乔秀全,['计算机应用技术专业'],https://teacher.bupt.edu.cn/qiaoxiuquan
+亓峰,"['计算机学院', '计算机科学与技术']",https://teacher.bupt.edu.cn/qifeng
+傅湘玲,['计算机学院'],https://teacher.bupt.edu.cn/fuxiangling
+刘会永,['计算机学院'],https://teacher.bupt.edu.cn/liuhuiyong/zh_CN/index.htm
+刘伟,['计算机学院'],https://teacher.bupt.edu.cn/liuwei3
 刘巍,['计算机学院'],https://teacher.bupt.edu.cn/liuwei1/
-刘晓鸿,['博士学位'],https://scs.bupt.edu.cn/info/1093/1337.htm
-刘炳言,"['博士生导师', '博士']",https://teacher.bupt.edu.cn/liubingyan/zh_CN/index.htm
-双锴,"['计算机学', '博导']",https://teacher.bupt.edu.cn/shuangkai
-吴斌,"['博士生导师', '计算机学院', '博士学位']",https://teacher.bupt.edu.cn/wubin
-吴步丹,"['计算机软件与理论', '博士学位']",https://teacher.bupt.edu.cn/wubudan
-周傲,['博导'],https://teacher.bupt.edu.cn/zhouao
-周凡钦,"['博士', '博士学位', '计算机学院']",https://teacher.bupt.edu.cn/fqzhou
-周安福,"['博士生导师', '博士学位']",https://teacher.bupt.edu.cn/zhouanfu/zh_CN/index.htm
-周文安,"['博士生导师', '博士学位']",https://teacher.bupt.edu.cn/zhouwenan
-商彦磊,"['计算机科学与技术工学', '博士学位']",https://scs.bupt.edu.cn/info/1293/2711.htm
-夏亚梅,"['博士生导师', '博士学位']",https://teacher.bupt.edu.cn/xiayamei/zh_CN/index.htm
-姚文斌,"['博士导师', '博士学位']",https://teacher.bupt.edu.cn/yaowenbin
-孙岩,"['博士', '博士生导师']",https://teacher.bupt.edu.cn/sunyan/zh_CN/index.htm
-孙海峰,['博士学位'],https://teacher.bupt.edu.cn/sunhaifeng
-宋美娜,"['博士生导师', '计算机科学与技术', '博士', '博士学位']",https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm
-宫云战,"['博士', '博士生导师']",https://scs.bupt.edu.cn/info/1292/2713.htm
-寇菲菲,"['博士', '计算机与科学技术专业', '计算机科学与技术|', '博士研究生', '博士学位', '计算机学院']",https://teacher.bupt.edu.cn/Koufeifei
-崔毅东,"['博士学位', '博士[]']",https://teacher.bupt.edu.cn/cyd
-左兴权,"['博士生导师', '博士']",https://teacher.bupt.edu.cn/zuoxingquan
-康学净,['博士学位'],https://teacher.bupt.edu.cn/kangxuejing
-张乐剑,['博士学位'],https://teacher.bupt.edu.cn/zhanglejian
-张乙然,['博士生导师'],https://teacher.bupt.edu.cn/zhangyiran/zh_CN/index.htm
-张光卫,"['计算机学院', '博士学位']",https://teacher.bupt.edu.cn/zhangguangwei
-张冬梅,['博士学位'],https://teacher.bupt.edu.cn/zhangdongmei
-张宇超,"['博士', '博士后', '计算机科学与技术*', '博士学位', '计算机网络专委会']",https://teacher.bupt.edu.cn/yczhang
-张波,"['计算机学院', '博士学位', '博士']",https://teacher.bupt.edu.cn/zbo/zh_CN/index.htm
-张海涛,"['博士', '博士生导师', '博士生[]北京邮电大学']",https://teacher.bupt.edu.cn/zhanghaitao
+双锴,['计算机学'],https://teacher.bupt.edu.cn/shuangkai
+吴斌,['计算机学院'],https://teacher.bupt.edu.cn/wubin
+吴步丹,['计算机软件与理论'],https://teacher.bupt.edu.cn/wubudan
+周凡钦,['计算机学院'],https://teacher.bupt.edu.cn/fqzhou
+商彦磊,['计算机科学与技术工学'],https://scs.bupt.edu.cn/info/1293/2711.htm
+宋美娜,['计算机科学与技术'],https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm
+寇菲菲,"['计算机与科学技术专业', '计算机科学与技术|', '计算机学院']",https://teacher.bupt.edu.cn/Koufeifei
+张光卫,['计算机学院'],https://teacher.bupt.edu.cn/zhangguangwei
+张宇超,"['计算机科学与技术*', '计算机网络专委会']",https://teacher.bupt.edu.cn/yczhang
+张波,['计算机学院'],https://teacher.bupt.edu.cn/zbo/zh_CN/index.htm
 张海滨,['计算机学院'],https://teacher.bupt.edu.cn/zhanghaibin
-张雷,"['博士学位', '博士']",https://teacher.bupt.edu.cn/zhanglei1
-徐梦炜,"['博士学位', '博士生导师']",https://teacher.bupt.edu.cn/xumengwei
-徐童,"['博士学位', '计算机学院']",https://teacher.bupt.edu.cn/xutong
-徐鹏,"['博士', '博士生导师']",https://teacher.bupt.edu.cn/xupeng
-戚琦,"['博士', '博士生导师']",https://teacher.bupt.edu.cn/qiqi
-易秋萍,"['博士生导师', '博士学位', '博士']",https://teacher.bupt.edu.cn/yiqiuping
-朱晓民,['博士学位'],https://teacher.bupt.edu.cn/zhuxiaomin/zh_CN/index.htm
-李丹丹,"['计算机学院', '博士学位']",https://teacher.bupt.edu.cn/lidandan
-李士刚,"['计算机学院', '博士生导师', '博士后研究员']",http://teacher.bupt.edu.cn/lishigang/zh_CN/index.htm
-李玉宏,['博士学位'],https://teacher.bupt.edu.cn/lily/zh_CN/index.htm
-李胜杰,['博士学位'],https://teacher.bupt.edu.cn/lishengjie/zh_CN/index.htm
-杜军平,"['计算机学院', '博士生导师', '博士', '博士后', '计算机应用技术中心']",https://teacher.bupt.edu.cn/dujunping
-杜晓婷,['博士学位'],https://teacher.bupt.edu.cn/duxiaoting/zh_CN/index.htm
+徐童,['计算机学院'],https://teacher.bupt.edu.cn/xutong
+李丹丹,['计算机学院'],https://teacher.bupt.edu.cn/lidandan
+李士刚,['计算机学院'],http://teacher.bupt.edu.cn/lishigang/zh_CN/index.htm
+杜军平,"['计算机学院', '计算机应用技术中心']",https://teacher.bupt.edu.cn/dujunping
 杨亚,['计算机学院'],https://teacher.bupt.edu.cn/yangya
-杨俊,"['博士学位', '博士生导师']",https://teacher.bupt.edu.cn/yangjun
-杨放春,"['博导', '博士学位', '计算机科学与技术*', '计算机学院', '计算机通信', '计算机应用', '博士生导师', '计算机科学与技术学院']",https://teacher.bupt.edu.cn/yangfangchun
-杨谈,"['计算机学院', '博士学位']",https://teacher.bupt.edu.cn/yangtan/zh_CN/index.htm
-杨震,"['博士学位', '计算机科学与技术*', '计算机学院']",https://teacher.bupt.edu.cn/yangzhen
-林昭文,"['博士', '博导']",https://teacher.bupt.edu.cn/linzhaowen/zh_CN/index.htm
-林荣恒,"['计算机科学与技术', '博士学位', '计算机科学与技术*', '博士']",https://teacher.bupt.edu.cn/linrongheng
-梁洪亮,"['博/硕士生导师', '计算机软件与理论方向', '博士学位']",https://teacher.bupt.edu.cn/lianghongliang/zh_CN/index.htm
-梁美玉,['博士生导师'],https://teacher.bupt.edu.cn/liangmeiyu
-欧中洪,"['计算机学院', '博士生导师', '计算机学院（国家示范性软件学院', '计算机科学', '博士研究生', '博士学位', '计算机应用技术']",https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm
-熊永平,"['博士', '博士生导师', '博士学位']",https://teacher.bupt.edu.cn/xiongyongping
-熊翱,['博士学位'],https://teacher.bupt.edu.cn/xiongao
-牛少彰,"['博士学位', '计算机学院', '博士生导师']",https://teacher.bupt.edu.cn/niushaozhang
-牛琨,"['博士学位', '博士生导师', '博士研究生导师']",https://teacher.bupt.edu.cn/niukun
-王文东,"['博导', '计算机科学与工程系']",https://teacher.bupt.edu.cn/wangwendong/
-王柏,['博士'],https://teacher.bupt.edu.cn/wangbo
-王泉,"['博士生导师', '博士学位', '计算机科学', '博士研究生']",https://teacher.bupt.edu.cn/wangquan
-王洪波,"['博士生导师', '博士学位']",https://teacher.bupt.edu.cn/wanghongbo
-王玉龙,"['博士学位', '计算机学院']",https://teacher.bupt.edu.cn/wangyulong/zh_CN/index.htm
-王目,"['博士学位', '博士生导师']",https://teacher.bupt.edu.cn/wangmu/zh_CN/index.htm
-王红熳,"['博士', '博士学位', '博士[]']",https://teacher.bupt.edu.cn/wanghongman/zh_CN/index.htm
-王雅文,"['博士学位', '计算机科学与技术', '博士', '计算机学院']",https://teacher.bupt.edu.cn/wangyawen
-王颖,"['博士学位', '博士生导师', '计算机学院']",https://teacher.bupt.edu.cn/wangying3
-田野,['博士/硕士研究生导师'],https://teacher.bupt.edu.cn/tianye
-皮人杰,"['博士学位', '计算机学院']",https://teacher.bupt.edu.cn/pirenjie
-石川,"['博士学位', '博士生导师']",https://teacher.bupt.edu.cn/shichuan
-程渤,"['博士', '博士生导师']",https://teacher.bupt.edu.cn/chengbo
-章洋,"['博士学位', '计算机科学与技术专业']",https://teacher.bupt.edu.cn/zhangyang
-罗娟娟,"['博士', '博士学位']",https://teacher.bupt.edu.cn/luojuanjuan1
-罗红,"['计算机学院', '博士学位', '博士生导师', '博导']",https://teacher.bupt.edu.cn/luohong1
-芮兰兰,"['计算机学院', '博士学位', '博士生导师']",https://teacher.bupt.edu.cn/ruilanlan
-薛哲,"['计算机科学与技术', '计算机技术（工程', '博士学位']",https://teacher.bupt.edu.cn/xuezhe
-袁泉,['博士生导师'],https://teacher.bupt.edu.cn/yuanquan
-袁燕妮,"['计算机学院', '博士']",https://teacher.bupt.edu.cn/yuanyanni
-裴颂伟,['博/硕士生导师'],https://teacher.bupt.edu.cn/peisongwei
-许长桥,['博士生导师'],https://teacher.bupt.edu.cn/cqxu/zh_CN/index.htm
-谷勇浩,"['计算机学院', '博士学位', '博士']",https://teacher.bupt.edu.cn/guyonghao
-赵东,['博士生导师'],https://teacher.bupt.edu.cn/zhaodong
-赵帅,"['博士生导师', '博士学位']",https://teacher.bupt.edu.cn/zhaoshuai
-赵方,"['博士生导师', '计算机学院软件系统与工程中心']",https://teacher.bupt.edu.cn/zhaofang
-赵耀,"['博士学位', '计算机学院', '博士']",https://teacher.bupt.edu.cn/zhaoyao
-邱莉榕,"['计算机软件与理论', '博士学位']",https://teacher.bupt.edu.cn/qiulirong1/zh_CN/index.htm
-邵文华,['博士学位'],https://teacher.bupt.edu.cn/shaowenhua1
-邵苏杰,"['计算机学院', '博士学位']",https://teacher.bupt.edu.cn/shaosujie
-邵蓥侠,"['计算机学院', '博士生导师']",https://teacher.bupt.edu.cn/shaoyingxia
+杨放春,"['计算机科学与技术*', '计算机学院', '计算机通信', '计算机应用', '计算机科学与技术学院']",https://teacher.bupt.edu.cn/yangfangchun
+杨谈,['计算机学院'],https://teacher.bupt.edu.cn/yangtan/zh_CN/index.htm
+杨震,"['计算机科学与技术*', '计算机学院']",https://teacher.bupt.edu.cn/yangzhen
+林荣恒,"['计算机科学与技术', '计算机科学与技术*']",https://teacher.bupt.edu.cn/linrongheng
+梁洪亮,['计算机软件与理论方向'],https://teacher.bupt.edu.cn/lianghongliang/zh_CN/index.htm
+欧中洪,"['计算机学院', '计算机学院（国家示范性软件学院', '计算机科学', '计算机应用技术']",https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm
+牛少彰,['计算机学院'],https://teacher.bupt.edu.cn/niushaozhang
+王文东,['计算机科学与工程系'],https://teacher.bupt.edu.cn/wangwendong/
+王泉,['计算机科学'],https://teacher.bupt.edu.cn/wangquan
+王玉龙,['计算机学院'],https://teacher.bupt.edu.cn/wangyulong/zh_CN/index.htm
+王雅文,"['计算机科学与技术', '计算机学院']",https://teacher.bupt.edu.cn/wangyawen
+王颖,['计算机学院'],https://teacher.bupt.edu.cn/wangying3
+皮人杰,['计算机学院'],https://teacher.bupt.edu.cn/pirenjie
+章洋,['计算机科学与技术专业'],https://teacher.bupt.edu.cn/zhangyang
+罗红,['计算机学院'],https://teacher.bupt.edu.cn/luohong1
+芮兰兰,['计算机学院'],https://teacher.bupt.edu.cn/ruilanlan
+薛哲,"['计算机科学与技术', '计算机技术（工程']",https://teacher.bupt.edu.cn/xuezhe
+袁燕妮,['计算机学院'],https://teacher.bupt.edu.cn/yuanyanni
+谷勇浩,['计算机学院'],https://teacher.bupt.edu.cn/guyonghao
+赵方,['计算机学院软件系统与工程中心'],https://teacher.bupt.edu.cn/zhaofang
+赵耀,['计算机学院'],https://teacher.bupt.edu.cn/zhaoyao
+邱莉榕,['计算机软件与理论'],https://teacher.bupt.edu.cn/qiulirong1/zh_CN/index.htm
+邵苏杰,['计算机学院'],https://teacher.bupt.edu.cn/shaosujie
+邵蓥侠,['计算机学院'],https://teacher.bupt.edu.cn/shaoyingxia
 邹华,"['计算机软件专业', '计算机科学理论专业']",https://teacher.bupt.edu.cn/zouhua
-郑霄龙,"['博士生导师', '博士学位', '博士后助理研究员']",https://teacher.bupt.edu.cn/zhengxiaolong
-郭少勇,['博、硕导'],https://teacher.bupt.edu.cn/guoshaoyong
-郭迎,"['博士生导师', '博士学位', '博导']",https://teacher.bupt.edu.cn/guoying1/zh_CN/index.htm
-鄂海红,"['博士', '博士学位']",https://teacher.bupt.edu.cn/ehaihong
 金大海,"['计算机学院', '计算机学会']",https://teacher.bupt.edu.cn/jindahai
 闫丹凤,['计算机学院'],https://teacher.bupt.edu.cn/yandanfeng
-陆天波,"['博士', '博士生导师']",https://teacher.bupt.edu.cn/lutianbo
 陈兴渝,['计算机学院'],https://teacher.bupt.edu.cn/chenxingyu/zh_CN/index.htm
-陈勇,"['博士生导师', '博士学位', '计算机科学与技术*', '博士研究生']",https://teacher.bupt.edu.cn/chenyong
-陈晋鹏,"['计算机学院', '博士学位', '博士生导师']",https://teacher.bupt.edu.cn/chenjinpeng
-陈洪,['博士'],https://teacher.bupt.edu.cn/chenhong1/zh_CN/index.htm
-雷友珣,"['博士学位', '计算机学院']",https://teacher.bupt.edu.cn/leiyouxun
-马骁,"['计算机科学与技术专业', '博士学位', '计算机科学与技术', '博士']",https://teacher.bupt.edu.cn/maxiao1
+陈勇,['计算机科学与技术*'],https://teacher.bupt.edu.cn/chenyong
+陈晋鹏,['计算机学院'],https://teacher.bupt.edu.cn/chenjinpeng
+雷友珣,['计算机学院'],https://teacher.bupt.edu.cn/leiyouxun
+马骁,"['计算机科学与技术专业', '计算机科学与技术']",https://teacher.bupt.edu.cn/maxiao1
 高占春,['计算机学院'],https://teacher.bupt.edu.cn/gaozhanchun
-高志鹏,"['博士生导师', '博士学位', '博导', '博士']",https://teacher.bupt.edu.cn/gaozhipeng
-黄俊飞,"['计算机学院', '博士学位']",https://teacher.bupt.edu.cn/huangjunfei
-黄小红,"['计算机学院', '博士学位', '博士生导师', '博导']",https://teacher.bupt.edu.cn/huangxiaohong/
-黄智濒,"['博士', '博士学位']",https://teacher.bupt.edu.cn/huangzhibin
-齐梦实,"['博导', '博士', '博士后研究员', '计算机科学与技术', '博士研究生', '博士学位', '博士[]', '计算机学院', '计算机视觉实验室']",https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm
-龚向阳,"['博士生导师', '计算机组织与系统结构专业', '博士学位']",https://teacher.bupt.edu.cn/gongxiangyang
+黄俊飞,['计算机学院'],https://teacher.bupt.edu.cn/huangjunfei
+黄小红,['计算机学院'],https://teacher.bupt.edu.cn/huangxiaohong/
+齐梦实,"['计算机科学与技术', '计算机学院', '计算机视觉实验室']",https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm
+龚向阳,['计算机组织与系统结构专业'],https://teacher.bupt.edu.cn/gongxiangyang
