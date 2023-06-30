@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import re
 import requests
 from lxml import etree
+# 设置随机agent列表，用于反爬
 agent_list = [ "Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
                "Avant Browser/1.2.789rel1 (http://www.avantbrowser.com)",
                "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.0 Safari/532.5",
@@ -22,7 +23,7 @@ agent_list = [ "Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39
                "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10" ]
 headers = {
         "user-agent": random.choice(agent_list)
-    }  #设置头部内容，可以反反爬虫
+    }  #随机从列表中取user-agent
 # proxies = {
 #     "http": "http://127.0.0.1:7890",
 #     "https": "http://127.0.0.1:7890",
@@ -55,31 +56,31 @@ def get_teacher_url(department_url):
     response = requests.get(department_url,headers = headers)  #获得响应报文
     response.encoding = response.apparent_encoding
     html = etree.HTML(response.text,etree.HTMLParser())  #生成可以xpath的html信息树
-    result = html.xpath('//*[@id="vsb_content"]/div/table/tbody/tr/td/a')
+    result = html.xpath('//*[@id="vsb_content"]/div/table/tbody/tr/td/a') #获取存储姓名和url标签列表
     for a in result:
-        name = a.attrib['title']
-        url = a.attrib['href']
+        name = a.attrib['title'] #提取姓名
+        url = a.attrib['href']  #提取url
         if url!='#' and url!='':
-            teacher_url[name] = url
+            teacher_url[name] = url  #删去不合法的项
     return teacher_url
 
 
 def get_teacher_info(teacher_url):
     for name,url in teacher_url.items():
-        if url.startswith("hhttp"):
+        if url.startswith("hhttp"):    #修正url
             url = url.replace("hhttp", "http")
         response = requests.get(url,headers=headers)
         response.encoding = response.apparent_encoding
         html_content = response.text  # 生成可以xpath的html信息树
         soup = BeautifulSoup(html_content, 'html.parser')
         paragraphs = soup.find_all(['p', 'td', 'span','div'])
-        filtered_content =  filter_strings([tag.get_text() for tag in paragraphs])
-        longest_string = str(max(filtered_content, key=len))
-        longest_string_tight = re.sub(r'[\s\da-zA-Z]', '', longest_string)
+        filtered_content =  filter_strings([tag.get_text() for tag in paragraphs])  #筛选对应标签内的文本
+        longest_string = str(max(filtered_content, key=len)) #只保留最长文本（即个人信息文本）
+        longest_string_tight = re.sub(r'[\s\da-zA-Z]', '', longest_string)  #删去字母、数字、空格和回车以便bert处理
 
         with open(f'../CV_cabin_origin/{name}.txt', mode='w', encoding='utf-8') as info:
-            info.write(url+'\n')
-            info.write(longest_string_tight)
+            info.write(url+'\n')  #写入url
+            info.write(longest_string_tight) #写入处理后的文本
         time.sleep(random.uniform(0.5, 1))
 if __name__ == '__main__':
     if not os.path.exists('../CV_cabin_origin'):

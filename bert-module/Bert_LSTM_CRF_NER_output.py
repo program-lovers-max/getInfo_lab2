@@ -40,7 +40,7 @@ def read_data(file):
     return all_text,all_label
 
 def build_label(train_label):
-    label_2_index = {"PAD":0,"UNK":1}
+    label_2_index = {"PAD":0,"UNK":1}  #补充标签
     for label in train_label:
         for l in label:
             if l not in label_2_index:
@@ -49,24 +49,25 @@ def build_label(train_label):
 
 class BertDataset(Dataset):
     def __init__(self,all_text,all_label,label_2_index,max_len,tokenizer,is_test=True):
-        self.all_text = all_text
-        self.all_label = all_label
-        self.label_2_index = label_2_index
-        self.tokenizer = tokenizer
-        self.max_len = max_len
-        self.is_test = is_test
+        self.all_text = all_text  #所有文本
+        self.all_label = all_label  #所有标签
+        self.label_2_index = label_2_index  #标签索引字典
+        self.tokenizer = tokenizer  #编码器
+        self.max_len = max_len   #文本最大长度
+        self.is_test = is_test   #是否为测试
 
     def __getitem__(self,index):
-        if self.is_test:
+        if self.is_test:   #若是测试集，不截断
             self.max_len = len(self.all_label[index])
-
+        #取出文本和标签
         text = self.all_text[index]
         label = self.all_label[index][:self.max_len]
-
+        #对文本和标签进行编码，注意填充
         text_index = self.tokenizer.encode(text,add_special_tokens=True,max_length=self.max_len+2,padding="max_length",truncation=True,return_tensors="pt")
         label_index = [0] +  [self.label_2_index.get(l,1) for l in label] + [0] + [0] * (self.max_len - len(text))
-
+        #转为tensor格式
         label_index = torch.tensor(label_index)
+        #返回索引及长度信息以供模型使用
         return  text_index.reshape(-1),label_index,len(label)
 
     def __len__(self):
@@ -75,16 +76,18 @@ class BertDataset(Dataset):
 
 class Bert_LSTM_NerModel(nn.Module):
     def __init__(self,lstm_hidden,class_num):
-        super().__init__()
+        super().__init__()   #父类初始化
 
-        self.bert = BertModel.from_pretrained("bert_base_chinese")
-        for name,param in self.bert.named_parameters():
+        self.bert = BertModel.from_pretrained("bert_base_chinese")  #引用模型
+        for name,param in self.bert.named_parameters(): #减少特征，便于快速训练
             param.requires_grad = False
-
+        #引入层数为1的LSTM
         self.lstm = nn.LSTM(768,lstm_hidden,batch_first=True,num_layers=1,bidirectional=False) # 768 * lstm_hidden
+        #线性层作为分类器
         self.classifier = nn.Linear(lstm_hidden,class_num)
+        #条件随机场，第一维度为batch
         self.crf = CRF(class_num,batch_first=True)
-
+        #损失，有了crf后不再需要
         # self.loss_fun = nn.CrossEntropyLoss()
 
     def forward(self,batch_index,batch_label=None):
@@ -106,20 +109,20 @@ class Bert_LSTM_NerModel(nn.Module):
 if __name__ == "__main__":
 
 
-    train_text, train_label = read_data(os.path.join("data", "train.txt"))
-    dev_text,dev_label = read_data(os.path.join("data", "dev.txt"))
-    test_text,test_label = read_data(os.path.join("data", "test.txt"))
+    train_text, train_label = read_data(os.path.join("data", "train.txt")) #导入训练文件
+    dev_text,dev_label = read_data(os.path.join("data", "dev.txt")) #导入验证文件
+    test_text,test_label = read_data(os.path.join("data", "test.txt")) #导入测试文件
 
     label_2_index,index_2_label = build_label(train_label)
 
-    tokenizer = BertTokenizer.from_pretrained("bert_base_chinese")
-
-    batch_size = 50
-    epoch = 100
-    max_len = 30
-    lr = 0.0005
-    lstm_hidden = 128
-
+    tokenizer = BertTokenizer.from_pretrained("bert_base_chinese")  #使用目标编码器
+    #设置训练参数
+    batch_size = 50  #batch大小
+    epoch = 100   #轮次
+    max_len = 30  #训练时文本最大长度
+    lr = 0.0005  #学习率
+    lstm_hidden = 128  #lstm隐藏层大小
+    #模式选择
     do_train = False
     do_test = False
     do_input = False
@@ -136,8 +139,10 @@ if __name__ == "__main__":
     tmp = input()
     if tmp == 'True':
         do_input = True
+    #根据是否有cuda选择模式
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
     if do_train:
+        #创建数据集及加载
         train_dataset = BertDataset(train_text,train_label,label_2_index,max_len,tokenizer,is_test=False)
         train_dataloader = DataLoader(train_dataset,batch_size=batch_size,shuffle=False)
 

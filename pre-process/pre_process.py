@@ -11,9 +11,10 @@ if __name__ == '__main__':
         with open(teacher_info, mode='r', encoding='utf-8') as teacher:
             url = teacher.readline()
             content = teacher.read()
+            # 如果文本不合要求，则置标志删去
             if not content.startswith(('个人',teacher_name)):
                 flag = True
-            content = teacher_name+content
+            content = teacher_name+content  #为信息文本增加姓名
         with open(teacher_info, mode='w', encoding='utf-8') as teacher:
             teacher.write(url  + content)
         if flag:
