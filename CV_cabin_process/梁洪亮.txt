@@ -1,510 +1,511 @@
-个：O
-人：O
-简：O
-介：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-、：O
-博：B-TITLE
-/：I-TITLE
-硕：I-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-年：O
-获：O
-中：B-ORG
-国：I-ORG
-科：I-ORG
-学：I-ORG
-院：I-ORG
-软：I-ORG
-件：I-ORG
-研：I-ORG
-究：I-ORG
-所：E-ORG
-计：B-PRO
-算：I-PRO
-机：I-PRO
-软：I-PRO
-件：I-PRO
-与：I-PRO
-理：I-PRO
-论：I-PRO
-方：I-PRO
-向：E-PRO
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-。：O
-长：O
-期：O
-研：O
-究：O
-智：O
-能：O
-系：O
-统：O
-及：O
-可：O
-信：O
-软：O
-件：O
-方：O
-向：O
-，：O
-在：O
-、：O
-、：O
-、：O
-、：O
-、：O
-&：O
-、：O
-、：O
-、：O
-等：O
-国：B-ORG
-内：I-ORG
-外：O
-权：O
-威：O
-期：O
-刊：O
-和：O
-会：O
-议：O
-上：O
-已：O
-发：O
-表：O
-学：O
-术：O
-论：O
-文：O
-余：O
-篇：O
-，：O
-其：O
-中：O
-中：O
-科：O
-院：O
-分：O
-区：O
-区：O
-和：O
-区：O
-篇：O
-，：O
-类：O
-和：O
-类：O
-篇：O
-。：O
-获：O
-得：O
-北：O
-京：O
-市：O
-科：O
-技：O
-进：O
-步：O
-奖：O
-项：O
-。：O
-参：O
-与：O
-制：O
-定：O
-国：O
-家：O
-标：O
-准：O
-项：O
-。：O
-指：O
-导：O
-大：O
-学：O
-生：O
-和：O
-研：O
-究：O
-生：O
-创：O
-新：O
-创：O
-业：O
-项：O
-目：O
-项：O
-，：O
-其：O
-中：O
-获：O
-评：O
-国：O
-家：O
-级：O
-项：O
-。：O
-获：O
-评：O
-“：O
-中：O
-国：O
-科：O
-学：O
-院：O
-软：O
-件：O
-研：O
-究：O
-所：O
-研：O
-究：O
-生：O
-优：O
-秀：O
-指：O
-导：O
-教：O
-师：O
-”：O
-、：O
-“：O
-北：O
-京：O
-邮：O
-电：O
-大：I-ORG
-学：I-ORG
-大：I-ORG
-学：I-ORG
-生：I-TITLE
-创：I-TITLE
-新：I-TITLE
-创：I-TITLE
-业：I-TITLE
-优：O
-秀：O
-指：O
-导：O
-教：O
-师：O
-”：O
-。：O
-指：O
-导：O
-博：O
-士：O
-和：O
-硕：B-EDU
-士：I-EDU
-研：I-EDU
-究：I-EDU
-生：O
-余：O
-人：O
-，：O
-人：O
-获：O
-得：O
-研：O
-究：O
-生：O
-国：O
-家：O
-奖：O
-学：O
-金：O
-。：O
-主：O
-持：O
-和：O
-参：O
-与：O
-了：O
-国：O
-家：O
-各：O
-类：O
-科：O
-研：O
-项：O
-目：O
-余：O
-项：O
-，：O
-包：O
-括：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-项：O
-目：O
-项：O
-、：O
-国：O
-家：O
-课：O
-题：O
-项：O
-、：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-项：O
-、：O
-国：O
-家：O
-载：O
-人：O
-航：O
-天：O
-工：O
-程：O
-项：O
-目：O
-项：O
-、：O
-国：O
-防：O
-课：O
-题：O
-余：O
-项：O
-。：O
-研：O
-究：O
-成：O
-果：O
-获：O
-得：O
-国：O
-家：O
-部：O
-委：O
-机：O
-构：O
-和：O
-航：O
-空：O
-航：O
-天：O
-单：O
-位：O
-、：O
-思：B-ORG
-科：I-ORG
-、：O
-小：O
-米：O
-等：O
-公：O
-司：E-ORG
-的：O
-应：O
-用：O
-合：O
-作：O
-。：O
-智：O
-能：O
-系：O
-统：O
-类：O
-成：O
-果：O
-已：O
-经：O
-应：O
-用：O
-于：O
-国：O
-家：O
-信：O
-创：O
-事：O
-业：O
-基：O
-础：O
-软：O
-件：O
-产：O
-品：O
-中：O
-，：O
-并：O
-得：O
-到：O
-了：O
-、：O
-、：O
-、：O
-、：O
-、：O
-等：O
-主：O
-流：O
-开：O
-源：O
-社：O
-区：O
-的：O
-认：O
-可：O
-和：O
-肯：O
-定：O
-。：O
-可：O
-信：O
-软：O
-件：O
-类：O
-成：O
-果：O
-已：O
-经：O
-应：O
-用：O
-于：O
-国：O
-家：O
-长：O
-征：O
-号：O
-火：O
-箭：O
-软：O
-件：O
-控：O
-制：O
-系：O
-统：O
-、：O
-天：O
-宫：O
-空：O
-间：O
-站：O
-软：O
-件：O
-系：O
-统：O
-等：O
-重：O
-大：O
-型：O
-号：O
-任：O
-务：O
-中：O
-，：O
-得：O
-到：O
-了：O
-中：O
-国：O
-航：O
-天：O
-科：I-ORG
-技：I-ORG
-集：I-ORG
-团：I-ORG
-航：I-ORG
-天：I-ORG
-软：I-ORG
-件：O
-研：O
-发：O
-中：O
-心：E-ORG
-、：O
-航：O
-天：O
-装：O
-备：O
-软：O
-件：O
-评：O
-测：O
-中：O
-心：O
-的：O
-高：O
-度：O
-评：O
-价：O
-。：O
-教：O
-育：O
-经：O
-历：O
-[：O
-]：O
-中：B-ORG
-国：I-ORG
-科：I-ORG
-学：I-ORG
-院：I-ORG
-研：I-ORG
-究：I-ORG
-生：I-ORG
-院：E-ORG
-|：O
-|：O
-大：B-EDU
-学：I-EDU
-专：I-EDU
-科：E-EDU
-毕：O
-业：O
-|：O
-工：B-PRO
-学：E-PRO
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-[：I-EDU
-]：E-EDU
-中：B-ORG
-国：I-ORG
-石：I-ORG
-油：I-ORG
-大：I-ORG
-学：E-ORG
-|：I-ORG
-|：E-ORG
-大：B-EDU
-学：I-EDU
-专：I-EDU
-科：E-EDU
-毕：O
-业：O
-|：O
-理：B-PRO
-学：E-PRO
-硕：B-EDU
-士：I-EDU
+https://teacher.bupt.edu.cn/lianghongliang/zh_CN/index.htm
+梁 B-NAME
+洪 I-NAME
+亮 E-NAME
+个 O
+人 O
+简 O
+介 O
+计 O
+算 O
+机 O
+学 O
+院 O
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+、 O
+博 B-TITLE
+/ I-TITLE
+硕 I-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+年 O
+获 O
+中 B-ORG
+国 I-ORG
+科 I-ORG
+学 I-ORG
+院 I-ORG
+软 I-ORG
+件 I-ORG
+研 I-ORG
+究 I-ORG
+所 E-ORG
+计 B-PRO
+算 I-PRO
+机 I-PRO
+软 I-PRO
+件 I-PRO
+与 I-PRO
+理 I-PRO
+论 I-PRO
+方 I-PRO
+向 E-PRO
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+。 O
+长 O
+期 O
+研 O
+究 O
+智 O
+能 O
+系 O
+统 O
+及 O
+可 O
+信 O
+软 O
+件 O
+方 O
+向 O
+， O
+在 O
+、 O
+、 O
+、 O
+、 O
+、 O
+& O
+、 O
+、 O
+、 O
+等 O
+国 B-ORG
+内 I-ORG
+外 O
+权 O
+威 O
+期 O
+刊 O
+和 O
+会 O
+议 O
+上 O
+已 O
+发 O
+表 O
+学 O
+术 O
+论 O
+文 O
+余 O
+篇 O
+， O
+其 O
+中 O
+中 O
+科 O
+院 O
+分 O
+区 O
+区 O
+和 O
+区 O
+篇 O
+， O
+类 O
+和 O
+类 O
+篇 O
+。 O
+获 O
+得 O
+北 O
+京 O
+市 O
+科 O
+技 O
+进 O
+步 O
+奖 O
+项 O
+。 O
+参 O
+与 O
+制 O
+定 O
+国 O
+家 O
+标 O
+准 O
+项 O
+。 O
+指 O
+导 O
+大 O
+学 O
+生 O
+和 O
+研 O
+究 O
+生 O
+创 O
+新 O
+创 O
+业 O
+项 O
+目 O
+项 O
+， O
+其 O
+中 O
+获 O
+评 O
+国 O
+家 O
+级 O
+项 O
+。 O
+获 O
+评 O
+“ O
+中 O
+国 O
+科 O
+学 O
+院 O
+软 O
+件 O
+研 O
+究 O
+所 O
+研 O
+究 O
+生 O
+优 O
+秀 O
+指 O
+导 O
+教 O
+师 O
+” O
+、 O
+“ O
+北 O
+京 O
+邮 O
+电 O
+大 I-ORG
+学 I-ORG
+大 I-ORG
+学 I-ORG
+生 I-TITLE
+创 I-TITLE
+新 I-TITLE
+创 I-TITLE
+业 I-TITLE
+优 O
+秀 O
+指 I-TITLE
+导 I-TITLE
+教 I-TITLE
+师 E-TITLE
+” O
+。 O
+指 O
+导 O
+博 O
+士 O
+和 O
+硕 B-EDU
+士 I-EDU
+研 I-EDU
+究 I-EDU
+生 I-EDU
+余 O
+人 O
+， O
+人 O
+获 O
+得 O
+研 O
+究 O
+生 O
+国 O
+家 O
+奖 O
+学 O
+金 O
+。 O
+主 O
+持 O
+和 O
+参 O
+与 O
+了 O
+国 O
+家 O
+各 O
+类 O
+科 O
+研 O
+项 O
+目 O
+余 O
+项 O
+， O
+包 O
+括 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+项 O
+目 O
+项 O
+、 O
+国 O
+家 O
+课 O
+题 O
+项 O
+、 O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+项 O
+、 O
+国 O
+家 O
+载 O
+人 O
+航 O
+天 O
+工 O
+程 O
+项 O
+目 O
+项 O
+、 O
+国 O
+防 O
+课 O
+题 O
+余 O
+项 O
+。 O
+研 O
+究 O
+成 O
+果 O
+获 O
+得 O
+国 O
+家 O
+部 O
+委 O
+机 O
+构 O
+和 O
+航 O
+空 O
+航 O
+天 O
+单 O
+位 O
+、 O
+思 B-ORG
+科 I-ORG
+、 O
+小 O
+米 O
+等 O
+公 O
+司 E-ORG
+的 O
+应 O
+用 O
+合 O
+作 O
+。 O
+智 O
+能 O
+系 O
+统 O
+类 O
+成 O
+果 O
+已 O
+经 O
+应 O
+用 O
+于 O
+国 O
+家 O
+信 O
+创 O
+事 O
+业 O
+基 O
+础 O
+软 O
+件 O
+产 O
+品 O
+中 O
+， O
+并 O
+得 O
+到 O
+了 O
+、 O
+、 O
+、 O
+、 O
+、 O
+等 O
+主 O
+流 O
+开 O
+源 O
+社 O
+区 O
+的 O
+认 O
+可 O
+和 O
+肯 O
+定 O
+。 O
+可 O
+信 O
+软 O
+件 O
+类 O
+成 O
+果 O
+已 O
+经 O
+应 O
+用 O
+于 O
+国 O
+家 O
+长 O
+征 O
+号 O
+火 O
+箭 O
+软 O
+件 O
+控 O
+制 O
+系 O
+统 O
+、 O
+天 O
+宫 O
+空 O
+间 O
+站 O
+软 O
+件 O
+系 O
+统 O
+等 O
+重 O
+大 O
+型 O
+号 O
+任 O
+务 O
+中 O
+， O
+得 O
+到 O
+了 O
+中 O
+国 O
+航 O
+天 O
+科 I-ORG
+技 I-ORG
+集 I-ORG
+团 I-ORG
+航 I-ORG
+天 I-ORG
+软 I-ORG
+件 I-ORG
+研 I-ORG
+发 I-ORG
+中 I-ORG
+心 E-ORG
+、 O
+航 O
+天 O
+装 O
+备 O
+软 O
+件 O
+评 O
+测 O
+中 O
+心 O
+的 O
+高 O
+度 O
+评 O
+价 O
+。 O
+教 O
+育 O
+经 O
+历 O
+[ O
+] O
+中 B-ORG
+国 I-ORG
+科 I-ORG
+学 I-ORG
+院 I-ORG
+研 I-ORG
+究 I-ORG
+生 I-ORG
+院 E-ORG
+| O
+| O
+大 B-EDU
+学 I-EDU
+专 I-EDU
+科 E-EDU
+毕 O
+业 O
+| O
+工 B-PRO
+学 E-PRO
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+[ E-EDU
+] O
+中 B-ORG
+国 I-ORG
+石 I-ORG
+油 I-ORG
+大 I-ORG
+学 E-ORG
+| I-ORG
+| E-ORG
+大 B-EDU
+学 I-EDU
+专 I-EDU
+科 E-EDU
+毕 O
+业 O
+| O
+理 B-TITLE

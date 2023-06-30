@@ -1,285 +1,289 @@
-个：O
-人：O
-简：O
-介：O
-年：O
-月：O
--：O
-年：O
-月：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-学：O
-习：O
-，：O
-年：O
-获：O
-工：B-PRO
-学：E-PRO
-硕：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-。：O
-年：O
-赴：O
-日：B-ORG
-本：I-ORG
-系：I-ORG
-统：I-ORG
-开：I-ORG
-发：I-ORG
-中：I-ORG
-心：E-ORG
-参：O
-加：O
-计：O
-算：O
-机：O
-辅：O
-助：O
-软：O
-件：O
-工：O
-程：O
-工：O
-具：O
-的：O
-研：O
-究：O
-和：O
-开：O
-发：O
-一：O
-年：O
-，：O
-后：O
-从：O
-事：O
-教：O
-学：O
-科：O
-研：O
-工：O
-作：O
-至：O
-今：O
-。：O
-主：O
-要：O
-从：O
-事：O
-计：O
-算：O
-机：O
-网：O
-络：O
-交：O
-换：O
-设：O
-备：O
-的：O
-研：O
-究：O
-工：O
-作：O
-，：O
-科：O
-研：O
-成：O
-果：O
-应：O
-用：O
-于：O
-多：O
-家：O
-金：O
-融：O
-，：O
-水：O
-利：O
-，：O
-证：O
-券：O
-，：O
-国：O
-防：O
-等：O
-单：O
-位：O
-。：O
-作：O
-为：O
-项：O
-目：O
-主：O
-研：O
-人：O
-参：O
-加：O
-的：O
-国：O
-家：O
-和：O
-省：O
-部：O
-级：O
-项：O
-目：O
-有：O
-：：O
-项：O
-目：O
-“：O
-新：O
-一：O
-代：O
-国：O
-家：O
-空：O
-中：O
-交：O
-通：O
-管：O
-理：O
-系：O
-统：O
--：O
-航：O
-空：O
-电：O
-信：O
-网：O
-技：O
-术：O
-研：O
-究：O
-”：O
-、：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-计：O
-划：O
-“：O
-广：O
-域：O
-航：O
-空：O
-安：O
-全：O
-监：O
-控：O
-技：O
-术：O
-及：O
-应：O
-用：O
-”：O
-等：O
-。：O
-已：O
-完：O
-成：O
-的：O
-科：O
-研：O
-项：O
-目：O
-，：O
-有：O
-三：O
-项：O
-获：O
-得：O
-省：O
-部：O
-级：O
-奖：O
-励：O
-。：O
-“：O
-航：O
-空：O
-电：O
-信：O
-网：O
-路：O
-由：O
-器：O
-”：O
-，：O
-“：O
-电：O
-信：O
-与：O
-多：O
-媒：O
-体：O
-服：O
-务：O
-网：O
-格：O
-系：O
-统：O
-”：O
-，：O
-“：O
-传：O
-真：O
-数：I-TITLE
-据：I-TITLE
-网：I-TITLE
-设：I-TITLE
-备：I-TITLE
-（：O
-）：O
-”：O
-分：O
-别：O
-获：O
-得：O
-民：O
-航：O
-总：O
-局：O
-，：O
-中：B-ORG
-国：I-ORG
-电：I-ORG
-子：I-ORG
-学：I-ORG
-会：E-ORG
-，：O
-信：B-TITLE
-息：I-ORG
-产：I-ORG
-业：I-ORG
-部：E-ORG
-颁：O
-发：O
-的：O
-一：O
-等：O
-奖：O
-，：O
-二：O
-等：O
-奖：O
-和：O
-三：O
-等：O
-奖：O
-。：O
+https://teacher.bupt.edu.cn/jiangyanjun
+蒋 B-NAME
+砚 I-NAME
+军 E-NAME
+个 O
+人 O
+简 O
+介 O
+年 O
+月 O
+- O
+年 O
+月 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+学 O
+习 O
+， O
+年 O
+获 O
+工 B-PRO
+学 E-PRO
+硕 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+。 O
+年 O
+赴 O
+日 B-ORG
+本 I-ORG
+系 I-ORG
+统 I-ORG
+开 I-ORG
+发 I-ORG
+中 I-ORG
+心 E-ORG
+参 O
+加 O
+计 O
+算 O
+机 O
+辅 O
+助 O
+软 O
+件 O
+工 O
+程 O
+工 O
+具 O
+的 O
+研 O
+究 O
+和 O
+开 O
+发 O
+一 O
+年 O
+， O
+后 O
+从 O
+事 O
+教 O
+学 O
+科 O
+研 O
+工 O
+作 O
+至 O
+今 O
+。 O
+主 O
+要 O
+从 O
+事 O
+计 O
+算 O
+机 O
+网 O
+络 O
+交 O
+换 O
+设 O
+备 O
+的 O
+研 O
+究 O
+工 O
+作 O
+， O
+科 O
+研 O
+成 O
+果 O
+应 O
+用 O
+于 O
+多 O
+家 O
+金 O
+融 O
+， O
+水 O
+利 O
+， O
+证 O
+券 O
+， O
+国 O
+防 O
+等 O
+单 O
+位 O
+。 O
+作 O
+为 O
+项 O
+目 O
+主 O
+研 O
+人 O
+参 O
+加 O
+的 O
+国 O
+家 O
+和 O
+省 O
+部 O
+级 O
+项 O
+目 O
+有 O
+： O
+项 O
+目 O
+“ O
+新 O
+一 O
+代 O
+国 O
+家 O
+空 O
+中 O
+交 O
+通 O
+管 O
+理 O
+系 O
+统 O
+- O
+航 O
+空 O
+电 O
+信 O
+网 O
+技 O
+术 O
+研 O
+究 O
+” O
+、 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+计 O
+划 O
+“ O
+广 O
+域 O
+航 O
+空 O
+安 O
+全 O
+监 O
+控 O
+技 O
+术 O
+及 O
+应 O
+用 O
+” O
+等 O
+。 O
+已 O
+完 O
+成 O
+的 O
+科 O
+研 O
+项 O
+目 O
+， O
+有 O
+三 O
+项 O
+获 O
+得 O
+省 O
+部 O
+级 O
+奖 O
+励 O
+。 O
+“ O
+航 O
+空 O
+电 O
+信 O
+网 O
+路 O
+由 O
+器 O
+” O
+， O
+“ O
+电 O
+信 O
+与 O
+多 O
+媒 O
+体 O
+服 O
+务 O
+网 O
+格 O
+系 O
+统 O
+” O
+， O
+“ O
+传 O
+真 O
+数 I-TITLE
+据 I-TITLE
+网 I-TITLE
+设 I-TITLE
+备 I-TITLE
+（ O
+） O
+” O
+分 O
+别 O
+获 O
+得 O
+民 O
+航 O
+总 O
+局 O
+， O
+中 B-ORG
+国 I-ORG
+电 I-ORG
+子 I-ORG
+学 I-ORG
+会 E-ORG
+， O
+信 B-TITLE
+息 I-ORG
+产 I-ORG
+业 I-ORG
+部 E-ORG
+颁 O
+发 O
+的 O
+一 O
+等 O
+奖 O
+， O
+二 O
+等 O
+奖 O
+和 O
+三 O
+等 O
+奖 O
+。 O

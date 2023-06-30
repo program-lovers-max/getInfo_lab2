@@ -1,116 +1,120 @@
-牛：B-NAME
-少：I-NAME
-彰：E-NAME
-学：O
-位：O
-：：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-职：O
-称：O
-：：O
-教：B-TITLE
-授：E-TITLE
-所：O
-在：O
-单：O
-位：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：O
-示：O
-范：O
-性：O
-软：O
-件：O
-学：I-ORG
-院：E-ORG
-）：O
-教：B-TITLE
-师：E-TITLE
-英：O
-文：O
-名：O
-称：O
-：：O
-电：O
-子：O
-邮：O
-箱：O
-：：O
-@：O
-.：O
-.：O
-学：O
-历：O
-：：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-毕：O
-业：O
-办：O
-公：O
-地：O
-点：O
-：：O
-教：O
-三：O
-楼：O
-性：O
-别：O
-：：O
-男：O
-在：O
-职：O
-信：O
-息：O
-：：O
-在：O
-职：O
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-硕：I-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-所：O
-属：O
-院：O
-系：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-硕：I-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-扫：O
-一：O
-扫：O
-用：O
-手：O
-机：O
-查：O
-看：O
+https://teacher.bupt.edu.cn/niushaozhang
+牛 B-NAME
+少 I-NAME
+彰 E-NAME
+牛 B-NAME
+少 I-NAME
+彰 E-NAME
+学 O
+位 O
+： O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+职 O
+称 O
+： O
+教 B-TITLE
+授 E-TITLE
+所 O
+在 O
+单 O
+位 O
+： O
+计 B-TITLE
+算 I-TITLE
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 O
+性 O
+软 O
+件 O
+学 I-ORG
+院 E-ORG
+） O
+教 B-TITLE
+师 E-TITLE
+英 O
+文 O
+名 O
+称 O
+： O
+电 O
+子 O
+邮 O
+箱 O
+： O
+@ O
+. O
+. O
+学 O
+历 O
+： O
+研 B-EDU
+究 I-EDU
+生 E-EDU
+毕 O
+业 O
+办 O
+公 O
+地 O
+点 O
+： O
+教 O
+三 O
+楼 O
+性 O
+别 O
+： O
+男 O
+在 O
+职 O
+信 O
+息 O
+： O
+在 O
+职 O
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+硕 I-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+所 O
+属 O
+院 O
+系 O
+： O
+计 O
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+硕 I-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+扫 O
+一 O
+扫 O
+用 O
+手 O
+机 O
+查 O
+看 O

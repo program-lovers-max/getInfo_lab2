@@ -1,445 +1,449 @@
-个：O
-人：O
-简：O
-介：O
-袁：B-NAME
-燕：I-NAME
-妮：E-NAME
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-，：O
-计：B-PRO
-算：I-PRO
-机：I-PRO
-学：I-PRO
-院：E-ORG
-，：O
-讲：B-TITLE
-师：E-TITLE
-。：O
-博：B-EDU
-士：E-EDU
-，：O
-讲：B-TITLE
-师：E-TITLE
-。：O
-主：O
-要：O
-研：O
-究：O
-方：O
-向：O
-：：O
-数：O
-据：O
-科：O
-学：O
-与：O
-大：O
-数：O
-据：O
-技：O
-术：O
-、：O
-智：O
-能：O
-信：O
-息：O
-处：O
-理：O
-与：O
-分：O
-析：O
-。：O
-现：O
-在：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：I-ORG
-家：I-ORG
-示：I-ORG
-范：I-ORG
-性：I-ORG
-软：I-ORG
-件：I-ORG
-学：I-ORG
-院：E-ORG
-）：O
-数：B-PRO
-据：I-PRO
-科：I-ORG
-学：I-ORG
-与：I-ORG
-服：I-ORG
-务：I-ORG
-中：I-ORG
-心：E-ORG
-工：O
-作：O
-，：O
-近：O
-五：O
-年：O
-承：O
-担：O
-及：O
-参：O
-与：O
-寄：O
-递：O
-、：O
-电：O
-力：O
-、：O
-电：O
-信：O
-等：O
-行：O
-业：O
-多：O
-个：O
-项：O
-目：O
-的：O
-研：O
-发：O
-工：O
-作：O
-。：O
-教：O
-学：O
-工：O
-作：O
-方：O
-面：O
-，：O
-近：O
-三：O
-年：O
-作：O
-为：O
-课：O
-程：O
-负：O
-责：O
-人：O
-承：O
-担：O
-课：O
-程：O
-主：O
-要：O
-有：O
-：：O
-、：O
-数：O
-据：O
-科：O
-学：O
-与：O
-大：O
-数：O
-据：O
-技：O
-术：O
-专：O
-业：O
-核：O
-心：O
-课：O
-《：O
-数：O
-据：O
-库：O
-技：O
-术：O
-》：O
-，：O
-学：O
-分：O
-；：O
-、：O
-计：O
-算：O
-机：O
-科：O
-学：O
-与：O
-技：O
-术：O
-专：O
-业：E-PRO
-选：O
-修：O
-课：O
-《：O
-开：O
-发：O
-技：O
-术：O
-》：O
-，：O
-学：O
-分：O
-；：O
-、：O
-国：O
-际：O
-学：I-ORG
-院：E-ORG
-物：B-PRO
-联：I-PRO
-网：I-PRO
-工：I-PRO
-程：I-PRO
-等：I-PRO
-专：I-PRO
-业：E-PRO
-的：O
-专：B-EDU
-业：E-PRO
-选：O
-修：O
-课：O
-《：O
-数：B-TITLE
-据：I-TITLE
-仓：I-TITLE
-库：I-TITLE
-与：I-TITLE
-数：I-TITLE
-据：I-TITLE
-挖：I-TITLE
-掘：I-TITLE
-》：O
-，：O
-学：O
-分：O
-；：O
-主：O
-持：O
-并：O
-参：O
-与：O
-多：O
-项：O
-教：O
-改：O
-工：O
-作：O
-，：O
-近：O
-五：O
-年：O
-主：O
-要：O
-有：O
-：：O
-、：O
-主：O
-持：O
-年：O
-计：O
-算：O
-机：O
-学：O
-院：O
-数：O
-据：O
-科：O
-学：O
-与：O
-大：O
-数：O
-据：O
-技：O
-术：O
-专：O
-业：O
-数：O
-据：O
-库：O
-技：O
-术：O
-高：O
-新：O
-课：O
-程：O
-建：O
-设：O
-项：O
-目：O
-；：O
-、：O
-主：O
-持：O
-年：O
-度：O
-立：O
-项：O
-的：O
-校：O
-级：O
-教：O
-改：O
-《：O
-新：O
-工：O
-科：O
-数：O
-据：O
-科：O
-学：O
-与：O
-大：O
-数：O
-据：O
-技：O
-术：O
-专：O
-业：O
-数：O
-据：O
-库：O
-技：O
-术：O
-课：O
-程：O
-建：O
-设：O
-方：O
-案：O
-研：O
-究：O
-》：O
-项：O
-目：O
-；：O
-、：O
-参：O
-与：O
-王：O
-柏：O
-教：O
-授：O
-负：O
-责：O
-的：O
-年：O
-度：O
-国：O
-家：O
-级：O
-教：O
-改：O
-《：O
-面：O
-向：O
-新：O
-经：O
-济：O
-的：O
-多：O
-学：O
-科：O
-交：O
-叉：O
-大：O
-数：O
-据：O
-专：O
-业：O
-建：O
-设：O
-及：O
-人：O
-才：O
-培：O
-养：O
-路：O
-径：O
-探：O
-索：O
-与：O
-实：O
-践：O
-》：O
-项：O
-目：O
-，：O
-及：O
-年：O
-度：O
-立：O
-项：O
-校：O
-级：O
-教：O
-改：O
-《：O
-面：O
-向：O
-新：O
-经：O
-济：O
-的：O
-大：O
-数：O
-据：O
-专：O
-业：O
-人：O
-才：O
-培：O
-养：O
-路：O
-径：O
-探：O
-索：O
-与：O
-实：O
-践：O
-》：O
-项：O
-目：O
-；：O
-编：O
-写：O
-教：O
-材：O
-一：O
-部：O
-：：O
-、：O
-袁：O
-燕：O
-妮：O
-.：O
-数：O
-据：O
-库：O
-技：O
-术：O
-.：O
-北：O
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-出：I-ORG
-版：I-ORG
-社：E-ORG
-.：E-ORG
-年：O
-月：O
-.：O
+https://teacher.bupt.edu.cn/yuanyanni
+袁 B-NAME
+燕 I-NAME
+妮 E-NAME
+个 O
+人 O
+简 O
+介 O
+袁 O
+燕 O
+妮 O
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+， O
+计 B-PRO
+算 I-PRO
+机 I-PRO
+学 I-PRO
+院 E-ORG
+， O
+讲 B-TITLE
+师 E-TITLE
+。 O
+博 B-EDU
+士 E-EDU
+， O
+讲 B-TITLE
+师 E-TITLE
+。 O
+主 O
+要 O
+研 O
+究 O
+方 O
+向 O
+： O
+数 O
+据 O
+科 O
+学 O
+与 O
+大 O
+数 O
+据 O
+技 O
+术 O
+、 O
+智 O
+能 O
+信 O
+息 O
+处 O
+理 O
+与 O
+分 O
+析 O
+。 O
+现 O
+在 O
+计 O
+算 O
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 I-ORG
+家 I-ORG
+示 I-ORG
+范 I-ORG
+性 I-ORG
+软 I-ORG
+件 I-ORG
+学 I-ORG
+院 E-ORG
+） O
+数 B-PRO
+据 I-PRO
+科 I-ORG
+学 I-ORG
+与 I-ORG
+服 I-ORG
+务 I-ORG
+中 I-ORG
+心 E-ORG
+工 O
+作 O
+， O
+近 O
+五 O
+年 O
+承 O
+担 O
+及 O
+参 O
+与 O
+寄 O
+递 O
+、 O
+电 O
+力 O
+、 O
+电 O
+信 O
+等 O
+行 O
+业 O
+多 O
+个 O
+项 O
+目 O
+的 O
+研 O
+发 O
+工 O
+作 O
+。 O
+教 O
+学 O
+工 O
+作 O
+方 O
+面 O
+， O
+近 O
+三 O
+年 O
+作 O
+为 O
+课 O
+程 O
+负 O
+责 O
+人 O
+承 O
+担 O
+课 O
+程 O
+主 O
+要 O
+有 O
+： O
+、 O
+数 O
+据 O
+科 O
+学 O
+与 O
+大 O
+数 O
+据 O
+技 O
+术 O
+专 O
+业 O
+核 O
+心 O
+课 O
+《 O
+数 O
+据 O
+库 O
+技 O
+术 O
+》 O
+， O
+学 O
+分 O
+； O
+、 O
+计 O
+算 O
+机 O
+科 O
+学 O
+与 O
+技 O
+术 O
+专 O
+业 E-PRO
+选 O
+修 O
+课 O
+《 O
+开 O
+发 O
+技 O
+术 O
+》 O
+， O
+学 O
+分 O
+； O
+、 O
+国 O
+际 O
+学 O
+院 E-ORG
+物 B-PRO
+联 I-PRO
+网 I-PRO
+工 I-PRO
+程 I-PRO
+等 I-PRO
+专 I-PRO
+业 E-PRO
+的 O
+专 B-EDU
+业 E-PRO
+选 O
+修 O
+课 O
+《 O
+数 B-TITLE
+据 I-TITLE
+仓 I-TITLE
+库 I-TITLE
+与 I-TITLE
+数 I-TITLE
+据 I-TITLE
+挖 I-TITLE
+掘 I-TITLE
+》 O
+， O
+学 O
+分 O
+； O
+主 O
+持 O
+并 O
+参 O
+与 O
+多 O
+项 O
+教 O
+改 O
+工 O
+作 O
+， O
+近 O
+五 O
+年 O
+主 O
+要 O
+有 O
+： O
+、 O
+主 O
+持 O
+年 O
+计 O
+算 O
+机 O
+学 O
+院 O
+数 O
+据 O
+科 O
+学 O
+与 O
+大 O
+数 O
+据 O
+技 O
+术 O
+专 O
+业 O
+数 O
+据 O
+库 O
+技 O
+术 O
+高 O
+新 O
+课 O
+程 O
+建 O
+设 O
+项 O
+目 O
+； O
+、 O
+主 O
+持 O
+年 O
+度 O
+立 O
+项 O
+的 O
+校 O
+级 O
+教 O
+改 O
+《 O
+新 O
+工 O
+科 O
+数 O
+据 O
+科 O
+学 O
+与 O
+大 O
+数 O
+据 O
+技 O
+术 O
+专 O
+业 O
+数 O
+据 O
+库 O
+技 O
+术 O
+课 O
+程 O
+建 O
+设 O
+方 O
+案 O
+研 O
+究 O
+》 O
+项 O
+目 O
+； O
+、 O
+参 O
+与 O
+王 O
+柏 O
+教 O
+授 O
+负 O
+责 O
+的 O
+年 O
+度 O
+国 O
+家 O
+级 O
+教 O
+改 O
+《 O
+面 O
+向 O
+新 O
+经 O
+济 O
+的 O
+多 O
+学 O
+科 O
+交 O
+叉 O
+大 O
+数 O
+据 O
+专 O
+业 O
+建 O
+设 O
+及 O
+人 O
+才 O
+培 O
+养 O
+路 O
+径 O
+探 O
+索 O
+与 O
+实 O
+践 O
+》 O
+项 O
+目 O
+， O
+及 O
+年 O
+度 O
+立 O
+项 O
+校 O
+级 O
+教 O
+改 O
+《 O
+面 O
+向 O
+新 O
+经 O
+济 O
+的 O
+大 O
+数 O
+据 O
+专 O
+业 O
+人 O
+才 O
+培 O
+养 O
+路 O
+径 O
+探 O
+索 O
+与 O
+实 O
+践 O
+》 O
+项 O
+目 O
+； O
+编 O
+写 O
+教 O
+材 O
+一 O
+部 O
+： O
+、 O
+袁 O
+燕 O
+妮 O
+. O
+数 O
+据 O
+库 O
+技 O
+术 O
+. O
+北 O
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+出 I-ORG
+版 I-ORG
+社 E-ORG
+. E-ORG
+年 O
+月 O
+. O

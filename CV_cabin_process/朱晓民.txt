@@ -1,429 +1,433 @@
-个：O
-人：O
-简：O
-介：O
-朱：B-NAME
-晓：I-NAME
-民：E-NAME
-：：O
-男：O
-，：O
-汉：B-RACE
-族：E-RACE
-，：O
-年：O
-生：O
-，：O
-浙：B-LOC
-江：I-LOC
-义：I-LOC
-乌：I-LOC
-人：E-LOC
-。：O
-年：O
-获：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-通：B-PRO
-信：I-PRO
-与：I-PRO
-信：I-PRO
-息：I-PRO
-系：I-PRO
-统：I-PRO
-专：I-PRO
-业：E-PRO
-工：B-PRO
-学：E-PRO
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-，：O
-硕：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-，：O
-中：B-ORG
-国：I-ORG
-电：I-ORG
-子：I-ORG
-学：I-ORG
-会：E-ORG
-高：B-TITLE
-级：I-TITLE
-会：I-TITLE
-员：E-TITLE
-，：O
-中：B-ORG
-国：I-ORG
-通：I-ORG
-信：I-ORG
-学：I-ORG
-会：E-ORG
-高：B-TITLE
-级：I-TITLE
-会：I-TITLE
-员：E-TITLE
-。：O
-作：O
-为：O
-主：O
-研：O
-人：O
-参：O
-与：O
-了：O
-国：O
-家：O
-计：O
-划：O
-项：O
-目：O
-，：O
-国：O
-家：O
-计：O
-划：O
-项：O
-目：O
-，：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-重：O
-大：O
-项：O
-目：O
-，：O
-高：B-ORG
-等：I-ORG
-学：I-ORG
-校：I-ORG
-博：I-ORG
-士：I-EDU
-学：I-EDU
-科：I-EDU
-点：I-EDU
-专：I-EDU
-项：O
-科：O
-研：O
-基：O
-金：O
-课：O
-题：O
-，：O
-国：B-ORG
-家：I-ORG
-移：I-ORG
-动：I-ORG
-通：I-ORG
-信：I-ORG
-产：I-ORG
-品：E-ORG
-研：O
-究：O
-开：O
-发：O
-专：O
-项：O
-基：O
-金：O
-项：O
-目：O
-，：O
-电：O
-子：O
-信：O
-息：O
-产：O
-业：O
-发：I-ORG
-展：I-ORG
-基：I-ORG
-金：I-ORG
-重：I-ORG
-点：I-ORG
-项：I-ORG
-目：I-ORG
-等：O
-多：O
-项：O
-科：O
-研：O
-项：O
-目：O
-。：O
-软：O
-件：O
-学：O
-报：O
-、：O
-电：O
-子：O
-学：O
-报：O
-、：O
-通：O
-信：O
-学：O
-报：O
-、：O
-电：O
-子：O
-与：O
-信：O
-息：O
-学：O
-报：O
-等：O
-诸：O
-多：O
-学：O
-术：O
-刊：O
-物：O
-及：O
-国：O
-际：O
-学：O
-术：O
-会：O
-议：O
-的：O
-审：O
-稿：O
-人：E-TITLE
-。：O
-已：O
-在：O
-国：O
-内：O
-外：O
-学：O
-术：O
-期：O
-刊：O
-及：O
-会：O
-议：O
-上：O
-发：O
-表：O
-论：O
-文：O
-余：O
-篇：O
-，：O
-其：O
-中：O
-一：O
-篇：O
-论：O
-文：O
-获：O
-国：O
-际：O
-学：O
-术：O
-会：O
-议：O
-优：O
-秀：O
-论：O
-文：O
-奖：O
-。：O
-年：O
-月：O
-获：O
-中：O
-国：O
-通：O
-信：O
-学：O
-会：O
-科：O
-学：O
-技：O
-术：O
-奖：O
-一：O
-等：O
-奖：O
-，：O
-年：O
-月：O
-获：O
-国：O
-家：O
-科：O
-学：O
-技：O
-术：O
-进：O
-步：O
-奖：O
-二：O
-等：O
-奖：O
-，：O
-年：O
-月：O
-获：O
-信：O
-息：O
-产：O
-业：O
-部：O
-重：O
-大：O
-技：O
-术：O
-发：O
-明：O
-，：O
-年：O
-月：O
-获：O
-教：O
-育：O
-部：O
-科：O
-学：O
-技：O
-术：O
-进：O
-步：O
-奖：O
-推：O
-广：O
-类：O
-一：O
-等：O
-奖：O
-，：O
-年：O
-月：O
-获：O
-中：O
-国：O
-通：O
-信：O
-学：O
-会：O
-科：O
-学：O
-技：O
-术：O
-奖：O
-一：O
-等：O
-奖：O
-，：O
-年：O
-月：O
-获：O
-国：O
-家：O
-科：O
-学：O
-技：O
-术：O
-进：O
-步：O
-奖：O
-二：O
-等：O
-奖：O
-，：O
-年：O
-月：O
-获：O
-中：O
-国：O
-专：O
-利：O
-优：O
-秀：O
-奖：O
-，：O
-年：O
-月：O
-获：O
-教：O
-育：O
-部：O
-科：O
-学：O
-技：O
-术：O
-进：O
-步：O
-奖：O
-二：O
-等：O
-奖：O
-。：O
-作：O
-为：O
-发：O
-明：O
-人：O
-之：O
-一：O
-已：O
-获：O
-得：O
-项：O
-发：O
-明：O
-专：O
-利：O
-授：O
-权：O
-。：O
-目：O
-前：O
-主：O
-要：O
-从：O
-事：O
-智：O
-能：O
-网：O
-络：O
-、：O
-协：O
-议：O
-工：O
-程：O
-等：O
-领：O
-域：O
-的：O
-研：O
-究：O
-。：O
+https://teacher.bupt.edu.cn/zhuxiaomin/zh_CN/index.htm
+朱 B-NAME
+晓 I-NAME
+民 E-NAME
+个 O
+人 O
+简 O
+介 O
+朱 B-NAME
+晓 I-NAME
+民 E-NAME
+： O
+男 O
+， O
+汉 B-RACE
+族 E-RACE
+， O
+年 O
+生 O
+， O
+浙 B-LOC
+江 I-LOC
+义 I-LOC
+乌 I-LOC
+人 E-LOC
+。 O
+年 O
+获 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+通 B-PRO
+信 I-PRO
+与 I-PRO
+信 I-PRO
+息 I-PRO
+系 I-PRO
+统 I-PRO
+专 I-PRO
+业 E-PRO
+工 B-PRO
+学 E-PRO
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+， O
+硕 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+， O
+中 B-ORG
+国 I-ORG
+电 I-ORG
+子 I-ORG
+学 I-ORG
+会 E-ORG
+高 B-TITLE
+级 I-TITLE
+会 I-TITLE
+员 E-TITLE
+， O
+中 B-ORG
+国 I-ORG
+通 I-ORG
+信 I-ORG
+学 I-ORG
+会 E-ORG
+高 B-TITLE
+级 I-TITLE
+会 I-TITLE
+员 E-TITLE
+。 O
+作 O
+为 O
+主 O
+研 O
+人 O
+参 O
+与 O
+了 O
+国 O
+家 O
+计 O
+划 O
+项 O
+目 O
+， O
+国 O
+家 O
+计 O
+划 O
+项 O
+目 O
+， O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+重 O
+大 O
+项 O
+目 O
+， O
+高 B-ORG
+等 I-ORG
+学 I-ORG
+校 I-ORG
+博 I-ORG
+士 I-EDU
+学 I-EDU
+科 I-EDU
+点 O
+专 O
+项 O
+科 O
+研 O
+基 O
+金 O
+课 O
+题 O
+， O
+国 B-ORG
+家 I-ORG
+移 I-ORG
+动 I-ORG
+通 I-ORG
+信 I-ORG
+产 I-ORG
+品 E-ORG
+研 O
+究 O
+开 O
+发 O
+专 O
+项 O
+基 O
+金 O
+项 O
+目 O
+， O
+电 O
+子 O
+信 O
+息 O
+产 I-ORG
+业 I-ORG
+发 I-ORG
+展 I-ORG
+基 I-ORG
+金 I-ORG
+重 I-ORG
+点 I-ORG
+项 I-ORG
+目 I-ORG
+等 O
+多 O
+项 O
+科 O
+研 O
+项 O
+目 O
+。 O
+软 O
+件 O
+学 O
+报 O
+、 O
+电 O
+子 O
+学 O
+报 O
+、 O
+通 O
+信 O
+学 O
+报 O
+、 O
+电 O
+子 O
+与 O
+信 O
+息 O
+学 O
+报 O
+等 O
+诸 O
+多 O
+学 O
+术 O
+刊 O
+物 O
+及 O
+国 O
+际 O
+学 O
+术 O
+会 O
+议 O
+的 O
+审 B-TITLE
+稿 I-TITLE
+人 E-TITLE
+。 O
+已 O
+在 O
+国 O
+内 O
+外 O
+学 O
+术 O
+期 O
+刊 O
+及 O
+会 O
+议 O
+上 O
+发 O
+表 O
+论 O
+文 O
+余 O
+篇 O
+， O
+其 O
+中 O
+一 O
+篇 O
+论 O
+文 O
+获 O
+国 O
+际 O
+学 O
+术 O
+会 O
+议 O
+优 O
+秀 O
+论 O
+文 O
+奖 O
+。 O
+年 O
+月 O
+获 O
+中 O
+国 O
+通 O
+信 O
+学 O
+会 O
+科 O
+学 O
+技 O
+术 O
+奖 O
+一 O
+等 O
+奖 O
+， O
+年 O
+月 O
+获 O
+国 O
+家 O
+科 O
+学 O
+技 O
+术 O
+进 O
+步 O
+奖 O
+二 O
+等 O
+奖 O
+， O
+年 O
+月 O
+获 O
+信 O
+息 O
+产 O
+业 O
+部 O
+重 O
+大 O
+技 O
+术 O
+发 O
+明 O
+， O
+年 O
+月 O
+获 O
+教 O
+育 O
+部 O
+科 O
+学 O
+技 O
+术 O
+进 O
+步 O
+奖 O
+推 O
+广 O
+类 O
+一 O
+等 O
+奖 O
+， O
+年 O
+月 O
+获 O
+中 O
+国 O
+通 O
+信 O
+学 O
+会 O
+科 O
+学 O
+技 O
+术 O
+奖 O
+一 O
+等 O
+奖 O
+， O
+年 O
+月 O
+获 O
+国 O
+家 O
+科 O
+学 O
+技 O
+术 O
+进 O
+步 O
+奖 O
+二 O
+等 O
+奖 O
+， O
+年 O
+月 O
+获 O
+中 O
+国 O
+专 O
+利 O
+优 O
+秀 O
+奖 O
+， O
+年 O
+月 O
+获 O
+教 O
+育 O
+部 O
+科 O
+学 O
+技 O
+术 O
+进 O
+步 O
+奖 O
+二 O
+等 O
+奖 O
+。 O
+作 O
+为 O
+发 O
+明 O
+人 O
+之 O
+一 O
+已 O
+获 O
+得 O
+项 O
+发 O
+明 O
+专 O
+利 O
+授 O
+权 O
+。 O
+目 O
+前 O
+主 O
+要 O
+从 O
+事 O
+智 O
+能 O
+网 O
+络 O
+、 O
+协 O
+议 O
+工 O
+程 O
+等 O
+领 O
+域 O
+的 O
+研 O
+究 O
+。 O

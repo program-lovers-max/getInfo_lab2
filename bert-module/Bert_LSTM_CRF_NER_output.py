@@ -246,6 +246,6 @@ if __name__ == "__main__":
                 pre = pre[0][1:-1]
                 pre = [index_2_label[i] for i in pre]
                 with open(f'../CV_cabin_process/{teacher_name}.txt', mode='w', encoding='utf-8') as info:
-                    info.write(url+'\n')
-                    info.write("\n".join([f"{w}：{t}" for w,t in zip(text,pre)]))
+                    info.write(url)
+                    info.write("\n".join([f"{w} {t}" for w,t in zip(text,pre)]))
 

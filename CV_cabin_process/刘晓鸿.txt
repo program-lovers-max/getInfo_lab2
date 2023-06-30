@@ -1,415 +1,419 @@
-刘：B-NAME
-晓：I-NAME
-鸿：E-NAME
-（：O
-硕：O
-导：O
-）：O
-来：O
-源：O
-：：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-发：O
-布：O
-日：O
-期：O
-：：O
--：O
--：O
-浏：O
-览：O
-量：O
-：：O
-次：O
-姓：O
-名：O
-刘：B-NAME
-晓：I-NAME
-鸿：E-NAME
-性：O
-别：O
-男：O
-职：O
-务：O
-学：O
-术：O
-兼：O
-职：O
-老：O
-师：O
-类：O
-型：O
-硕：O
-导：O
-所：O
-属：O
-中：O
-心：O
-计：O
-算：O
-机：O
-应：O
-用：O
-技：O
-术：O
-中：O
-心：E-ORG
-职：O
-称：O
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-承：O
-担：O
-课：O
-程：O
-算：O
-法：O
-设：O
-计：O
-与：O
-分：O
-析：O
-算：O
-法：O
-分：O
-析：O
-与：O
-设：O
-计：O
-可：O
-计：O
-算：O
-性：O
-理：O
-论：O
-研：O
-究：O
-方：O
-向：O
-嵌：O
-入：O
-式：O
-系：O
-统：O
-，：O
-无：O
-线：O
-通：O
-信：O
-个：O
-人：O
-介：O
-绍：O
-年：O
-月：O
-，：O
-毕：O
-业：O
-于：O
-中：B-ORG
-国：I-ORG
-科：I-ORG
-学：I-ORG
-院：I-ORG
-自：I-ORG
-动：I-ORG
-化：I-ORG
-研：I-ORG
-究：I-ORG
-所：E-ORG
-模：B-PRO
-式：I-PRO
-识：I-PRO
-别：I-PRO
-与：I-PRO
-智：I-PRO
-能：I-PRO
-控：I-PRO
-制：I-PRO
-专：I-PRO
-业：E-PRO
-，：O
-获：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-年：O
-月：O
-起：O
-至：O
-今：O
-，：O
-工：O
-作：O
-于：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-承：O
-担：O
-课：O
-题：O
-目：O
-前：O
-的：O
-研：O
-究：O
-方：O
-向：O
-主：O
-要：O
-集：O
-中：O
-在：O
-下：O
-述：O
-四：O
-个：O
-方：O
-面：O
-：：O
-（：O
-）：O
-嵌：O
-入：O
-式：O
-实：O
-时：O
-系：O
-统：O
-，：O
-除：O
-及：O
-等：O
-商：O
-用：O
-系：O
-统：O
-外：O
-，：O
-还：O
-有：O
-自：O
-由：O
-软：O
-件：O
-嵌：O
-入：O
-式：O
-系：O
-统：O
-的：O
-开：O
-发：O
-和：O
-应：O
-用：O
-；：O
-（：O
-）：O
-智：O
-能：O
-交：O
-通：O
-系：O
-统：O
-，：O
-包：O
-括：O
-车：O
-载：O
-系：O
-统：O
-的：O
-导：O
-航：O
-和：O
-监：O
-控：O
-指：O
-挥：O
-中：O
-心：O
-的：O
-软：O
-件：O
-开：O
-发：O
-；：O
-（：O
-）：O
-模：O
-式：O
-识：O
-别：O
-和：O
-图：O
-像：O
-处：O
-理：O
-方：O
-面：O
-的：O
-工：O
-作：O
-；：O
-（：O
-）：O
-应：O
-用：O
-集：I-ORG
-群：I-ORG
-系：I-ORG
-统：E-ORG
-进：O
-行：O
-并：O
-行：O
-处：O
-理：O
-的：O
-工：O
-作：O
-，：O
-及：O
-蜂：O
-窝：O
-无：O
-线：O
-通：O
-信：O
-中：O
-系：O
-统：O
-中：O
-的：O
-协：O
-议：O
-栈：O
-的：O
-实：O
-现：O
-。：O
-获：O
-奖：O
-和：O
-成：O
-果：O
-发：O
-表：O
-论：O
-文：O
-联：O
-系：O
-电：O
-话：O
-工：O
-作：O
-地：O
-点：O
-教：O
-楼：O
-@：O
-.：O
-.：O
-备：O
-注：O
-更：O
-多：O
-内：O
-容：O
-祝：O
-贺：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：I-ORG
-家：I-ORG
-示：I-ORG
-范：I-ORG
-性：I-ORG
-软：B-PRO
-件：I-PRO
-学：I-PRO
-.：I-PRO
-.：I-ORG
-.：I-ORG
--：I-ORG
--：I-ORG
-计：I-ORG
-艺：I-ORG
-手：I-ORG
-工：I-ORG
-坊：I-ORG
-—：I-ORG
-—：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-工：B-TITLE
-会：E-ORG
-美：B-TITLE
-育：E-TITLE
-浸：O
-润：O
-计：O
-划：O
-之：O
-手：O
-.：O
-.：O
-.：O
--：O
--：O
-舞：O
-步：O
-翩：O
-翩：O
-，：O
-盛：O
-夏：O
-齐：O
-欢：O
-—：B-EDU
-—：I-EDU
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：I-ORG
-示：I-ORG
-范：I-ORG
-性：E-ORG
-.：O
-.：O
-.：O
--：O
--：O
+https://scs.bupt.edu.cn/info/1093/1337.htm
+刘 B-NAME
+晓 I-NAME
+鸿 E-NAME
+刘 B-NAME
+晓 I-NAME
+鸿 E-NAME
+（ O
+硕 O
+导 O
+） O
+来 O
+源 O
+： O
+计 O
+算 O
+机 O
+学 I-ORG
+院 E-ORG
+发 O
+布 O
+日 O
+期 O
+： O
+- O
+- O
+浏 O
+览 O
+量 O
+： O
+次 O
+姓 O
+名 O
+刘 B-NAME
+晓 I-NAME
+鸿 E-NAME
+性 O
+别 O
+男 O
+职 O
+务 O
+学 O
+术 O
+兼 O
+职 O
+老 B-TITLE
+师 E-TITLE
+类 O
+型 O
+硕 B-EDU
+导 E-TITLE
+所 O
+属 O
+中 O
+心 O
+计 O
+算 O
+机 O
+应 O
+用 O
+技 O
+术 O
+中 I-ORG
+心 E-ORG
+职 O
+称 O
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+承 O
+担 O
+课 O
+程 O
+算 O
+法 O
+设 O
+计 O
+与 O
+分 O
+析 O
+算 O
+法 O
+分 O
+析 O
+与 O
+设 O
+计 O
+可 O
+计 O
+算 O
+性 O
+理 O
+论 O
+研 O
+究 O
+方 O
+向 O
+嵌 O
+入 O
+式 O
+系 O
+统 O
+， O
+无 O
+线 O
+通 O
+信 O
+个 O
+人 O
+介 O
+绍 O
+年 O
+月 O
+， O
+毕 O
+业 O
+于 O
+中 B-ORG
+国 I-ORG
+科 I-ORG
+学 I-ORG
+院 I-ORG
+自 I-ORG
+动 I-ORG
+化 I-ORG
+研 I-ORG
+究 I-ORG
+所 E-ORG
+模 B-PRO
+式 I-PRO
+识 I-PRO
+别 I-PRO
+与 I-PRO
+智 I-PRO
+能 I-PRO
+控 I-PRO
+制 I-PRO
+专 I-PRO
+业 E-PRO
+， O
+获 O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+年 O
+月 O
+起 O
+至 O
+今 O
+， O
+工 O
+作 O
+于 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+承 O
+担 O
+课 O
+题 O
+目 O
+前 O
+的 O
+研 O
+究 O
+方 O
+向 O
+主 O
+要 O
+集 O
+中 O
+在 O
+下 O
+述 O
+四 O
+个 O
+方 O
+面 O
+： O
+（ O
+） O
+嵌 O
+入 O
+式 O
+实 O
+时 O
+系 O
+统 O
+， O
+除 O
+及 O
+等 O
+商 O
+用 O
+系 O
+统 O
+外 O
+， O
+还 O
+有 O
+自 O
+由 O
+软 O
+件 O
+嵌 O
+入 O
+式 O
+系 O
+统 O
+的 O
+开 O
+发 O
+和 O
+应 O
+用 O
+； O
+（ O
+） O
+智 O
+能 O
+交 O
+通 O
+系 O
+统 O
+， O
+包 O
+括 O
+车 O
+载 O
+系 O
+统 O
+的 O
+导 O
+航 O
+和 O
+监 O
+控 O
+指 O
+挥 O
+中 O
+心 O
+的 O
+软 O
+件 O
+开 O
+发 O
+； O
+（ O
+） O
+模 O
+式 O
+识 O
+别 O
+和 O
+图 O
+像 O
+处 O
+理 O
+方 O
+面 O
+的 O
+工 O
+作 O
+； O
+（ O
+） O
+应 O
+用 O
+集 I-ORG
+群 I-ORG
+系 I-ORG
+统 E-ORG
+进 O
+行 O
+并 O
+行 O
+处 O
+理 O
+的 O
+工 O
+作 O
+， O
+及 O
+蜂 O
+窝 O
+无 O
+线 O
+通 O
+信 O
+中 O
+系 O
+统 O
+中 O
+的 O
+协 O
+议 O
+栈 O
+的 O
+实 O
+现 O
+。 O
+获 O
+奖 O
+和 O
+成 O
+果 O
+发 O
+表 O
+论 O
+文 O
+联 O
+系 O
+电 O
+话 O
+工 O
+作 O
+地 O
+点 O
+教 O
+楼 O
+@ O
+. O
+. O
+备 O
+注 O
+更 O
+多 O
+内 O
+容 O
+祝 O
+贺 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 I-ORG
+家 I-ORG
+示 I-ORG
+范 I-ORG
+性 I-ORG
+软 B-PRO
+件 I-PRO
+学 I-PRO
+. I-PRO
+. I-ORG
+. I-ORG
+- I-ORG
+- I-ORG
+计 I-ORG
+艺 I-ORG
+手 I-ORG
+工 I-ORG
+坊 I-ORG
+— I-ORG
+— I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+工 B-TITLE
+会 E-ORG
+美 O
+育 O
+浸 O
+润 O
+计 O
+划 O
+之 O
+手 O
+. O
+. O
+. O
+- O
+- O
+舞 O
+步 O
+翩 O
+翩 O
+， O
+盛 O
+夏 O
+齐 O
+欢 O
+— B-EDU
+— I-EDU
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 O
+性 O
+. O
+. O
+. O
+- O
+- O

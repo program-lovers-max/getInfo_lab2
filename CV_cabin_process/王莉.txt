@@ -1,510 +1,511 @@
-个：O
-人：O
-简：O
-介：O
-王：O
-莉：E-NAME
-博：O
-士：O
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-(：O
-国：I-ORG
-家：I-ORG
-示：I-ORG
-范：I-ORG
-性：I-ORG
-软：I-ORG
-件：I-ORG
-学：I-ORG
-院：E-ORG
-)：O
-副：B-TITLE
-院：I-TITLE
-长：E-TITLE
-，：O
-首：B-ORG
-批：I-ORG
-应：I-ORG
-急：I-ORG
-管：I-ORG
-理：I-ORG
-部：I-ORG
-重：I-ORG
-点：I-ORG
-实：I-ORG
-验：I-ORG
-室：E-ORG
-“：O
-应：O
-急：I-ORG
-指：I-ORG
-挥：I-ORG
-通：I-ORG
-信：I-ORG
-技：I-ORG
-术：I-ORG
-应：I-ORG
-用：I-ORG
-创：I-ORG
-新：O
-”：O
-实：O
-验：O
-室：O
-副：B-TITLE
-主：I-TITLE
-任：E-TITLE
-，：O
-北：B-ORG
-京：I-ORG
-市：I-ORG
-应：I-ORG
-急：I-ORG
-管：I-ORG
-理：I-ORG
-领：I-ORG
-域：I-ORG
-青：I-ORG
-年：I-TITLE
-学：I-TITLE
-科：I-TITLE
-带：I-TITLE
-头：I-TITLE
-人：E-TITLE
-，：O
-中：B-TITLE
-国：I-TITLE
-工：I-ORG
-程：I-ORG
-前：I-ORG
-沿：I-ORG
-杰：I-ORG
-出：I-TITLE
-青：I-TITLE
-年：I-TITLE
-学：I-TITLE
-者：E-TITLE
-，：O
-入：O
-选：O
-第：O
-四：O
-批：O
-国：O
-家：O
-“：O
-万：O
-人：O
-计：O
-划：O
-”：O
-青：O
-年：O
-拔：O
-尖：O
-人：O
-才：O
-计：O
-划：O
-、：O
-“：O
-北：O
-京：O
-市：O
-科：O
-技：O
-新：O
-星：O
-”：O
-计：O
-划：O
-、：O
-“：O
-北：O
-京：O
-市：O
-科：O
-协：O
-青：O
-年：O
-人：O
-才：O
-托：O
-举：O
-工：O
-程：O
-”：O
-，：O
-中：B-ORG
-国：I-ORG
-电：I-ORG
-子：I-ORG
-学：I-ORG
-会：E-ORG
-通：B-TITLE
-信：I-TITLE
-分：I-ORG
-会：E-ORG
-委：B-TITLE
-员：E-TITLE
-，：O
-中：B-ORG
-国：I-ORG
-电：I-ORG
-子：I-ORG
-学：I-ORG
-会：E-ORG
-物：B-TITLE
-联：I-TITLE
-网：I-TITLE
-青：I-TITLE
-专：I-TITLE
-委：I-TITLE
-常：I-TITLE
-委：E-TITLE
-。：O
-获：O
-得：O
-中：O
-国：O
-电：O
-子：O
-学：O
-会：O
-科：O
-技：O
-进：O
-步：O
-一：O
-等：O
-奖：O
-（：O
-第：O
-一：O
-完：O
-成：O
-人：O
-）：O
-、：O
-中：B-ORG
-国：I-ORG
-安：I-ORG
-全：I-ORG
-生：O
-产：O
-协：O
-会：O
-第：O
-二：O
-届：O
-安：O
-全：O
-科：O
-技：O
-进：O
-步：O
-奖：O
-一：O
-等：O
-奖：O
-（：O
-第：O
-一：O
-完：O
-成：O
-人：O
-）：O
-、：O
-中：B-ORG
-国：I-ORG
-指：I-ORG
-挥：I-ORG
-与：I-ORG
-控：I-ORG
-制：I-ORG
-协：I-ORG
-会：E-ORG
-科：O
-技：O
-进：O
-步：O
-奖：O
-一：O
-等：O
-奖：O
-（：O
-第：O
-二：O
-完：O
-成：O
-人：O
-）：O
-。：O
-王：O
-莉：O
-博：O
-士：O
-的：O
-研：O
-究：O
-领：O
-域：O
-包：O
-括：O
-应：O
-急：O
-指：O
-挥：O
-通：O
-信：O
-、：O
-边：O
-缘：O
-智：O
-能：O
-、：O
-能：O
-源：O
-互：O
-联：O
-网：O
-、：O
-智：O
-能：O
-车：O
-联：O
-网：O
-等：O
-，：O
-围：O
-绕：O
-重：O
-大：O
-自：O
-然：O
-灾：O
-害：O
-和：O
-事：O
-故：O
-救：O
-援：O
-中：O
-的：O
-现：O
-场：O
-指：O
-挥：O
-通：O
-信：O
-重：O
-难：O
-点：O
-问：O
-题：O
-进：O
-行：O
-攻：O
-关：O
-，：O
-突：O
-破：O
-快：O
-速：O
-组：O
-网：O
-与：O
-业：O
-务：O
-自：O
-适：O
-应：O
-可：O
-靠：O
-通：O
-信：O
-、：O
-稳：O
-定：O
-低：O
-延：O
-时：O
-协：O
-作：O
-定：O
-位：O
-、：O
-感：O
-知：O
-数：O
-据：O
-增：O
-强：O
-等：O
-关：O
-键：O
-技：O
-术：O
-，：O
-建：O
-立：O
-了：O
-我：O
-国：O
-首：O
-个：O
-现：O
-场：O
-应：O
-急：O
-管：O
-理：O
-通：O
-信：O
-指：O
-挥：O
-调：O
-度：O
-的：O
-技：O
-术：O
-体：O
-系：O
-，：O
-显：O
-著：O
-增：O
-强：O
-国：O
-家：O
-重：O
-大：O
-自：O
-然：O
-灾：O
-害：O
-和：O
-事：O
-故：O
-处：O
-置：O
-高：O
-效：O
-精：O
-准：O
-的：O
-应：O
-急：O
-通：O
-信：O
-保：O
-障：O
-能：O
-力：O
-，：O
-研：O
-究：O
-成：O
-果：O
-为：O
-百：O
-余：O
-次：O
-应：O
-急：O
-事：O
-件：O
-处：O
-置：O
-提：O
-供：O
-重：O
-要：O
-的：O
-保：O
-障：O
-和：O
-技：O
-术：O
-支：O
-持：O
-。：O
-王：O
-莉：O
-博：O
-士：O
-主：O
-持：O
-/：O
-参：O
-加：O
-二：O
-十：O
-余：O
-项：O
-国：O
-家：O
-级：O
-/：O
-省：O
-部：O
-级：O
-项：O
-目：O
-，：O
-在：O
-/：O
-/：O
-等：O
-著：O
-名：O
-刊：O
-物：O
-发：O
-表：O
-论：O
-文：O
-百：O
-余：O
-篇：O
-，：O
-曾：O
-获：O
-得：O
-等：O
-国：O
-际：O
-学：O
-术：O
-会：O
-议：O
-最：O
-佳：O
-会：O
-议：O
-论：O
-文：O
-/：O
-奖：O
-次：O
-，：O
-出：O
-版：O
-一：O
-作：O
-英：O
-文：O
-专：O
-著：O
-本：O
+https://teacher.bupt.edu.cn/wangli
+王 B-NAME
+莉 E-NAME
+个 O
+人 O
+简 O
+介 O
+王 O
+莉 O
+博 O
+士 O
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+( O
+国 O
+家 I-ORG
+示 I-ORG
+范 I-ORG
+性 I-ORG
+软 I-ORG
+件 I-ORG
+学 I-ORG
+院 E-ORG
+) O
+副 B-TITLE
+院 I-TITLE
+长 E-TITLE
+， O
+首 B-ORG
+批 I-ORG
+应 I-ORG
+急 I-ORG
+管 I-ORG
+理 I-ORG
+部 I-ORG
+重 I-ORG
+点 I-ORG
+实 I-ORG
+验 I-ORG
+室 E-ORG
+“ O
+应 O
+急 O
+指 I-ORG
+挥 I-ORG
+通 I-ORG
+信 I-ORG
+技 I-ORG
+术 I-ORG
+应 I-ORG
+用 O
+创 O
+新 O
+” O
+实 O
+验 O
+室 O
+副 B-TITLE
+主 I-TITLE
+任 E-TITLE
+， O
+北 B-ORG
+京 I-ORG
+市 I-ORG
+应 I-ORG
+急 I-ORG
+管 I-ORG
+理 I-ORG
+领 I-ORG
+域 I-ORG
+青 I-ORG
+年 I-TITLE
+学 I-TITLE
+科 I-TITLE
+带 I-TITLE
+头 I-TITLE
+人 E-TITLE
+， O
+中 B-TITLE
+国 I-TITLE
+工 I-ORG
+程 I-ORG
+前 I-ORG
+沿 I-ORG
+杰 I-ORG
+出 I-TITLE
+青 I-TITLE
+年 I-TITLE
+学 I-TITLE
+者 E-TITLE
+， O
+入 O
+选 O
+第 O
+四 O
+批 O
+国 O
+家 O
+“ O
+万 O
+人 O
+计 O
+划 O
+” O
+青 O
+年 O
+拔 O
+尖 O
+人 O
+才 O
+计 O
+划 O
+、 O
+“ O
+北 O
+京 O
+市 O
+科 O
+技 O
+新 O
+星 O
+” O
+计 O
+划 O
+、 O
+“ O
+北 O
+京 O
+市 O
+科 O
+协 O
+青 O
+年 O
+人 O
+才 O
+托 O
+举 O
+工 O
+程 O
+” O
+， O
+中 B-ORG
+国 I-ORG
+电 I-ORG
+子 I-ORG
+学 I-ORG
+会 E-ORG
+通 B-TITLE
+信 I-TITLE
+分 I-ORG
+会 E-ORG
+委 B-TITLE
+员 E-TITLE
+， O
+中 B-ORG
+国 I-ORG
+电 I-ORG
+子 I-ORG
+学 I-ORG
+会 E-ORG
+物 B-TITLE
+联 I-TITLE
+网 I-TITLE
+青 I-TITLE
+专 I-TITLE
+委 I-TITLE
+常 I-TITLE
+委 E-TITLE
+。 O
+获 O
+得 O
+中 O
+国 O
+电 O
+子 O
+学 O
+会 O
+科 O
+技 O
+进 O
+步 O
+一 O
+等 O
+奖 O
+（ O
+第 O
+一 O
+完 O
+成 O
+人 O
+） O
+、 O
+中 B-ORG
+国 I-ORG
+安 I-ORG
+全 I-ORG
+生 I-ORG
+产 I-ORG
+协 I-ORG
+会 E-ORG
+第 O
+二 O
+届 O
+安 I-TITLE
+全 I-TITLE
+科 I-TITLE
+技 I-TITLE
+进 I-TITLE
+步 O
+奖 O
+一 O
+等 O
+奖 O
+（ O
+第 O
+一 O
+完 O
+成 O
+人 O
+） O
+、 O
+中 B-ORG
+国 I-ORG
+指 I-ORG
+挥 I-ORG
+与 I-ORG
+控 I-ORG
+制 I-ORG
+协 I-ORG
+会 E-ORG
+科 O
+技 O
+进 O
+步 O
+奖 O
+一 O
+等 O
+奖 O
+（ O
+第 O
+二 O
+完 O
+成 O
+人 O
+） O
+。 O
+王 O
+莉 O
+博 O
+士 O
+的 O
+研 O
+究 O
+领 O
+域 O
+包 O
+括 O
+应 O
+急 O
+指 O
+挥 O
+通 O
+信 O
+、 O
+边 O
+缘 O
+智 O
+能 O
+、 O
+能 O
+源 O
+互 O
+联 O
+网 O
+、 O
+智 O
+能 O
+车 O
+联 O
+网 O
+等 O
+， O
+围 O
+绕 O
+重 O
+大 O
+自 O
+然 O
+灾 O
+害 O
+和 O
+事 O
+故 O
+救 O
+援 O
+中 O
+的 O
+现 O
+场 O
+指 O
+挥 O
+通 O
+信 O
+重 O
+难 O
+点 O
+问 O
+题 O
+进 O
+行 O
+攻 O
+关 O
+， O
+突 O
+破 O
+快 O
+速 O
+组 O
+网 O
+与 O
+业 O
+务 O
+自 O
+适 O
+应 O
+可 O
+靠 O
+通 O
+信 O
+、 O
+稳 O
+定 O
+低 O
+延 O
+时 O
+协 O
+作 O
+定 O
+位 O
+、 O
+感 O
+知 O
+数 O
+据 O
+增 O
+强 O
+等 O
+关 O
+键 O
+技 O
+术 O
+， O
+建 O
+立 O
+了 O
+我 O
+国 O
+首 O
+个 O
+现 O
+场 O
+应 O
+急 O
+管 O
+理 O
+通 O
+信 O
+指 O
+挥 O
+调 O
+度 O
+的 O
+技 O
+术 O
+体 O
+系 O
+， O
+显 O
+著 O
+增 O
+强 O
+国 O
+家 O
+重 O
+大 O
+自 O
+然 O
+灾 O
+害 O
+和 O
+事 O
+故 O
+处 O
+置 O
+高 O
+效 O
+精 O
+准 O
+的 O
+应 O
+急 O
+通 O
+信 O
+保 O
+障 O
+能 O
+力 O
+， O
+研 O
+究 O
+成 O
+果 O
+为 O
+百 O
+余 O
+次 O
+应 O
+急 O
+事 O
+件 O
+处 O
+置 O
+提 O
+供 O
+重 O
+要 O
+的 O
+保 O
+障 O
+和 O
+技 O
+术 O
+支 O
+持 O
+。 O
+王 O
+莉 O
+博 O
+士 O
+主 O
+持 O
+/ O
+参 O
+加 O
+二 O
+十 O
+余 O
+项 O
+国 O
+家 O
+级 O
+/ O
+省 O
+部 O
+级 O
+项 O
+目 O
+， O
+在 O
+/ O
+/ O
+等 O
+著 O
+名 O
+刊 O
+物 O
+发 O
+表 O
+论 O
+文 O
+百 O
+余 O
+篇 O
+， O
+曾 O
+获 O
+得 O
+等 O
+国 O
+际 O
+学 O
+术 O
+会 O
+议 O
+最 O
+佳 O
+会 O
+议 O
+论 O
+文 O
+/ O
+奖 O
+次 O
+， O
+出 O
+版 O
+一 O
+作 O
+英 O
+文 O
+专 O

@@ -1,222 +1,226 @@
-周：B-NAME
-安：I-NAME
-福：E-NAME
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-教：B-TITLE
-授：E-TITLE
-、：O
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-分：O
-别：O
-在：O
-中：B-ORG
-国：I-ORG
-人：I-ORG
-民：I-ORG
-大：I-ORG
-学：E-ORG
-、：O
-中：B-ORG
-国：I-ORG
-科：I-ORG
-学：I-ORG
-院：I-ORG
-计：I-ORG
-算：I-ORG
-技：I-ORG
-术：I-ORG
-研：I-ORG
-究：I-ORG
-所：E-ORG
-获：O
-得：O
-工：B-PRO
-学：E-PRO
-学：B-EDU
-士：E-EDU
-、：O
-工：B-PRO
-学：E-PRO
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-。：O
-研：O
-究：O
-方：O
-向：O
-为：O
-毫：O
-米：O
-波：O
-感：O
-知：O
-、：O
-毫：O
-米：O
-波：O
-传：O
-输：O
-、：O
--：O
-低：O
-延：O
-迟：O
-视：O
-频：O
-传：O
-输：O
-等：O
-。：O
-作：O
-为：O
-负：O
-责：O
-人：O
-先：O
-后：O
-承：O
-担：O
-了：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-、：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-等：O
-科：O
-研：O
-项：O
-目：O
-，：O
-代：O
-表：O
-研：O
-究：O
-成：O
-果：O
-发：O
-表：O
-在：O
-、：O
-、：O
-、：O
-/：O
-.：O
-、：O
-.：O
-等：O
-一：O
-流：O
-国：O
-际：O
-会：O
-议：O
-和：O
-期：O
-刊：O
-上：O
-，：O
-取：O
-得：O
-专：O
-利：O
-三：O
-十：O
-余：O
-项：O
-。：O
-部：O
-分：O
-研：O
-究：O
-成：O
-果：O
-已：O
-规：O
-模：O
-应：O
-用：O
-于：O
-产：O
-业：O
-界：O
-。：O
-先：O
-后：O
-获：O
-得：O
-中：O
-国：O
-计：O
-算：O
-机：O
-学：O
-会：O
--：O
-青：O
-年：O
-学：O
-者：O
-奖：O
-、：O
-中：O
-国：O
-新：O
-星：O
-奖：O
-、：O
-阿：O
-里：O
-巴：O
-巴：O
-优：O
-秀：O
-学：O
-术：O
-合：O
-作：O
-奖：O
-、：O
-中：O
-国：O
-电：O
-子：O
-学：O
-会：O
-科：O
-技：O
-进：O
-步：O
-一：O
-等：O
-奖：O
-等：O
-。：O
+https://teacher.bupt.edu.cn/zhouanfu/zh_CN/index.htm
+周 B-NAME
+安 I-NAME
+福 E-NAME
+周 B-NAME
+安 I-NAME
+福 E-NAME
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+教 B-TITLE
+授 E-TITLE
+、 O
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+分 O
+别 O
+在 O
+中 B-ORG
+国 I-ORG
+人 I-ORG
+民 I-ORG
+大 I-ORG
+学 E-ORG
+、 O
+中 B-ORG
+国 I-ORG
+科 I-ORG
+学 I-ORG
+院 I-ORG
+计 I-ORG
+算 I-ORG
+技 I-ORG
+术 I-ORG
+研 I-ORG
+究 I-ORG
+所 E-ORG
+获 O
+得 O
+工 B-PRO
+学 E-PRO
+学 B-EDU
+士 E-EDU
+、 O
+工 B-PRO
+学 E-PRO
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+。 O
+研 O
+究 O
+方 O
+向 O
+为 O
+毫 O
+米 O
+波 O
+感 O
+知 O
+、 O
+毫 O
+米 O
+波 O
+传 O
+输 O
+、 O
+- O
+低 O
+延 O
+迟 O
+视 O
+频 O
+传 O
+输 O
+等 O
+。 O
+作 O
+为 O
+负 O
+责 O
+人 O
+先 O
+后 O
+承 O
+担 O
+了 O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+、 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+等 O
+科 O
+研 O
+项 O
+目 O
+， O
+代 O
+表 O
+研 O
+究 O
+成 O
+果 O
+发 O
+表 O
+在 O
+、 O
+、 O
+、 O
+/ O
+. O
+、 O
+. O
+等 O
+一 O
+流 O
+国 O
+际 O
+会 O
+议 O
+和 O
+期 O
+刊 O
+上 O
+， O
+取 O
+得 O
+专 O
+利 O
+三 O
+十 O
+余 O
+项 O
+。 O
+部 O
+分 O
+研 O
+究 O
+成 O
+果 O
+已 O
+规 O
+模 O
+应 O
+用 O
+于 O
+产 O
+业 O
+界 O
+。 O
+先 O
+后 O
+获 O
+得 O
+中 O
+国 O
+计 O
+算 O
+机 O
+学 O
+会 O
+- O
+青 O
+年 O
+学 O
+者 O
+奖 O
+、 O
+中 O
+国 O
+新 O
+星 O
+奖 O
+、 O
+阿 O
+里 O
+巴 O
+巴 O
+优 O
+秀 O
+学 O
+术 O
+合 O
+作 O
+奖 O
+、 O
+中 O
+国 O
+电 O
+子 O
+学 O
+会 O
+科 O
+技 O
+进 O
+步 O
+一 O
+等 O
+奖 O
+等 O
+。 O

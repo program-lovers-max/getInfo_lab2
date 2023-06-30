@@ -1,510 +1,511 @@
-个：O
-人：O
-简：O
-介：O
-易：O
-秋：O
-萍：O
-，：O
-女：O
-，：O
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-，：O
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-研：O
-究：O
-方：O
-向：O
-包：O
-括：O
-：：O
-系：O
-统：O
-软：O
-件：O
-安：O
-全：O
-、：O
-软：O
-件：O
-漏：O
-洞：O
-挖：O
-掘：O
-与：O
-利：O
-用：O
-、：O
-基：O
-于：O
-大：O
-数：O
-据：O
-等：O
-人：O
-工：O
-智：O
-能：O
-技：O
-术：O
-的：O
-软：O
-件：O
-安：O
-全：O
-分：O
-析：O
-、：O
-信：O
-息：O
-系：O
-统：O
-(：O
-包：O
-括：O
-云：O
-、：O
-智：O
-能：O
-终：O
-端：O
-、：O
-硬：O
-件：O
-、：O
-网：O
-络：O
-设：O
-备：O
-、：O
-、：O
-等：O
-)：O
-安：O
-全：O
-分：O
-析：O
-等：O
-。：O
-当：O
-前：O
-感：O
-兴：O
-趣：O
-的：O
-研：O
-究：O
-方：O
-向：O
-包：O
-括：O
-：：O
-基：O
-于：O
-技：O
-术：O
-与：O
-程：O
-序：O
-分：O
-析：O
-技：O
-术：O
-的：O
-有：O
-效：O
-结：O
-合：O
-，：O
-构：O
-建：O
-大：O
-规：O
-模：O
-程：O
-序：O
-分：O
-析：O
-验：O
-证：O
-平：O
-台：O
-；：O
-+：O
-+：O
-并：O
-行：O
-程：O
-序：O
-分：O
-析：O
-验：O
-证：O
-方：O
-法：O
-及：O
-工：O
-具：O
-平：O
-台：O
-研：O
-发：O
-。：O
-易：O
-秋：O
-萍：O
-博：O
-士：O
-于：O
-年：O
-在：O
-中：B-ORG
-科：I-ORG
-院：I-ORG
-软：I-ORG
-件：I-ORG
-研：I-ORG
-究：I-ORG
-所：E-ORG
-获：O
-得：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-，：O
-随：O
-后：O
-到：O
-美：B-ORG
-国：I-ORG
-&：I-ORG
-大：I-ORG
-学：I-ORG
-和：I-ORG
-大：I-ORG
-学：E-ORG
-做：O
-博：B-TITLE
-士：I-TITLE
-后：I-TITLE
-。：O
-年：O
-月：O
-，：O
-通：O
-过：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-“：O
-优：O
-秀：O
-人：O
-才：O
-计：O
-划：O
-”：O
-引：O
-进：O
-，：O
-任：O
-特：B-TITLE
-聘：I-TITLE
-副：I-TITLE
-研：I-TITLE
-究：I-TITLE
-员：E-TITLE
-、：O
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-当：O
-前：O
-主：O
-持：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-项：O
-目：O
-项：O
-。：O
-在：O
-多：O
-个：O
-类：O
-国：O
-际：O
-顶：O
-级：O
-期：O
-刊：O
-／：O
-会：O
-议：O
-（：O
-/：O
-、：O
-、：O
-、：O
-、：O
-）：O
-上：O
-发：O
-表：O
-多：O
-篇：O
-论：O
-文：O
-。：O
-曾：O
-担：O
-任：O
-类：O
-国：O
-际：O
-顶：O
-级：O
-会：O
-议：O
-（：O
-,：O
--：O
-,：O
-,：O
-,：O
-）：O
-的：O
-程：B-TITLE
-序：I-TITLE
-委：I-TITLE
-员：I-TITLE
-会：I-TITLE
-委：I-TITLE
-员：E-TITLE
-或：O
-审：B-TITLE
-稿：I-TITLE
-人：E-TITLE
-。：O
-教：O
-育：O
-经：O
-历：O
-[：O
-]：O
-.：O
--：O
-.：O
-中：O
-科：O
-院：I-ORG
-软：I-ORG
-件：I-ORG
-所：E-ORG
-|：O
-工：B-PRO
-学：E-PRO
-|：O
-博：B-EDU
-士：E-EDU
-|：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-[：O
-]：E-EDU
-.：O
--：O
-.：O
-四：B-ORG
-川：I-ORG
-大：I-ORG
-学：E-ORG
-|：O
-工：B-PRO
-学：E-PRO
-|：O
-大：B-EDU
-学：I-EDU
-本：I-EDU
-科：E-EDU
-(：O
-简：O
-称：O
-“：O
-大：O
-学：O
-”：O
-)：O
-|：O
-学：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-工：O
-作：O
-经：O
-历：O
-[：O
-]：O
-.：O
--：O
-至：O
-今：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-[：I-ORG
-]：I-ORG
-.：I-ORG
--：I-ORG
-.：I-ORG
-美：B-ORG
-国：I-ORG
-大：I-ORG
-学：E-ORG
-[：O
-]：O
-.：O
--：O
-.：O
-美：B-ORG
-国：I-ORG
-&：I-ORG
-大：I-ORG
-学：E-ORG
-研：B-EDU
-究：I-EDU
-方：E-EDU
-向：O
-[：O
-]：O
-主：O
-要：O
-研：O
-究：O
-方：O
-向：O
-为：O
-软：O
-件：O
-工：O
-程：O
-及：O
-形：O
-式：O
-化：O
-分：O
-析：O
-方：O
-法：O
-。：O
-主：O
-要：O
-关：O
-注：O
-设：O
-计：O
-有：O
-效：O
-方：O
-法：O
-改：O
-进：O
-系：O
-统：O
-可：O
-靠：O
-性：O
-及：O
-安：O
-全：O
-性：O
-，：O
-包：O
-括：O
-设：O
-计：O
-及：O
-实：O
-现：O
-支：O
-持：O
-程：O
-序：O
-的：O
-调：O
-试：O
-分：O
-析：O
-及：O
-验：O
-证：O
-的：O
-有：O
-效：O
-工：O
-具：O
-。：O
-具：O
-体：O
-研：O
-究：O
-内：O
-容：O
-包：O
-括：O
-：：O
-系：O
-统：O
-软：O
-件：O
-安：O
-全：O
-、：O
-程：O
-序：O
-分：O
-析：O
-测：O
-试：O
-、：O
-软：O
-件：O
-错：O
-误：O
-定：O
-位：O
-与：O
-修：O
-复：O
-、：O
-并：O
-行：O
-程：O
-序：O
-分：O
+https://teacher.bupt.edu.cn/yiqiuping
+易 B-NAME
+秋 I-NAME
+萍 E-NAME
+个 O
+人 O
+简 O
+介 O
+易 O
+秋 O
+萍 O
+， O
+女 O
+， O
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+， O
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+研 O
+究 O
+方 O
+向 O
+包 O
+括 O
+： O
+系 O
+统 O
+软 O
+件 O
+安 O
+全 O
+、 O
+软 O
+件 O
+漏 O
+洞 O
+挖 O
+掘 O
+与 O
+利 O
+用 O
+、 O
+基 O
+于 O
+大 O
+数 O
+据 O
+等 O
+人 O
+工 O
+智 O
+能 O
+技 O
+术 O
+的 O
+软 O
+件 O
+安 O
+全 O
+分 O
+析 O
+、 O
+信 O
+息 O
+系 O
+统 O
+( O
+包 O
+括 O
+云 O
+、 O
+智 O
+能 O
+终 O
+端 O
+、 O
+硬 O
+件 O
+、 O
+网 O
+络 O
+设 O
+备 O
+、 O
+、 O
+等 O
+) O
+安 O
+全 O
+分 O
+析 O
+等 O
+。 O
+当 O
+前 O
+感 O
+兴 O
+趣 O
+的 O
+研 O
+究 O
+方 O
+向 O
+包 O
+括 O
+： O
+基 O
+于 O
+技 O
+术 O
+与 O
+程 O
+序 O
+分 O
+析 O
+技 O
+术 O
+的 O
+有 O
+效 O
+结 O
+合 O
+， O
+构 O
+建 O
+大 O
+规 O
+模 O
+程 O
+序 O
+分 O
+析 O
+验 O
+证 O
+平 O
+台 O
+； O
++ O
++ O
+并 O
+行 O
+程 O
+序 O
+分 O
+析 O
+验 O
+证 O
+方 O
+法 O
+及 O
+工 O
+具 O
+平 O
+台 O
+研 O
+发 O
+。 O
+易 O
+秋 O
+萍 O
+博 O
+士 O
+于 O
+年 O
+在 O
+中 B-ORG
+科 I-ORG
+院 I-ORG
+软 I-ORG
+件 I-ORG
+研 I-ORG
+究 I-ORG
+所 E-ORG
+获 O
+得 O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+， O
+随 O
+后 O
+到 O
+美 B-ORG
+国 I-ORG
+& I-ORG
+大 I-ORG
+学 I-ORG
+和 I-ORG
+大 I-ORG
+学 E-ORG
+做 O
+博 B-TITLE
+士 I-TITLE
+后 I-TITLE
+。 O
+年 O
+月 O
+， O
+通 O
+过 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+“ O
+优 O
+秀 O
+人 O
+才 O
+计 O
+划 O
+” O
+引 O
+进 O
+， O
+任 O
+特 B-TITLE
+聘 I-TITLE
+副 I-TITLE
+研 I-TITLE
+究 I-TITLE
+员 E-TITLE
+、 O
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+当 O
+前 O
+主 O
+持 O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+项 O
+目 O
+项 O
+。 O
+在 O
+多 O
+个 O
+类 O
+国 O
+际 O
+顶 O
+级 O
+期 O
+刊 O
+／ O
+会 O
+议 O
+（ O
+/ O
+、 O
+、 O
+、 O
+、 O
+） O
+上 O
+发 O
+表 O
+多 O
+篇 O
+论 O
+文 O
+。 O
+曾 O
+担 O
+任 O
+类 O
+国 O
+际 O
+顶 O
+级 O
+会 O
+议 O
+（ O
+, O
+- O
+, O
+, O
+, O
+） O
+的 O
+程 B-TITLE
+序 I-TITLE
+委 I-TITLE
+员 I-TITLE
+会 I-TITLE
+委 I-TITLE
+员 E-TITLE
+或 O
+审 B-TITLE
+稿 I-TITLE
+人 E-TITLE
+。 O
+教 O
+育 O
+经 O
+历 O
+[ O
+] O
+. O
+- O
+. O
+中 O
+科 O
+院 I-ORG
+软 I-ORG
+件 I-ORG
+所 E-ORG
+| O
+工 B-PRO
+学 E-PRO
+| O
+博 B-EDU
+士 E-EDU
+| O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+[ O
+] O
+. O
+- O
+. O
+四 B-ORG
+川 I-ORG
+大 I-ORG
+学 E-ORG
+| O
+工 B-PRO
+学 E-PRO
+| O
+大 B-EDU
+学 I-EDU
+本 I-EDU
+科 E-EDU
+( O
+简 O
+称 O
+“ O
+大 O
+学 O
+” O
+) O
+| O
+学 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+工 O
+作 O
+经 O
+历 O
+[ O
+] O
+. O
+- O
+至 O
+今 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+[ I-ORG
+] I-ORG
+. I-ORG
+- O
+. O
+美 B-ORG
+国 I-ORG
+大 I-ORG
+学 E-ORG
+[ O
+] O
+. O
+- O
+. O
+美 B-ORG
+国 I-ORG
+& I-ORG
+大 I-ORG
+学 E-ORG
+研 B-EDU
+究 I-EDU
+方 E-EDU
+向 O
+[ O
+] O
+主 O
+要 O
+研 O
+究 O
+方 O
+向 O
+为 O
+软 O
+件 O
+工 O
+程 O
+及 O
+形 O
+式 O
+化 O
+分 O
+析 O
+方 O
+法 O
+。 O
+主 O
+要 O
+关 O
+注 O
+设 O
+计 O
+有 O
+效 O
+方 O
+法 O
+改 O
+进 O
+系 O
+统 O
+可 O
+靠 O
+性 O
+及 O
+安 O
+全 O
+性 O
+， O
+包 O
+括 O
+设 O
+计 O
+及 O
+实 O
+现 O
+支 O
+持 O
+程 O
+序 O
+的 O
+调 O
+试 O
+分 O
+析 O
+及 O
+验 O
+证 O
+的 O
+有 O
+效 O
+工 O
+具 O
+。 O
+具 O
+体 O
+研 O
+究 O
+内 O
+容 O
+包 O
+括 O
+： O
+系 O
+统 O
+软 O
+件 O
+安 O
+全 O
+、 O
+程 O
+序 O
+分 O
+析 O
+测 O
+试 O
+、 O
+软 O
+件 O
+错 O
+误 O
+定 O
+位 O
+与 O
+修 O
+复 O
+、 O
+并 O
+行 O

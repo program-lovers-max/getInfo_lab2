@@ -1,510 +1,511 @@
-宫：B-NAME
-云：I-NAME
-战：E-NAME
-（：O
-博：O
-导：O
-）：O
-来：O
-源：O
-：：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-发：O
-布：O
-日：O
-期：O
-：：O
--：O
--：O
-浏：O
-览：O
-量：O
-：：O
-次：O
-姓：O
-名：O
-宫：B-NAME
-云：I-NAME
-战：E-NAME
-性：O
-别：O
-男：O
-职：O
-务：O
-学：O
-术：O
-兼：O
-职：O
-容：O
-错：O
-计：O
-算：O
-专：O
-业：I-TITLE
-委：I-TITLE
-员：I-TITLE
-会：I-TITLE
-常：I-TITLE
-务：I-TITLE
-委：I-TITLE
-员：E-TITLE
-老：I-TITLE
-师：E-TITLE
-类：O
-型：O
-博：O
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-、：O
-硕：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-所：O
-属：O
-中：O
-心：O
-网：O
-络：O
-服：I-TITLE
-务：I-TITLE
-基：I-TITLE
-础：I-TITLE
-研：I-ORG
-究：I-ORG
-中：I-ORG
-心：E-ORG
-职：O
-称：O
-教：B-TITLE
-授：E-TITLE
-承：O
-担：O
-课：O
-程：O
-软：O
-件：O
-可：O
-靠：O
-性：O
-、：O
-软：O
-件：O
-测：O
-试：O
-研：O
-究：O
-方：O
-向：O
-软：O
-件：O
-测：O
-试：O
-个：O
-人：O
-介：O
-绍：O
-年：O
-生：O
-，：O
-山：B-LOC
-东：I-LOC
-省：I-LOC
-威：I-LOC
-海：I-LOC
-市：I-LOC
-人：E-LOC
-。：O
-年：O
-月：O
-硕：B-EDU
-士：E-EDU
-毕：O
-业：O
-于：O
-国：B-ORG
-防：I-ORG
-科：I-ORG
-技：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-系：E-ORG
-，：O
-年：O
-博：B-EDU
-士：E-EDU
-毕：O
-业：O
-于：O
-中：B-ORG
-国：I-ORG
-科：I-ORG
-学：I-ORG
-院：I-ORG
-计：I-ORG
-算：I-ORG
-技：I-ORG
-术：I-ORG
-研：I-ORG
-究：I-ORG
-所：E-ORG
-。：O
-年：O
-任：O
-装：B-ORG
-甲：I-ORG
-兵：I-ORG
-工：I-ORG
-程：I-ORG
-学：I-ORG
-院：E-ORG
-助：B-TITLE
-教：E-TITLE
-，：O
-年：O
-任：O
-讲：B-TITLE
-师：E-TITLE
-，：O
-年：O
-任：O
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-，：O
-年：B-TITLE
-任：O
-教：B-TITLE
-授：E-TITLE
-，：O
-年：O
-被：O
-聘：O
-为：O
-装：B-ORG
-甲：I-ORG
-兵：I-ORG
-工：I-ORG
-程：I-ORG
-学：I-ORG
-院：E-ORG
-首：B-TITLE
-届：I-TITLE
-博：I-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-任：O
-装：B-ORG
-甲：I-ORG
-兵：I-ORG
-工：I-ORG
-程：I-ORG
-学：I-ORG
-院：E-ORG
-信：B-TITLE
-息：I-TITLE
-工：I-TITLE
-程：I-TITLE
-系：I-TITLE
-主：I-TITLE
-任：E-TITLE
-。：O
-年：O
-被：O
-聘：O
-为：O
-中：B-ORG
-国：I-ORG
-科：I-ORG
-学：I-ORG
-院：I-ORG
-计：I-ORG
-算：I-ORG
-技：I-ORG
-术：I-ORG
-研：I-ORG
-究：I-ORG
-所：E-ORG
-兼：B-TITLE
-职：I-TITLE
-研：I-TITLE
-究：I-TITLE
-员：E-TITLE
-,：O
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-年：O
-被：O
-评：O
-为：O
-总：B-TITLE
-参：I-TITLE
-优：I-TITLE
-秀：I-TITLE
-中：I-TITLE
-青：I-TITLE
-年：I-TITLE
-专：I-TITLE
-家：E-TITLE
-，：O
-年：O
-被：O
-选：O
-为：O
-九：B-TITLE
-届：I-TITLE
-全：I-TITLE
-国：I-TITLE
-人：I-TITLE
-大：I-TITLE
-代：I-TITLE
-表：E-TITLE
-，：O
-年：O
-当：O
-选：O
-全：B-TITLE
-军：I-TITLE
-计：I-TITLE
-算：I-TITLE
-机：I-TITLE
-课：I-TITLE
-程：I-TITLE
-建：I-TITLE
-设：I-TITLE
-专：I-TITLE
-家：I-TITLE
-组：I-TITLE
-成：I-TITLE
-员：E-TITLE
-，：O
-年：O
-当：O
-选：O
-/：O
-容：O
-错：O
-专：I-TITLE
-业：I-TITLE
-委：I-TITLE
-员：I-TITLE
-会：I-TITLE
-委：I-TITLE
-员：E-TITLE
-。：O
-年：O
-和：O
-年：O
-分：O
-别：O
-被：O
-聘：O
-为：O
-中：B-ORG
-国：I-ORG
-人：I-ORG
-民：I-ORG
-解：I-ORG
-放：I-ORG
-军：I-ORG
-总：I-ORG
-装：I-ORG
-备：I-ORG
-部：E-ORG
-第：B-TITLE
-一：I-TITLE
-届：I-TITLE
-和：I-TITLE
-第：I-TITLE
-二：I-TITLE
-界：I-TITLE
-学：I-TITLE
-位：I-TITLE
-委：I-TITLE
-员：I-TITLE
-会：I-TITLE
-委：I-TITLE
-员：E-TITLE
-，：O
-年：O
-至：O
-今：O
-，：O
-被：O
-聘：O
-为：O
-中：B-ORG
-国：I-ORG
-人：I-ORG
-民：I-ORG
-解：I-ORG
-放：I-ORG
-军：I-ORG
-总：I-ORG
-装：I-ORG
-备：I-ORG
-部：E-ORG
-第：B-TITLE
-一：I-TITLE
-届：I-TITLE
-和：I-TITLE
-第：I-TITLE
-二：I-TITLE
-界：I-TITLE
-职：I-TITLE
-称：I-TITLE
-评：I-TITLE
-定：I-TITLE
-委：I-TITLE
-员：I-TITLE
-会：I-TITLE
-委：I-TITLE
-员：E-TITLE
-。：O
-年：O
-，：O
-当：O
-选：O
-/：O
-专：B-TITLE
-业：I-TITLE
-委：I-TITLE
-员：I-TITLE
-会：I-TITLE
-委：I-TITLE
-员：E-TITLE
-。：O
-在：O
-相：O
-关：O
-研：O
-究：O
-领：O
-域：O
-先：O
-后：O
-承：O
-担：O
-过：O
-多：O
-项：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-、：O
-项：O
-目：O
-、：O
-子：O
-课：O
-题：O
-，：O
-申：O
-请：O
-发：O
-明：O
-专：O
-利：O
-余：O
-项：O
-，：O
-编：O
-写：O
-专：O
-著：O
-本：O
-、：O
-教：O
-材：O
-本：O
-，：O
-发：O
-表：O
-学：O
-术：O
-论：O
-文：O
-余：O
-篇：O
-。：O
-获：O
-中：O
-国：O
-工：O
-程：O
-科：O
-学：O
-“：O
-求：O
-是：O
-”：O
-奖：O
-次：O
-，：O
-中：O
-科：O
-院：O
-自：O
-然：O
-科：O
-学：O
-等：O
-奖：O
-次：O
-，：O
-军：O
-队：O
-科：O
-技：O
-进：O
-步：O
-等：O
-奖：O
-次：O
-，：O
-军：O
-队：O
-教：O
-学：O
-成：O
-果：O
-等：O
-奖：O
-次：O
-。：O
-承：O
-担：O
-课：O
-题：O
-获：O
-奖：O
-和：O
-成：O
-果：O
-论：O
-文：O
-、：O
-著：O
-作：O
+https://scs.bupt.edu.cn/info/1292/2713.htm
+宫 B-NAME
+云 I-NAME
+战 E-NAME
+宫 O
+云 I-NAME
+战 E-NAME
+（ O
+博 O
+导 O
+） O
+来 O
+源 O
+： O
+计 O
+算 O
+机 I-ORG
+学 I-ORG
+院 E-ORG
+发 O
+布 O
+日 O
+期 O
+： O
+- O
+- O
+浏 O
+览 O
+量 O
+： O
+次 O
+姓 O
+名 O
+宫 B-NAME
+云 I-NAME
+战 E-NAME
+性 O
+别 O
+男 O
+职 O
+务 O
+学 O
+术 O
+兼 O
+职 O
+容 O
+错 O
+计 O
+算 O
+专 O
+业 O
+委 I-TITLE
+员 I-TITLE
+会 I-TITLE
+常 I-TITLE
+务 I-TITLE
+委 I-TITLE
+员 E-TITLE
+老 O
+师 E-TITLE
+类 O
+型 O
+博 O
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+、 O
+硕 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+所 O
+属 O
+中 O
+心 O
+网 O
+络 I-TITLE
+服 I-TITLE
+务 I-TITLE
+基 I-TITLE
+础 I-TITLE
+研 I-ORG
+究 I-ORG
+中 I-ORG
+心 E-ORG
+职 O
+称 O
+教 B-TITLE
+授 E-TITLE
+承 O
+担 O
+课 O
+程 O
+软 O
+件 O
+可 O
+靠 O
+性 O
+、 O
+软 O
+件 O
+测 O
+试 O
+研 O
+究 O
+方 O
+向 O
+软 O
+件 O
+测 O
+试 O
+个 O
+人 O
+介 O
+绍 O
+年 O
+生 O
+， O
+山 B-LOC
+东 I-LOC
+省 I-LOC
+威 I-LOC
+海 I-LOC
+市 I-LOC
+人 E-LOC
+。 O
+年 O
+月 O
+硕 B-EDU
+士 E-EDU
+毕 O
+业 O
+于 O
+国 B-ORG
+防 I-ORG
+科 I-ORG
+技 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+系 E-ORG
+， O
+年 O
+博 B-EDU
+士 E-EDU
+毕 O
+业 O
+于 O
+中 B-ORG
+国 I-ORG
+科 I-ORG
+学 I-ORG
+院 I-ORG
+计 I-ORG
+算 I-ORG
+技 I-ORG
+术 I-ORG
+研 I-ORG
+究 I-ORG
+所 E-ORG
+。 O
+年 O
+任 O
+装 B-ORG
+甲 I-ORG
+兵 I-ORG
+工 I-ORG
+程 I-ORG
+学 I-ORG
+院 E-ORG
+助 B-TITLE
+教 E-TITLE
+， O
+年 O
+任 O
+讲 B-TITLE
+师 E-TITLE
+， O
+年 O
+任 O
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+， O
+年 O
+任 O
+教 B-TITLE
+授 E-TITLE
+， O
+年 O
+被 O
+聘 O
+为 O
+装 B-ORG
+甲 I-ORG
+兵 I-ORG
+工 I-ORG
+程 I-ORG
+学 I-ORG
+院 E-ORG
+首 B-TITLE
+届 I-TITLE
+博 I-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+任 O
+装 B-ORG
+甲 I-ORG
+兵 I-ORG
+工 I-ORG
+程 I-ORG
+学 I-ORG
+院 E-ORG
+信 B-TITLE
+息 I-TITLE
+工 I-TITLE
+程 I-TITLE
+系 I-TITLE
+主 I-TITLE
+任 E-TITLE
+。 O
+年 O
+被 O
+聘 O
+为 O
+中 B-ORG
+国 I-ORG
+科 I-ORG
+学 I-ORG
+院 I-ORG
+计 I-ORG
+算 I-ORG
+技 I-ORG
+术 I-ORG
+研 I-ORG
+究 I-ORG
+所 E-ORG
+兼 B-TITLE
+职 I-TITLE
+研 I-TITLE
+究 I-TITLE
+员 E-TITLE
+, O
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+年 O
+被 O
+评 O
+为 O
+总 B-TITLE
+参 I-TITLE
+优 I-TITLE
+秀 I-TITLE
+中 I-TITLE
+青 I-TITLE
+年 I-TITLE
+专 I-TITLE
+家 E-TITLE
+， O
+年 O
+被 O
+选 O
+为 O
+九 B-TITLE
+届 I-TITLE
+全 I-TITLE
+国 I-TITLE
+人 I-TITLE
+大 I-TITLE
+代 I-TITLE
+表 E-TITLE
+， O
+年 O
+当 O
+选 O
+全 B-TITLE
+军 I-TITLE
+计 I-TITLE
+算 I-TITLE
+机 I-TITLE
+课 I-TITLE
+程 I-TITLE
+建 I-TITLE
+设 I-TITLE
+专 I-TITLE
+家 I-TITLE
+组 I-TITLE
+成 I-TITLE
+员 E-TITLE
+， O
+年 O
+当 O
+选 O
+/ O
+容 O
+错 O
+专 I-TITLE
+业 I-TITLE
+委 I-TITLE
+员 I-TITLE
+会 I-TITLE
+委 I-TITLE
+员 E-TITLE
+。 O
+年 O
+和 O
+年 O
+分 O
+别 O
+被 O
+聘 O
+为 O
+中 B-ORG
+国 I-ORG
+人 I-ORG
+民 I-ORG
+解 I-ORG
+放 I-ORG
+军 I-ORG
+总 I-ORG
+装 I-ORG
+备 I-ORG
+部 E-ORG
+第 B-TITLE
+一 I-TITLE
+届 I-TITLE
+和 I-TITLE
+第 I-TITLE
+二 I-TITLE
+界 I-TITLE
+学 I-TITLE
+位 I-TITLE
+委 I-TITLE
+员 I-TITLE
+会 I-TITLE
+委 I-TITLE
+员 E-TITLE
+， O
+年 O
+至 O
+今 O
+， O
+被 O
+聘 O
+为 O
+中 B-ORG
+国 I-ORG
+人 I-ORG
+民 I-ORG
+解 I-ORG
+放 I-ORG
+军 I-ORG
+总 I-ORG
+装 I-ORG
+备 I-ORG
+部 E-ORG
+第 B-TITLE
+一 I-TITLE
+届 I-TITLE
+和 I-TITLE
+第 I-TITLE
+二 I-TITLE
+界 I-TITLE
+职 I-TITLE
+称 I-TITLE
+评 I-TITLE
+定 I-TITLE
+委 I-TITLE
+员 I-TITLE
+会 I-TITLE
+委 I-TITLE
+员 E-TITLE
+。 O
+年 O
+， O
+当 O
+选 O
+/ O
+专 B-TITLE
+业 I-TITLE
+委 I-TITLE
+员 I-TITLE
+会 I-TITLE
+委 I-TITLE
+员 E-TITLE
+。 O
+在 O
+相 O
+关 O
+研 O
+究 O
+领 O
+域 O
+先 O
+后 O
+承 O
+担 O
+过 O
+多 O
+项 O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+、 O
+项 O
+目 O
+、 O
+子 O
+课 O
+题 O
+， O
+申 O
+请 O
+发 O
+明 O
+专 O
+利 O
+余 O
+项 O
+， O
+编 O
+写 O
+专 O
+著 O
+本 O
+、 O
+教 O
+材 O
+本 O
+， O
+发 O
+表 O
+学 O
+术 O
+论 O
+文 O
+余 O
+篇 O
+。 O
+获 O
+中 O
+国 O
+工 O
+程 O
+科 O
+学 O
+“ O
+求 O
+是 O
+” O
+奖 O
+次 O
+， O
+中 O
+科 O
+院 O
+自 O
+然 O
+科 O
+学 O
+等 O
+奖 O
+次 O
+， O
+军 O
+队 O
+科 O
+技 O
+进 O
+步 O
+等 O
+奖 O
+次 O
+， O
+军 O
+队 O
+教 O
+学 O
+成 O
+果 O
+等 O
+奖 O
+次 O
+。 O
+承 O
+担 O
+课 O
+题 O
+获 O
+奖 O
+和 O
+成 O
+果 O
+论 O
+文 O

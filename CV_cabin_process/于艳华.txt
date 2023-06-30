@@ -1,510 +1,511 @@
-个：O
-人：O
-简：O
-介：O
-于：B-NAME
-艳：I-NAME
-华：E-NAME
-（：O
-女：O
-，：O
-博：B-TITLE
-导：E-TITLE
-）：O
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-，：O
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-主：O
-要：O
-从：O
-事：O
-数：O
-据：O
-挖：O
-掘：O
-、：O
-机：O
-器：O
-学：O
-习：O
-、：O
-大：O
-数：O
-据：O
-技：O
-术：O
-等：O
-研：O
-究：O
-，：O
-近：O
-年：O
-专：O
-注：O
-于：O
-深：O
-度：O
-学：O
-习：O
-、：O
-知：O
-识：O
-图：O
-谱：O
-、：O
-等：O
-技：O
-术：O
-。：O
-在：O
-相：O
-关：O
-领：O
-域：O
-已：O
-发：O
-表：O
-学：O
-术：O
-论：O
-文：O
-余：O
-篇：O
-，：O
-授：O
-权：O
-专：O
-利：O
-余：O
-项：O
-。：O
-其：O
-中：O
-，：O
-/：O
-/：O
-类：O
-论：O
-文：O
-及：O
-论：O
-文：O
-近：O
-篇：O
-，：O
-发：O
-表：O
-的：O
-综：O
-述：O
-论：O
-文：O
-《：O
-大：O
-数：O
-据：O
-》：O
-引：O
-用：O
-次：O
-数：O
-达：O
-多：O
-次：O
-，：O
-发：O
-表：O
-的：O
-论：O
-文：O
-《：O
-》：O
-引：O
-用：O
-次：O
-数：O
-次：O
-。：O
-长：O
-期：O
-讲：O
-授：O
-《：O
-数：O
-据：O
-仓：O
-库：O
-与：O
-数：O
-据：O
-挖：O
-掘：O
-》：O
-《：O
-数：O
-据：O
-驱：O
-动：O
-的：O
-管：O
-理：O
-与：O
-决：O
-策：O
-》：O
-《：O
-商：O
-务：O
-数：O
-据：O
-分：O
-析：O
-》：O
-等：O
-课：O
-程：O
-，：O
-并：O
-将：O
-深：O
-度：O
-学：O
-习：O
-引：O
-入：O
-大：O
-数：O
-据：O
-专：O
-业：O
-《：O
-数：O
-据：O
-仓：O
-库：O
-与：O
-数：O
-据：O
-挖：O
-掘：O
-》：O
-中：O
-，：O
-该：O
-课：O
-程：O
-获：O
-评：O
-北：O
-京：O
-邮：O
-电：O
-大：O
-学：O
-优：O
-秀：O
-高：O
-新：O
-课：O
-程：O
-；：O
-将：O
-知：O
-识：O
-图：O
-谱：O
-引：O
-入：O
-《：O
-数：O
-据：O
-驱：O
-动：O
-的：O
-管：O
-理：O
-与：O
-决：O
-策：O
-》：O
-中：O
-。：O
-目：O
-前：O
-《：O
-数：O
-据：O
-仓：O
-库：O
-与：O
-数：O
-据：O
-挖：O
-掘：O
-》：O
-、：O
-《：O
-数：O
-据：O
-驱：O
-动：O
-的：O
-管：O
-理：O
-与：O
-决：O
-策：O
-》：O
-本：O
-教：O
-材：O
-正：O
-在：O
-撰：O
-写：O
-中：O
-，：O
-主：O
-持：O
-、：O
-完：O
-成：O
-教：O
-改：O
-项：O
-目：O
-项：O
-。：O
-科：O
-研：O
-方：O
-面：O
-，：O
--：O
-年：O
-作：O
-为：O
-课：B-TITLE
-题：I-TITLE
-任：I-TITLE
-务：I-TITLE
-负：I-TITLE
-责：I-TITLE
-人：E-TITLE
-承：O
-担：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-计：O
-划：O
-项：O
-目：O
-，：O
-年：O
-团：O
-队：O
-成：O
-为：O
-北：B-ORG
-京：I-ORG
-移：I-ORG
-动：I-ORG
-大：I-ORG
-数：I-ORG
-据：E-ORG
-合：O
-作：O
-伙：O
-伴：O
-，：O
--：O
-年：O
-团：O
-队：O
-完：O
-成：O
-人：O
-物：O
-画：O
-像：O
-知：O
-识：O
-图：O
-谱：O
-的：O
-项：O
-目：O
-研：O
-发：O
-，：O
-目：O
-前：O
-正：O
-在：O
-进：O
-行：O
-工：O
-业：O
-知：O
-识：O
-图：O
-谱：O
-的：O
-构：O
-建：O
-和：O
-推：O
-荐：O
-，：O
-以：O
-及：O
-国：O
-防：O
-大：O
-数：O
-据：O
-相：O
-关：O
-项：O
-目：O
-。：O
-指：O
-导：O
-学：O
-生：O
-在：O
-(：O
-类：O
-会：O
-议：O
-)：O
-、：O
-计：O
-算：O
-机：O
-研：O
-究：O
-与：O
-发：O
-展：O
-（：O
-类：O
-期：O
-刊：O
-）：O
-、：O
-(：O
-类：O
-会：O
-议：O
-)：O
-、：O
-(：O
-类：O
-会：O
-议：O
-)：O
-、：O
-(：O
-类：O
-会：O
-议：O
-)：O
-、：O
-(：O
-类：O
-会：O
-议：O
-)：O
-等：O
-知：O
-名：O
-国：O
-际：O
-会：O
-议：O
-和：O
-(：O
-年：O
-)：O
-发：O
-表：O
-论：O
-文：O
-。：O
-所：O
-指：O
-导：O
-的：O
-研：O
-究：O
-生：O
-全：O
-部：O
-按：O
-时：O
-毕：O
-业：O
-。：O
-主：O
-持：O
-/：O
-参：O
-与：O
-余：O
-项：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-计：O
-划：O
-项：O
-目：O
-、：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-项：O
-目：O
-、：O
-科：O
-技：O
-支：O
-撑：O
-计：O
-划：O
-项：O
-目：O
-等：O
-纵：O
-向：O
-项：O
+https://teacher.bupt.edu.cn/yuyanhua
+于 B-NAME
+艳 I-NAME
+华 E-NAME
+个 O
+人 O
+简 O
+介 O
+于 O
+艳 I-NAME
+华 E-NAME
+（ O
+女 O
+， O
+博 B-TITLE
+导 E-TITLE
+） O
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+， O
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+主 O
+要 O
+从 O
+事 O
+数 O
+据 O
+挖 O
+掘 O
+、 O
+机 O
+器 O
+学 O
+习 O
+、 O
+大 O
+数 O
+据 O
+技 O
+术 O
+等 O
+研 O
+究 O
+， O
+近 O
+年 O
+专 O
+注 O
+于 O
+深 O
+度 O
+学 O
+习 O
+、 O
+知 O
+识 O
+图 O
+谱 O
+、 O
+等 O
+技 O
+术 O
+。 O
+在 O
+相 O
+关 O
+领 O
+域 O
+已 O
+发 O
+表 O
+学 O
+术 O
+论 O
+文 O
+余 O
+篇 O
+， O
+授 O
+权 O
+专 O
+利 O
+余 O
+项 O
+。 O
+其 O
+中 O
+， O
+/ O
+/ O
+类 O
+论 O
+文 O
+及 O
+论 O
+文 O
+近 O
+篇 O
+， O
+发 O
+表 O
+的 O
+综 O
+述 O
+论 O
+文 O
+《 O
+大 O
+数 O
+据 O
+》 O
+引 O
+用 O
+次 O
+数 O
+达 O
+多 O
+次 O
+， O
+发 O
+表 O
+的 O
+论 O
+文 O
+《 O
+》 O
+引 O
+用 O
+次 O
+数 O
+次 O
+。 O
+长 O
+期 O
+讲 O
+授 O
+《 O
+数 O
+据 O
+仓 O
+库 O
+与 O
+数 O
+据 O
+挖 O
+掘 O
+》 O
+《 O
+数 O
+据 O
+驱 O
+动 O
+的 O
+管 O
+理 O
+与 O
+决 O
+策 O
+》 O
+《 O
+商 O
+务 O
+数 O
+据 O
+分 O
+析 O
+》 O
+等 O
+课 O
+程 O
+， O
+并 O
+将 O
+深 O
+度 O
+学 O
+习 O
+引 O
+入 O
+大 O
+数 O
+据 O
+专 O
+业 O
+《 O
+数 O
+据 O
+仓 O
+库 O
+与 O
+数 O
+据 O
+挖 O
+掘 O
+》 O
+中 O
+， O
+该 O
+课 O
+程 O
+获 O
+评 O
+北 O
+京 O
+邮 O
+电 O
+大 O
+学 O
+优 O
+秀 O
+高 O
+新 O
+课 O
+程 O
+； O
+将 O
+知 O
+识 O
+图 O
+谱 O
+引 O
+入 O
+《 O
+数 O
+据 O
+驱 O
+动 O
+的 O
+管 O
+理 O
+与 O
+决 O
+策 O
+》 O
+中 O
+。 O
+目 O
+前 O
+《 O
+数 O
+据 O
+仓 O
+库 O
+与 O
+数 O
+据 O
+挖 O
+掘 O
+》 O
+、 O
+《 O
+数 O
+据 O
+驱 O
+动 O
+的 O
+管 O
+理 O
+与 O
+决 O
+策 O
+》 O
+本 O
+教 O
+材 O
+正 O
+在 O
+撰 O
+写 O
+中 O
+， O
+主 O
+持 O
+、 O
+完 O
+成 O
+教 O
+改 O
+项 O
+目 O
+项 O
+。 O
+科 O
+研 O
+方 O
+面 O
+， O
+- O
+年 O
+作 O
+为 O
+课 B-TITLE
+题 I-TITLE
+任 I-TITLE
+务 I-TITLE
+负 I-TITLE
+责 I-TITLE
+人 E-TITLE
+承 O
+担 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+计 O
+划 O
+项 O
+目 O
+， O
+年 O
+团 O
+队 O
+成 O
+为 O
+北 B-ORG
+京 I-ORG
+移 I-ORG
+动 I-ORG
+大 I-ORG
+数 I-ORG
+据 E-ORG
+合 O
+作 O
+伙 O
+伴 O
+， O
+- O
+年 O
+团 O
+队 O
+完 O
+成 O
+人 O
+物 O
+画 O
+像 O
+知 O
+识 O
+图 O
+谱 O
+的 O
+项 O
+目 O
+研 O
+发 O
+， O
+目 O
+前 O
+正 O
+在 O
+进 O
+行 O
+工 O
+业 O
+知 O
+识 O
+图 O
+谱 O
+的 O
+构 O
+建 O
+和 O
+推 O
+荐 O
+， O
+以 O
+及 O
+国 O
+防 O
+大 O
+数 O
+据 O
+相 O
+关 O
+项 O
+目 O
+。 O
+指 O
+导 O
+学 O
+生 O
+在 O
+( O
+类 O
+会 O
+议 O
+) O
+、 O
+计 O
+算 O
+机 O
+研 O
+究 O
+与 O
+发 O
+展 O
+（ O
+类 O
+期 O
+刊 O
+） O
+、 O
+( O
+类 O
+会 O
+议 O
+) O
+、 O
+( O
+类 O
+会 O
+议 O
+) O
+、 O
+( O
+类 O
+会 O
+议 O
+) O
+、 O
+( O
+类 O
+会 O
+议 O
+) O
+等 O
+知 O
+名 O
+国 O
+际 O
+会 O
+议 O
+和 O
+( O
+年 O
+) O
+发 O
+表 O
+论 O
+文 O
+。 O
+所 O
+指 O
+导 O
+的 O
+研 O
+究 O
+生 O
+全 O
+部 O
+按 O
+时 O
+毕 O
+业 O
+。 O
+主 O
+持 O
+/ O
+参 O
+与 O
+余 O
+项 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+计 O
+划 O
+项 O
+目 O
+、 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+项 O
+目 O
+、 O
+科 O
+技 O
+支 O
+撑 O
+计 O
+划 O
+项 O
+目 O
+等 O

@@ -1,264 +1,268 @@
-个：O
-人：O
-简：O
-介：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-网：B-PRO
-络：I-PRO
-管：I-PRO
-理：I-PRO
-研：I-PRO
-究：I-PRO
-中：I-PRO
-心：E-ORG
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-，：O
-硕：B-TITLE
-士：I-TITLE
-研：I-TITLE
-究：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-。：O
-聚：O
-焦：O
-物：O
-联：O
-网：O
-通：O
-信：O
-资：O
-源：O
-管：O
-理：O
-，：O
-形：O
-成：O
-了：O
-涵：O
-盖：O
-业：O
-务：O
-调：O
-度：O
-、：O
-服：O
-务：O
-部：O
-署：O
-、：O
-资：O
-源：O
-分：O
-配：O
-和：O
-数：O
-据：O
-共：O
-享：O
-的：O
-资：O
-源：O
-智：O
-能：O
-管：O
-控：O
-体：O
-系：O
-，：O
-发：O
-表：O
-/：O
-论：O
-文：O
-三：O
-十：O
-余：O
-篇：O
-，：O
-其：O
-中：O
-以：O
-第：O
-一：O
-作：O
-者：O
-在：O
-《：O
-》：O
-、：O
-《：O
-》：O
-、：O
-《：O
-》：O
-、：O
-通：O
-信：O
-学：O
-报：O
-、：O
-电：O
-子：O
-学：O
-报：O
-等：O
-国：O
-内：O
-外：O
-高：O
-水：O
-平：O
-学：O
-术：O
-期：O
-刊：O
-上：O
-发：O
-表：O
-论：O
-文：O
-多：O
-篇：O
-；：O
-获：O
-授：O
-权：O
-国：O
-内：O
-外：O
-发：O
-明：O
-专：O
-利：O
-三：O
-十：O
-余：O
-项：O
-，：O
-并：O
-参：O
-与：O
-项：O
--：O
-国：O
-际：O
-标：O
-准：O
-的：O
-制：O
-定：O
-；：O
-获：O
-年：O
-河：O
-北：O
-省：O
-科：O
-学：O
-技：O
-术：O
-进：O
-步：O
-奖：O
-二：O
-等：O
-奖：O
-、：O
-年：O
-电：O
-力：O
-科：O
-技：O
-创：O
-新：O
-奖：O
-二：O
-等：O
-奖：O
-，：O
-代：O
-表：O
-性：O
-成：O
-果：O
-在：O
-辽：O
-宁：O
-、：O
-河：O
-北：O
-、：O
-河：O
-南：O
-、：O
-广：O
-东：O
-等：O
-电：O
-力：O
-公：O
-司：O
-的：O
-实：O
-际：O
-电：O
-网：O
-中：O
-进：O
-行：O
-规：O
-模：O
-化：O
-应：O
-用：O
-，：O
-效：O
-益：O
-显：O
-著：O
-。：O
-参：O
-与：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-计：O
-划：O
-课：O
-题：O
-项：O
-，：O
-承：O
-担：O
-企：O
-业：O
-委：O
-托：O
-项：O
-目：O
-项：O
-，：O
-研：O
-究：O
-方：O
-向：O
-稳：O
-定：O
-。：O
+https://teacher.bupt.edu.cn/xusiya1
+徐 B-NAME
+思 I-NAME
+雅 E-NAME
+个 O
+人 O
+简 O
+介 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+网 B-PRO
+络 I-PRO
+管 I-PRO
+理 I-PRO
+研 I-PRO
+究 I-PRO
+中 I-PRO
+心 E-ORG
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+， O
+硕 B-TITLE
+士 I-TITLE
+研 I-TITLE
+究 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+。 O
+聚 O
+焦 O
+物 O
+联 O
+网 O
+通 O
+信 O
+资 O
+源 O
+管 O
+理 O
+， O
+形 O
+成 O
+了 O
+涵 O
+盖 O
+业 O
+务 O
+调 O
+度 O
+、 O
+服 O
+务 O
+部 O
+署 O
+、 O
+资 O
+源 O
+分 O
+配 O
+和 O
+数 O
+据 O
+共 O
+享 O
+的 O
+资 O
+源 O
+智 O
+能 O
+管 O
+控 O
+体 O
+系 O
+， O
+发 O
+表 O
+/ O
+论 O
+文 O
+三 O
+十 O
+余 O
+篇 O
+， O
+其 O
+中 O
+以 O
+第 O
+一 O
+作 O
+者 O
+在 O
+《 O
+》 O
+、 O
+《 O
+》 O
+、 O
+《 O
+》 O
+、 O
+通 O
+信 O
+学 O
+报 O
+、 O
+电 O
+子 O
+学 O
+报 O
+等 O
+国 O
+内 O
+外 O
+高 O
+水 O
+平 O
+学 O
+术 O
+期 O
+刊 O
+上 O
+发 O
+表 O
+论 O
+文 O
+多 O
+篇 O
+； O
+获 O
+授 O
+权 O
+国 O
+内 O
+外 O
+发 O
+明 O
+专 O
+利 O
+三 O
+十 O
+余 O
+项 O
+， O
+并 O
+参 O
+与 O
+项 O
+- O
+国 O
+际 O
+标 O
+准 O
+的 O
+制 O
+定 O
+； O
+获 O
+年 O
+河 O
+北 O
+省 O
+科 O
+学 O
+技 O
+术 O
+进 O
+步 O
+奖 O
+二 O
+等 O
+奖 O
+、 O
+年 O
+电 O
+力 O
+科 O
+技 O
+创 O
+新 O
+奖 O
+二 O
+等 O
+奖 O
+， O
+代 O
+表 O
+性 O
+成 O
+果 O
+在 O
+辽 O
+宁 O
+、 O
+河 O
+北 O
+、 O
+河 O
+南 O
+、 O
+广 O
+东 O
+等 O
+电 O
+力 O
+公 O
+司 O
+的 O
+实 O
+际 O
+电 O
+网 O
+中 O
+进 O
+行 O
+规 O
+模 O
+化 O
+应 O
+用 O
+， O
+效 O
+益 O
+显 O
+著 O
+。 O
+参 O
+与 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+计 O
+划 O
+课 O
+题 O
+项 O
+， O
+承 O
+担 O
+企 O
+业 O
+委 O
+托 O
+项 O
+目 O
+项 O
+， O
+研 O
+究 O
+方 O
+向 O
+稳 O
+定 O
+。 O

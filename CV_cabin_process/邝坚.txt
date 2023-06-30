@@ -1,188 +1,191 @@
-个：O
-人：O
-简：O
-介：O
--：O
-年：O
-教：B-ORG
-育：I-ORG
-部：I-ORG
-高：I-ORG
-等：I-ORG
-学：I-ORG
-校：I-ORG
-软：I-ORG
-件：I-ORG
-工：I-ORG
-程：I-ORG
-专：I-ORG
-业：E-ORG
-教：B-TITLE
-学：I-TITLE
-指：I-ORG
-导：I-ORG
-委：I-ORG
-员：I-ORG
-会：E-ORG
-委：B-TITLE
-员：E-TITLE
-，：O
-全：B-ORG
-国：I-ORG
-高：I-ORG
-校：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-教：I-ORG
-育：I-ORG
-研：I-ORG
-究：I-ORG
-会：E-ORG
-常：B-TITLE
-务：I-TITLE
-理：I-TITLE
-事：E-TITLE
-，：O
-中：B-ORG
-国：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-会：I-ORG
-嵌：I-ORG
-入：I-ORG
-式：I-ORG
-系：I-ORG
-统：I-ORG
-专：I-ORG
-业：I-ORG
-委：I-ORG
-员：I-ORG
-会：E-ORG
-委：B-TITLE
-员：E-TITLE
-，：O
-北：B-ORG
-京：I-ORG
-市：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-与：I-ORG
-信：I-ORG
-息：I-ORG
-类：I-ORG
-专：I-ORG
-业：I-ORG
-群：E-ORG
-专：B-TITLE
-家：I-TITLE
-委：I-TITLE
-员：I-ORG
-会：E-ORG
-委：B-TITLE
-员：E-TITLE
-。：O
-北：B-ORG
-京：I-ORG
-市：I-ORG
-优：I-ORG
-秀：I-ORG
-教：I-ORG
-师：E-TITLE
-（：O
-）：O
-，：O
-北：B-ORG
-京：I-ORG
-市：I-ORG
-教：I-ORG
-学：I-ORG
-名：I-ORG
-师：I-ORG
-奖：E-ORG
-（：O
-）：O
-，：O
-第：B-ORG
-五：I-ORG
-届：I-ORG
-中：I-ORG
-国：I-ORG
-“：I-ORG
-互：I-ORG
-联：I-ORG
-网：I-ORG
-+：O
-”：O
-大：O
-学：O
-生：O
-创：O
-新：O
-创：O
-业：O
-大：O
-赛：O
-优：O
-秀：O
-创：O
-新：O
-创：O
-业：O
-导：O
-师：O
-（：O
-）：O
-，：O
-奖：O
-教：O
-金：O
-（：O
-）：O
-。：O
-曾：O
-获：O
-国：O
-家：O
-级：O
-教：O
-学：O
-成：O
-果：O
-二：O
-等：O
-奖：O
-项：O
-（：O
-，：O
-）：O
-，：O
-北：O
-京：O
-市：O
-教：O
-育：O
-教：O
-学：O
-成：O
-果：O
-一：O
-等：O
-奖：O
-项：O
-（：O
-*：O
-/：O
-/：O
-/：O
-）：O
-二：O
-等：O
-奖：O
-项：O
-（：O
-）：O
-。：O
+https://teacher.bupt.edu.cn/kuangjian
+邝 B-NAME
+坚 E-NAME
+个 O
+人 O
+简 O
+介 O
+- O
+年 O
+教 B-TITLE
+育 I-TITLE
+部 I-ORG
+高 I-ORG
+等 I-ORG
+学 I-ORG
+校 I-ORG
+软 I-ORG
+件 I-ORG
+工 I-ORG
+程 I-ORG
+专 I-ORG
+业 E-ORG
+教 B-TITLE
+学 I-TITLE
+指 I-ORG
+导 I-ORG
+委 I-ORG
+员 I-ORG
+会 E-ORG
+委 B-TITLE
+员 E-TITLE
+， O
+全 B-ORG
+国 I-ORG
+高 I-ORG
+校 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+教 I-ORG
+育 I-ORG
+研 I-ORG
+究 I-ORG
+会 E-ORG
+常 B-TITLE
+务 I-TITLE
+理 I-TITLE
+事 E-TITLE
+， O
+中 B-ORG
+国 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+会 I-ORG
+嵌 I-ORG
+入 I-ORG
+式 I-ORG
+系 I-ORG
+统 I-ORG
+专 I-ORG
+业 I-ORG
+委 I-ORG
+员 I-ORG
+会 E-ORG
+委 B-TITLE
+员 E-TITLE
+， O
+北 B-ORG
+京 I-ORG
+市 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+与 I-ORG
+信 I-ORG
+息 I-ORG
+类 I-ORG
+专 I-ORG
+业 I-ORG
+群 E-ORG
+专 B-TITLE
+家 I-TITLE
+委 I-TITLE
+员 I-TITLE
+会 I-TITLE
+委 I-TITLE
+员 E-TITLE
+。 O
+北 B-ORG
+京 I-ORG
+市 I-ORG
+优 I-ORG
+秀 I-ORG
+教 I-ORG
+师 E-TITLE
+（ O
+） O
+， O
+北 B-ORG
+京 I-ORG
+市 I-ORG
+教 I-ORG
+学 I-ORG
+名 I-ORG
+师 I-ORG
+奖 E-ORG
+（ O
+） O
+， O
+第 B-ORG
+五 I-ORG
+届 I-ORG
+中 I-ORG
+国 I-ORG
+“ I-ORG
+互 I-ORG
+联 I-ORG
+网 I-ORG
++ O
+” O
+大 O
+学 O
+生 O
+创 O
+新 O
+创 O
+业 O
+大 O
+赛 O
+优 O
+秀 O
+创 O
+新 O
+创 O
+业 O
+导 O
+师 O
+（ O
+） O
+， O
+奖 O
+教 O
+金 O
+（ O
+） O
+。 O
+曾 O
+获 O
+国 O
+家 O
+级 O
+教 O
+学 O
+成 O
+果 O
+二 O
+等 O
+奖 O
+项 O
+（ O
+， O
+） O
+， O
+北 O
+京 O
+市 O
+教 O
+育 O
+教 O
+学 O
+成 O
+果 O
+一 O
+等 O
+奖 O
+项 O
+（ O
+* O
+/ O
+/ O
+/ O
+） O
+二 O
+等 O
+奖 O
+项 O
+（ O
+） O
+。 O

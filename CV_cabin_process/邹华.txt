@@ -1,314 +1,317 @@
-邹：B-NAME
-华：E-NAME
-电：O
-子：O
-邮：O
-箱：O
-：：O
-@：O
-.：O
-.：O
-所：O
-在：O
-单：O
-位：O
-：：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：O
-示：O
-范：I-ORG
-性：I-ORG
-软：I-ORG
-件：I-ORG
-学：I-ORG
-院：E-ORG
-）：O
-学：O
-历：O
-：：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-毕：O
-业：O
-性：O
-别：O
-：：O
-女：O
-学：B-EDU
-位：E-EDU
-：：O
-硕：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-职：O
-称：O
-：：O
-教：B-TITLE
-授：E-TITLE
-在：O
-职：O
-信：O
-息：O
-：：O
-在：O
-职：O
-毕：O
-业：O
-院：O
-校：O
-：：O
-重：B-ORG
-庆：I-ORG
-大：I-ORG
-学：E-ORG
-硕：B-EDU
-士：I-EDU
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-所：O
-属：O
-院：O
-系：O
-：：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-访：O
-问：O
-量：O
-：：O
-开：O
-通：O
-时：O
-间：O
-：：O
-.：O
-.：O
-最：O
-后：O
-更：O
-新：O
-时：O
-间：O
-：：O
-.：O
-.：O
-个：O
-人：O
-简：O
-介：O
-于：O
-年：O
-、：O
-年：O
-在：O
-重：B-ORG
-庆：I-ORG
-大：I-ORG
-学：E-ORG
-分：O
-别：O
-获：O
-得：O
-计：B-PRO
-算：I-PRO
-机：I-PRO
-软：I-PRO
-件：I-PRO
-专：I-PRO
-业：E-PRO
-学：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-、：O
-计：B-TITLE
-算：I-TITLE
-机：I-TITLE
-科：I-TITLE
-学：I-TITLE
-理：I-PRO
-论：I-PRO
-专：I-PRO
-业：E-PRO
-硕：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-。：O
-年：O
-起：O
-在：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-网：I-ORG
-络：I-ORG
-与：I-ORG
-交：I-ORG
-换：I-ORG
-技：I-ORG
-术：I-ORG
-国：I-ORG
-家：I-ORG
-重：I-ORG
-点：I-ORG
-实：I-ORG
-验：I-ORG
-室：E-ORG
-从：O
-事：O
-通：B-PRO
-信：I-PRO
-软：I-PRO
-件：E-PRO
-、：O
-分：O
-布：O
-式：O
-计：O
-算：O
-、：O
-融：O
-合：O
-网：O
-络：O
-、：O
-融：O
-合：O
-网：O
-络：O
-业：O
-务：O
-平：O
-台：O
-及：O
-网：O
-络：O
-应：O
-用：O
-软：O
-件：O
-等：O
-的：O
-相：O
-关：O
-教：O
-学：O
-和：O
-科：O
-研：O
-工：O
-作：O
-。：O
-作：O
-为：O
-项：O
-目：O
-负：O
-责：O
-人：O
-或：O
-主：O
-研：O
-人：O
-员：O
-承：O
-担：O
-多：O
-项：O
-国：O
-家：O
-级：O
-、：O
-省：O
-部：O
-级：O
-、：O
-国：O
-际：O
-合：O
-作：O
-以：O
-及：O
-企：O
-业：O
-合：O
-作：O
-项：O
-目：O
-。：O
-年：O
-获：O
-得：O
-中：O
-国：O
-通：O
-信：O
-学：O
-会：O
-科：O
-学：O
-技：O
-术：O
-一：O
-等：O
-奖：O
-；：O
-年：O
-获：O
-得：O
-国：O
-家：O
-科：O
-技：O
-进：O
-步：O
-二：O
-等：O
-奖：O
-。：O
-发：O
-表：O
-被：O
-、：O
-收：O
-录：O
-的：O
-学：O
-术：O
-论：O
-文：O
-数：O
-十：O
-篇：O
-、：O
-专：O
-著：O
-本：O
-、：O
-编：O
-著：O
-本：O
-，：O
-授：O
-权：O
-专：O
-利：O
-余：O
-项：O
-。：O
+https://teacher.bupt.edu.cn/zouhua
+邹 B-NAME
+华 E-NAME
+邹 B-NAME
+华 E-NAME
+电 O
+子 O
+邮 O
+箱 O
+： O
+@ O
+. O
+. O
+所 O
+在 O
+单 O
+位 O
+： O
+计 O
+算 O
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 I-ORG
+性 I-ORG
+软 I-ORG
+件 I-ORG
+学 I-ORG
+院 E-ORG
+） O
+学 B-EDU
+历 E-EDU
+： O
+研 B-EDU
+究 I-EDU
+生 E-EDU
+毕 O
+业 O
+性 O
+别 O
+： O
+女 O
+学 B-EDU
+位 E-EDU
+： O
+硕 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+职 O
+称 O
+： O
+教 B-TITLE
+授 E-TITLE
+在 O
+职 O
+信 O
+息 O
+： O
+在 O
+职 O
+毕 O
+业 O
+院 O
+校 O
+： O
+重 B-ORG
+庆 I-ORG
+大 I-ORG
+学 E-ORG
+硕 B-EDU
+士 I-EDU
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+所 O
+属 O
+院 O
+系 O
+： O
+计 O
+算 O
+机 I-ORG
+学 I-ORG
+院 E-ORG
+访 O
+问 O
+量 O
+： O
+开 O
+通 O
+时 O
+间 O
+： O
+. O
+. O
+最 O
+后 O
+更 O
+新 O
+时 O
+间 O
+： O
+. O
+. O
+个 O
+人 O
+简 O
+介 O
+于 O
+年 O
+、 O
+年 O
+在 O
+重 B-ORG
+庆 I-ORG
+大 I-ORG
+学 E-ORG
+分 O
+别 O
+获 O
+得 O
+计 B-PRO
+算 I-PRO
+机 I-PRO
+软 I-PRO
+件 I-PRO
+专 I-PRO
+业 E-PRO
+学 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+、 O
+计 B-TITLE
+算 I-TITLE
+机 I-TITLE
+科 I-TITLE
+学 I-PRO
+理 I-PRO
+论 I-PRO
+专 I-PRO
+业 E-PRO
+硕 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+。 O
+年 O
+起 O
+在 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+网 I-ORG
+络 I-ORG
+与 I-ORG
+交 I-ORG
+换 I-ORG
+技 I-ORG
+术 I-ORG
+国 I-ORG
+家 I-ORG
+重 I-ORG
+点 I-ORG
+实 I-ORG
+验 I-ORG
+室 E-ORG
+从 O
+事 O
+通 B-PRO
+信 I-PRO
+软 I-PRO
+件 E-PRO
+、 O
+分 O
+布 O
+式 O
+计 O
+算 O
+、 O
+融 O
+合 O
+网 O
+络 O
+、 O
+融 O
+合 O
+网 O
+络 O
+业 O
+务 O
+平 O
+台 O
+及 O
+网 O
+络 O
+应 O
+用 O
+软 O
+件 O
+等 O
+的 O
+相 O
+关 O
+教 O
+学 O
+和 O
+科 O
+研 O
+工 O
+作 O
+。 O
+作 O
+为 O
+项 O
+目 O
+负 O
+责 O
+人 O
+或 O
+主 O
+研 O
+人 O
+员 O
+承 O
+担 O
+多 O
+项 O
+国 O
+家 O
+级 O
+、 O
+省 O
+部 O
+级 O
+、 O
+国 O
+际 O
+合 O
+作 O
+以 O
+及 O
+企 O
+业 O
+合 O
+作 O
+项 O
+目 O
+。 O
+年 O
+获 O
+得 O
+中 O
+国 O
+通 O
+信 O
+学 O
+会 O
+科 O
+学 O
+技 O
+术 O
+一 O
+等 O
+奖 O
+； O
+年 O
+获 O
+得 O
+国 O
+家 O
+科 O
+技 O
+进 O
+步 O
+二 O
+等 O
+奖 O
+。 O
+发 O
+表 O
+被 O
+、 O
+收 O
+录 O
+的 O
+学 O
+术 O
+论 O
+文 O
+数 O
+十 O
+篇 O
+、 O
+专 O
+著 O
+本 O
+、 O
+编 O
+著 O
+本 O
+， O
+授 O
+权 O
+专 O
+利 O
+余 O
+项 O
+。 O

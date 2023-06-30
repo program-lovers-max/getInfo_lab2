@@ -1,88 +1,91 @@
-吴：B-NAME
-军：E-NAME
-所：O
-在：O
-单：O
-位：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：I-ORG
-示：I-ORG
-范：I-ORG
-性：I-ORG
-软：I-ORG
-件：I-ORG
-学：I-ORG
-院：E-ORG
-）：O
-学：B-EDU
-历：E-EDU
-：：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-毕：O
-业：O
-性：O
-别：O
-：：O
-男：O
-学：B-EDU
-位：E-EDU
-：：O
-硕：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-职：O
-称：O
-：：O
-讲：B-TITLE
-师：E-TITLE
-（：O
-高：O
-校：O
-）：O
-在：O
-职：O
-信：O
-息：O
-：：O
-在：O
-职：O
-所：O
-属：O
-院：O
-系：O
-：：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-访：O
-问：O
-量：O
-：：O
-开：O
-通：O
-时：O
-间：O
-：：O
-.：O
-.：O
-最：O
-后：O
-更：O
-新：O
-时：O
-间：O
-：：O
-.：O
-.：O
+https://teacher.bupt.edu.cn/wujun
+吴 B-NAME
+军 E-NAME
+吴 B-NAME
+军 E-NAME
+所 O
+在 O
+单 O
+位 O
+： O
+计 O
+算 O
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 O
+性 O
+软 O
+件 O
+学 I-ORG
+院 E-ORG
+） O
+学 B-EDU
+历 E-EDU
+： O
+研 B-EDU
+究 I-EDU
+生 E-EDU
+毕 O
+业 O
+性 O
+别 O
+： O
+男 O
+学 B-EDU
+位 E-EDU
+： O
+硕 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+职 O
+称 O
+： O
+讲 B-TITLE
+师 E-TITLE
+（ O
+高 O
+校 O
+） O
+在 O
+职 O
+信 O
+息 O
+： O
+在 O
+职 O
+所 O
+属 O
+院 O
+系 O
+： O
+计 O
+算 O
+机 O
+学 I-ORG
+院 E-ORG
+访 O
+问 O
+量 O
+： O
+开 O
+通 O
+时 O
+间 O
+： O
+. O
+. O
+最 O
+后 O
+更 O
+新 O
+时 O
+间 O
+： O
+. O
+. O

@@ -1,179 +1,183 @@
-个：O
-人：O
-简：O
-介：O
-发：O
-表：O
-/：O
-检：O
-索：O
-论：O
-文：O
-余：O
-篇：O
-，：O
-出：O
-版：O
-教：O
-材：O
-部：O
-，：O
-已：O
-获：O
-国：O
-家：O
-发：O
-明：O
-专：O
-利：O
-授：O
-权：O
-项：O
-，：O
-获：O
-中：O
-国：O
-电：O
-子：O
-学：O
-会：O
-电：O
-子：O
-信：O
-息：O
-科：O
-学：O
-技：O
-术：O
-奖：O
-三：O
-等：O
-奖：O
-项：O
-。：O
-参：O
-与：O
-完：O
-成：O
-多：O
-项：O
-纵：O
-向：O
-科：O
-研：O
-项：O
-目：O
-，：O
-包：O
-括：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-项：O
-目：O
-、：O
-国：O
-家：O
-发：O
-改：O
-委：O
-项：O
-目：O
-、：O
-国：O
-家：O
-科：O
-技：O
-支：O
-撑：O
-计：O
-划：O
-项：O
-目：O
-；：O
-主：O
-持：O
-多：O
-项：O
-与：O
-企：O
-业：O
-合：O
-作：O
-的：O
-横：O
-向：O
-项：O
-目：O
-。：O
-目：O
-前：O
-主：O
-要：O
-研：O
-究：O
-领：O
-域：O
-为：O
-计：O
-算：O
-机：O
-应：O
-用：O
-技：O
-术：O
-、：O
-人：O
-工：O
-智：O
-能：O
-与：O
-大：O
-数：O
-据：O
-。：O
-教：O
-育：O
-经：O
-历：O
-暂：O
-无：O
-内：O
-容：O
-工：O
-作：O
-经：O
-历：O
-暂：O
-无：O
-内：O
-容：O
-研：O
-究：O
-方：O
-向：O
-暂：O
-无：O
-内：O
-容：O
-社：O
-会：O
-兼：O
-职：O
-暂：O
-无：O
-内：O
-容：O
-团：O
-队：O
-成：O
-员：O
-暂：O
-无：O
-内：O
-容：O
+https://teacher.bupt.edu.cn/zhangyujie
+张 B-NAME
+玉 I-NAME
+洁 E-NAME
+个 O
+人 O
+简 O
+介 O
+发 O
+表 O
+/ O
+检 O
+索 O
+论 O
+文 O
+余 O
+篇 O
+， O
+出 O
+版 O
+教 O
+材 O
+部 O
+， O
+已 O
+获 O
+国 O
+家 O
+发 O
+明 O
+专 O
+利 O
+授 O
+权 O
+项 O
+， O
+获 O
+中 O
+国 O
+电 O
+子 O
+学 O
+会 O
+电 O
+子 O
+信 O
+息 O
+科 O
+学 O
+技 O
+术 O
+奖 O
+三 O
+等 O
+奖 O
+项 O
+。 O
+参 O
+与 O
+完 O
+成 O
+多 O
+项 O
+纵 O
+向 O
+科 O
+研 O
+项 O
+目 O
+， O
+包 O
+括 O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+项 O
+目 O
+、 O
+国 O
+家 O
+发 O
+改 O
+委 O
+项 O
+目 O
+、 O
+国 O
+家 O
+科 O
+技 O
+支 O
+撑 O
+计 O
+划 O
+项 O
+目 O
+； O
+主 O
+持 O
+多 O
+项 O
+与 O
+企 O
+业 O
+合 O
+作 O
+的 O
+横 O
+向 O
+项 O
+目 O
+。 O
+目 O
+前 O
+主 O
+要 O
+研 O
+究 O
+领 O
+域 O
+为 O
+计 O
+算 O
+机 O
+应 O
+用 O
+技 O
+术 O
+、 O
+人 O
+工 O
+智 O
+能 O
+与 O
+大 O
+数 O
+据 O
+。 O
+教 O
+育 O
+经 O
+历 O
+暂 O
+无 O
+内 O
+容 O
+工 O
+作 O
+经 O
+历 O
+暂 O
+无 O
+内 O
+容 O
+研 O
+究 O
+方 O
+向 O
+暂 O
+无 O
+内 O
+容 O
+社 O
+会 O
+兼 O
+职 O
+暂 O
+无 O
+内 O
+容 O
+团 O
+队 O
+成 O
+员 O
+暂 O
+无 O
+内 O
+容 O

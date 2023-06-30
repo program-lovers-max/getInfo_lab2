@@ -1,320 +1,324 @@
-个：O
-人：O
-简：O
-介：O
-黄：B-NAME
-智：I-NAME
-濒：E-NAME
-，：O
-男：O
-，：O
-硕：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-讲：B-TITLE
-师：E-TITLE
-，：O
-博：B-EDU
-士：E-EDU
-,：O
-中：B-ORG
-国：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-会：E-ORG
-会：B-TITLE
-员：E-TITLE
-，：O
-中：B-ORG
-国：I-ORG
-电：I-ORG
-子：I-ORG
-学：I-ORG
-会：E-ORG
-会：B-TITLE
-员：E-TITLE
-。：O
-年：O
-毕：O
-业：O
-于：O
-北：B-ORG
-京：I-ORG
-航：I-ORG
-空：I-ORG
-航：I-ORG
-天：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-系：I-ORG
-统：I-PRO
-结：I-PRO
-构：I-PRO
-专：I-PRO
-业：E-PRO
-，：O
-获：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-。：O
-目：O
-前：O
-以：O
-第：O
-一：O
-作：O
-者：O
-在：O
-包：O
-括：O
-等：O
-领：O
-域：O
-内：O
-顶：O
-级：O
-刊：O
-物：O
-已：O
-发：O
-表：O
-/：O
-检：O
-索：O
-论：O
-文：O
-多：O
-篇：O
-，：O
-授：O
-权：O
-专：O
-利：O
-项：O
-，：O
-获：O
-得：O
-软：O
-件：O
-著：O
-作：O
-权：O
-项：O
-。：O
-主：O
-持：O
-或：O
-参：O
-与：O
-重：O
-点：O
-重：O
-大：O
-工：O
-程：O
-支：O
-持：O
-项：O
-目：O
-，：O
-基：O
-础：O
-研：O
-究：O
-项：O
-目：O
-，：O
-全：O
-球：O
-共：O
-享：O
-大：O
-学：O
-研：O
-究：O
-项：O
-目：O
-，：O
-软：O
-件：O
-开：O
-发：O
-环：O
-境：O
-国：O
-家：O
-重：O
-点：O
-实：O
-验：O
-室：O
-项：O
-目：O
-，：O
-中：O
-国：O
-博：B-TITLE
-士：I-TITLE
-后：I-TITLE
-基：I-TITLE
-金：I-TITLE
-，：O
-中：B-TITLE
-央：I-TITLE
-基：I-TITLE
-本：I-TITLE
-业：I-TITLE
-务：I-TITLE
-费：I-TITLE
-科：I-TITLE
-研：O
-项：O
-目：O
-等：O
-，：O
-参：O
-与：O
-了：O
-项：O
-国：O
-家：O
-和：O
-项：O
-目：O
-研：O
-究：O
-，：O
-参：O
-与：O
-建：O
-设：O
-了：O
-联：O
-想：O
-集：O
-团：O
-全：O
-球：O
-供：O
-应：O
-链：O
-系：O
-统：O
-项：O
-目：O
-等：O
-，：O
-横：O
-向：O
-和：O
-纵：O
-向：O
-科：O
-研：O
-项：O
-目：O
-经：O
-费：O
-充：O
-足：O
-。：O
-目：O
-前：O
-主：O
-要：O
-的：O
-研：O
-究：O
-兴：O
-趣：O
-与：O
-方：O
-向：O
-包：O
-括：O
-：：O
-深：O
-度：O
-学：O
-习：O
-体：O
-系：O
-架：O
-构：O
-，：O
-多：O
-模：O
-态：O
-目：O
-标：O
-检：O
-测：O
-跟：O
-踪：O
-等：O
-视：O
-觉：O
-方：O
-法：O
-，：O
-加：O
-速：O
-计：O
-算：O
-及：O
-超：O
-大：O
-规：O
-模：O
-科：O
-学：O
-计：O
-算：O
-，：O
-大：O
-数：O
-据：O
-分：O
-析：O
-与：O
-处：O
-理：O
-以：O
-及：O
-空：O
-间：O
-分：O
-析：O
-方：O
-法：O
-及：O
-空：O
-间：O
-可：O
-视：O
-化：O
-分：O
-析：O
-等：O
-。：O
+https://teacher.bupt.edu.cn/huangzhibin
+黄 B-NAME
+智 I-NAME
+濒 E-NAME
+个 O
+人 O
+简 O
+介 O
+黄 B-NAME
+智 I-NAME
+濒 E-NAME
+， O
+男 O
+， O
+硕 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+讲 B-TITLE
+师 E-TITLE
+， O
+博 B-EDU
+士 E-EDU
+, O
+中 B-ORG
+国 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+会 E-ORG
+会 B-TITLE
+员 E-TITLE
+， O
+中 B-ORG
+国 I-ORG
+电 I-ORG
+子 I-ORG
+学 I-ORG
+会 E-ORG
+会 B-TITLE
+员 E-TITLE
+。 O
+年 O
+毕 O
+业 O
+于 O
+北 B-ORG
+京 I-ORG
+航 I-ORG
+空 I-ORG
+航 I-ORG
+天 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+系 I-ORG
+统 I-ORG
+结 I-ORG
+构 I-ORG
+专 I-PRO
+业 E-PRO
+， O
+获 O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+。 O
+目 O
+前 O
+以 O
+第 O
+一 O
+作 O
+者 O
+在 O
+包 O
+括 O
+等 O
+领 O
+域 O
+内 O
+顶 O
+级 O
+刊 O
+物 O
+已 O
+发 O
+表 O
+/ O
+检 O
+索 O
+论 O
+文 O
+多 O
+篇 O
+， O
+授 O
+权 O
+专 O
+利 O
+项 O
+， O
+获 O
+得 O
+软 O
+件 O
+著 O
+作 O
+权 O
+项 O
+。 O
+主 O
+持 O
+或 O
+参 O
+与 O
+重 O
+点 O
+重 O
+大 O
+工 O
+程 O
+支 O
+持 O
+项 O
+目 O
+， O
+基 O
+础 O
+研 O
+究 O
+项 O
+目 O
+， O
+全 O
+球 O
+共 O
+享 O
+大 O
+学 O
+研 O
+究 O
+项 O
+目 O
+， O
+软 O
+件 O
+开 O
+发 O
+环 O
+境 O
+国 O
+家 O
+重 O
+点 O
+实 O
+验 O
+室 O
+项 O
+目 O
+， O
+中 O
+国 O
+博 B-TITLE
+士 I-TITLE
+后 I-TITLE
+基 I-TITLE
+金 I-TITLE
+， O
+中 B-TITLE
+央 I-TITLE
+基 I-TITLE
+本 I-TITLE
+业 I-TITLE
+务 I-TITLE
+费 I-TITLE
+科 I-TITLE
+研 O
+项 O
+目 O
+等 O
+， O
+参 O
+与 O
+了 O
+项 O
+国 O
+家 O
+和 O
+项 O
+目 O
+研 O
+究 O
+， O
+参 O
+与 O
+建 O
+设 O
+了 O
+联 O
+想 O
+集 O
+团 O
+全 O
+球 O
+供 O
+应 O
+链 O
+系 O
+统 O
+项 O
+目 O
+等 O
+， O
+横 O
+向 O
+和 O
+纵 O
+向 O
+科 O
+研 O
+项 O
+目 O
+经 O
+费 O
+充 O
+足 O
+。 O
+目 O
+前 O
+主 O
+要 O
+的 O
+研 O
+究 O
+兴 O
+趣 O
+与 O
+方 O
+向 O
+包 O
+括 O
+： O
+深 O
+度 O
+学 O
+习 O
+体 O
+系 O
+架 O
+构 O
+， O
+多 O
+模 O
+态 O
+目 O
+标 O
+检 O
+测 O
+跟 O
+踪 O
+等 O
+视 O
+觉 O
+方 O
+法 O
+， O
+加 O
+速 O
+计 O
+算 O
+及 O
+超 O
+大 O
+规 O
+模 O
+科 O
+学 O
+计 O
+算 O
+， O
+大 O
+数 O
+据 O
+分 O
+析 O
+与 O
+处 O
+理 O
+以 O
+及 O
+空 O
+间 O
+分 O
+析 O
+方 O
+法 O
+及 O
+空 O
+间 O
+可 O
+视 O
+化 O
+分 O
+析 O
+等 O
+。 O

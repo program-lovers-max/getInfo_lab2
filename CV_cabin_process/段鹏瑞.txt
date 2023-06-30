@@ -1,506 +1,510 @@
-段：B-NAME
-鹏：I-NAME
-瑞：E-NAME
-电：O
-子：O
-邮：O
-箱：O
-：：O
-@：O
-.：O
-.：O
-所：O
-在：O
-单：O
-位：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：O
-示：O
-范：I-ORG
-性：I-ORG
-软：I-ORG
-件：I-ORG
-学：I-ORG
-院：E-ORG
-）：O
-学：B-EDU
-历：E-EDU
-：：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-毕：O
-业：O
-性：O
-别：O
-：：O
-男：O
-学：B-EDU
-位：E-EDU
-：：O
-硕：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-职：O
-称：O
-：：O
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-在：O
-职：O
-信：O
-息：O
-：：O
-在：O
-职：O
-毕：O
-业：O
-院：O
-校：O
-：：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-硕：I-ORG
-士：I-ORG
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-所：O
-属：O
-院：O
-系：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-访：B-TITLE
-问：I-TITLE
-量：O
-：：O
-开：O
-通：O
-时：O
-间：O
-：：O
-.：O
-.：O
-最：O
-后：O
-更：O
-新：O
-时：O
-间：O
-：：O
-.：O
-.：O
-个：O
-人：O
-简：O
-介：O
-长：O
-期：O
-从：O
-事：O
-计：O
-算：O
-机：O
-通：O
-信：O
-的：O
-教：O
-学：O
-与：O
-科：O
-研：O
-工：O
-作：O
-，：O
-目：O
-前：O
-主：O
-要：O
-从：O
-事：O
-无：O
-线：O
-多：O
-媒：O
-体：O
-传：O
-感：O
-网：O
-方：O
-面：O
-的：O
-研：O
-究：O
-。：O
-先：O
-后：O
-负：O
-责：O
-完：O
-成：O
-了：O
-国：O
-家：O
-科：O
-技：O
-支：O
-撑：O
-计：O
-划：O
-项：O
-目：O
-课：O
-题：O
-《：O
-长：O
-城：O
-遗：O
-址：O
-保：O
-存：O
-状：O
-态：O
-智：O
-能：O
-感：O
-知：O
-关：O
-键：O
-技：O
-术：O
-研：O
-究：O
-—：O
-远：O
-程：O
-可：O
-靠：O
-传：O
-输：O
-技：O
-术：O
-机：O
-制：O
-研：O
-究：O
-》：O
-、：O
-企：O
-业：O
-横：O
-向：O
-研：O
-发：O
-项：O
-目：O
-《：O
-北：O
-京：O
-移：O
-动：O
-无：O
-线：O
-网：O
-络：O
-优：O
-化：O
-专：O
-家：O
-辅：O
-助：O
-系：O
-统：O
-》：O
-、：O
-《：O
-综：O
-合：O
-接：O
-入：O
-网：O
-关：O
-与：O
-大：O
-容：O
-量：O
-中：O
-继：O
-网：O
-关：O
-》：O
-、：O
-《：O
-智：O
-能：O
-电：O
-话：O
-业：I-TITLE
-务：I-TITLE
-平：I-TITLE
-台：O
-》：O
-以：O
-及：O
-《：O
-无：O
-线：O
-传：O
-感：O
-网：O
-中：O
-多：O
-媒：O
-体：O
-信：O
-息：O
-多：O
-跳：O
-传：O
-输：O
-机：O
-制：O
-研：O
-究：O
-》：O
-等：O
-项：O
-目：O
-。：O
-作：O
-为：O
-主：O
-研：O
-人：O
-员：O
-，：O
-参：O
-加：O
-了：O
-国：O
-家：O
-科：O
-技：O
-重：O
-大：O
-专：O
-项：O
-《：O
-泛：O
-在：O
-网：O
-络：O
-下：O
-多：O
-终：O
-端：O
-协：O
-同：O
-的：O
-网：O
-络：O
-控：O
-制：O
-平：O
-台：O
-及：O
-关：O
-键：O
-技：O
-术：O
-》：O
-、：O
-国：O
-家：O
-科：O
-技：O
-支：O
-撑：O
-项：O
-目：O
-《：O
-南：O
-水：O
-北：O
-调：O
-中：O
-线：O
-水：O
-质：O
-预：O
-警：O
-监：O
-测：O
-示：O
-范：O
-工：O
-程：O
-》：O
-以：O
-及：O
-《：O
-海：O
-洋：O
-物：O
-联：O
-网：O
-组：O
-网：O
-与：O
-传：O
-输：O
-基：O
-础：O
-研：O
-究：O
-》：O
-。：O
-研：O
-发：O
-完：O
-成：O
-了：O
-集：O
-成：O
-接：O
-入：O
-设：O
-备：O
-、：O
-中：O
-继：O
-网：O
-关：O
-、：O
-综：O
-合：O
-接：O
-入：O
-交：O
-换：O
-等：O
-交：O
-换：O
-设：O
-备：O
-，：O
-并：O
-应：O
-用：O
-于：O
-国：O
-内：O
-公：O
-用：O
-通：O
-信：O
-网：O
-、：O
-银：O
-行：O
-、：O
-公：O
-安：O
-、：O
-电：O
-力：O
-、：O
-邮：O
-政：O
-等：O
-专：O
-用：O
-通：O
-信：O
-网：O
-；：O
-同：O
-时：O
-，：O
-产：O
-品：O
-出：O
-口：O
-到：O
-北：O
-美：O
-、：O
-俄：B-ORG
-罗：I-ORG
-斯：I-ORG
-、：I-ORG
-印：I-ORG
-度：I-ORG
-、：O
-欧：B-ORG
-洲：I-ORG
-等：I-ORG
-地：E-ORG
-，：O
-应：O
-用：O
-部：O
-署：O
-于：O
-国：O
-外：O
-的：O
-通：O
-信：O
-网：O
-络：O
-。：O
-研：O
-发：O
-完：O
-成：O
-了：O
-视：O
-频：O
-接：O
-入：O
-服：O
-务：O
-器：O
-、：O
-视：O
-频：O
-接：O
-入：I-TITLE
-网：I-TITLE
-关：I-TITLE
-等：O
-设：O
-备：O
-，：O
-应：O
-用：O
-部：O
-署：O
-于：O
-专：O
-用：O
-视：O
-频：O
-监：O
-控：O
-网：O
-络：O
-。：O
+https://teacher.bupt.edu.cn/duanpengrui
+段 B-NAME
+鹏 I-NAME
+瑞 E-NAME
+段 B-NAME
+鹏 I-NAME
+瑞 E-NAME
+电 O
+子 O
+邮 O
+箱 O
+： O
+@ O
+. O
+. O
+所 O
+在 O
+单 O
+位 O
+： O
+计 O
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 I-ORG
+示 I-ORG
+范 I-ORG
+性 I-ORG
+软 I-ORG
+件 I-ORG
+学 I-ORG
+院 E-ORG
+） O
+学 B-EDU
+历 E-EDU
+： O
+研 B-EDU
+究 I-EDU
+生 E-EDU
+毕 O
+业 O
+性 O
+别 O
+： O
+男 O
+学 B-EDU
+位 E-EDU
+： O
+硕 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+职 O
+称 O
+： O
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+在 O
+职 O
+信 O
+息 O
+： O
+在 O
+职 O
+毕 O
+业 O
+院 O
+校 O
+： O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+硕 I-ORG
+士 I-ORG
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+所 O
+属 O
+院 O
+系 O
+： O
+计 O
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+访 B-TITLE
+问 I-TITLE
+量 E-TITLE
+： O
+开 O
+通 O
+时 O
+间 O
+： O
+. O
+. O
+最 O
+后 O
+更 O
+新 O
+时 O
+间 O
+： O
+. O
+. O
+个 O
+人 O
+简 O
+介 O
+长 O
+期 O
+从 O
+事 O
+计 O
+算 O
+机 O
+通 O
+信 O
+的 O
+教 O
+学 O
+与 O
+科 O
+研 O
+工 O
+作 O
+， O
+目 O
+前 O
+主 O
+要 O
+从 O
+事 O
+无 O
+线 O
+多 O
+媒 O
+体 O
+传 O
+感 O
+网 O
+方 O
+面 O
+的 O
+研 O
+究 O
+。 O
+先 O
+后 O
+负 O
+责 O
+完 O
+成 O
+了 O
+国 O
+家 O
+科 O
+技 O
+支 O
+撑 O
+计 O
+划 O
+项 O
+目 O
+课 O
+题 O
+《 O
+长 O
+城 O
+遗 O
+址 O
+保 O
+存 O
+状 O
+态 O
+智 O
+能 O
+感 O
+知 O
+关 O
+键 O
+技 O
+术 O
+研 O
+究 O
+— O
+远 O
+程 O
+可 O
+靠 O
+传 O
+输 O
+技 O
+术 O
+机 O
+制 O
+研 O
+究 O
+》 O
+、 O
+企 O
+业 O
+横 O
+向 O
+研 O
+发 O
+项 O
+目 O
+《 O
+北 O
+京 O
+移 O
+动 O
+无 O
+线 O
+网 O
+络 O
+优 O
+化 O
+专 O
+家 O
+辅 O
+助 O
+系 O
+统 O
+》 O
+、 O
+《 O
+综 O
+合 O
+接 O
+入 O
+网 O
+关 O
+与 O
+大 O
+容 O
+量 O
+中 O
+继 O
+网 O
+关 O
+》 O
+、 O
+《 O
+智 O
+能 O
+电 O
+话 O
+业 O
+务 O
+平 O
+台 O
+》 O
+以 O
+及 O
+《 O
+无 O
+线 O
+传 O
+感 O
+网 O
+中 O
+多 O
+媒 O
+体 O
+信 O
+息 O
+多 O
+跳 O
+传 O
+输 O
+机 O
+制 O
+研 O
+究 O
+》 O
+等 O
+项 O
+目 O
+。 O
+作 O
+为 O
+主 O
+研 O
+人 O
+员 O
+， O
+参 O
+加 O
+了 O
+国 O
+家 O
+科 O
+技 O
+重 O
+大 O
+专 O
+项 O
+《 O
+泛 O
+在 O
+网 O
+络 O
+下 O
+多 O
+终 O
+端 O
+协 O
+同 O
+的 O
+网 O
+络 O
+控 O
+制 O
+平 O
+台 O
+及 O
+关 O
+键 O
+技 O
+术 O
+》 O
+、 O
+国 O
+家 O
+科 O
+技 O
+支 O
+撑 O
+项 O
+目 O
+《 O
+南 O
+水 O
+北 O
+调 O
+中 O
+线 O
+水 O
+质 O
+预 O
+警 O
+监 O
+测 O
+示 O
+范 O
+工 O
+程 O
+》 O
+以 O
+及 O
+《 O
+海 O
+洋 O
+物 O
+联 O
+网 O
+组 O
+网 O
+与 O
+传 O
+输 O
+基 O
+础 O
+研 O
+究 O
+》 O
+。 O
+研 O
+发 O
+完 O
+成 O
+了 O
+集 O
+成 O
+接 O
+入 O
+设 O
+备 O
+、 O
+中 O
+继 O
+网 O
+关 O
+、 O
+综 O
+合 O
+接 O
+入 O
+交 O
+换 O
+等 O
+交 O
+换 O
+设 O
+备 O
+， O
+并 O
+应 O
+用 O
+于 O
+国 O
+内 O
+公 O
+用 O
+通 O
+信 O
+网 O
+、 O
+银 O
+行 O
+、 O
+公 O
+安 O
+、 O
+电 O
+力 O
+、 O
+邮 O
+政 O
+等 O
+专 O
+用 O
+通 O
+信 O
+网 O
+； O
+同 O
+时 O
+， O
+产 O
+品 O
+出 O
+口 O
+到 O
+北 O
+美 O
+、 O
+俄 B-ORG
+罗 I-ORG
+斯 I-ORG
+、 O
+印 B-ORG
+度 I-ORG
+、 O
+欧 B-ORG
+洲 I-ORG
+等 I-ORG
+地 E-ORG
+， O
+应 O
+用 O
+部 O
+署 O
+于 O
+国 O
+外 O
+的 O
+通 O
+信 O
+网 O
+络 O
+。 O
+研 O
+发 O
+完 O
+成 O
+了 O
+视 O
+频 O
+接 O
+入 O
+服 O
+务 O
+器 O
+、 O
+视 O
+频 O
+接 O
+入 I-TITLE
+网 I-TITLE
+关 I-TITLE
+等 O
+设 O
+备 O
+， O
+应 O
+用 O
+部 O
+署 O
+于 O
+专 O
+用 O
+视 O
+频 O
+监 O
+控 O
+网 O
+络 O
+。 O

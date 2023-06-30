@@ -1,152 +1,156 @@
-李：B-NAME
-胜：I-NAME
-杰：E-NAME
-电：O
-子：O
-邮：O
-箱：O
-：：O
-@：O
-.：O
-.：O
-所：O
-在：O
-单：O
-位：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：O
-示：O
-范：O
-性：O
-软：O
-件：O
-学：I-ORG
-院：E-ORG
-）：O
-学：B-EDU
-历：E-EDU
-：：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-毕：O
-业：O
-办：O
-公：O
-地：O
-点：O
-：：O
-科：O
-研：O
-楼：O
--：O
-性：O
-别：O
-：：O
-男：O
-联：O
-系：O
-方：O
-式：O
-：：O
--：O
-学：O
-位：O
-：：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-职：O
-称：O
-：：O
-讲：B-TITLE
-师：E-TITLE
-（：O
-高：O
-校：O
-）：O
-在：O
-职：O
-信：O
-息：O
-：：O
-在：O
-职：O
-毕：O
-业：O
-院：O
-校：O
-：：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-硕：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-所：O
-属：O
-院：O
-系：O
-：：O
-计：O
-算：O
-机：I-ORG
-学：I-ORG
-院：E-ORG
-曾：O
-获：O
-荣：O
-誉：O
-：：O
-当：O
-选：O
-：：O
-年：O
-度：O
-北：O
-京：O
-邮：O
-电：O
-大：O
-学：O
-优：O
-秀：O
-博：O
-士：O
-学：O
-位：O
-论：O
-文：O
-访：O
-问：O
-量：O
-：：O
-开：O
-通：O
-时：O
-间：O
-：：O
-.：O
-.：O
-最：O
-后：O
-更：O
-新：O
-时：O
-间：O
-：：O
-.：O
-.：O
+https://teacher.bupt.edu.cn/lishengjie/zh_CN/index.htm
+李 B-NAME
+胜 I-NAME
+杰 E-NAME
+李 B-NAME
+胜 I-NAME
+杰 E-NAME
+电 O
+子 O
+邮 O
+箱 O
+： O
+@ O
+. O
+. O
+所 O
+在 O
+单 O
+位 O
+： O
+计 O
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 I-ORG
+性 I-ORG
+软 I-ORG
+件 I-ORG
+学 I-ORG
+院 E-ORG
+） O
+学 B-EDU
+历 E-EDU
+： O
+研 B-EDU
+究 I-EDU
+生 E-EDU
+毕 O
+业 O
+办 O
+公 O
+地 O
+点 O
+： O
+科 O
+研 O
+楼 O
+- O
+性 O
+别 O
+： O
+男 O
+联 O
+系 O
+方 O
+式 O
+： O
+- O
+学 O
+位 O
+： O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+职 O
+称 O
+： O
+讲 B-TITLE
+师 E-TITLE
+（ O
+高 O
+校 O
+） O
+在 O
+职 O
+信 O
+息 O
+： O
+在 O
+职 O
+毕 O
+业 O
+院 O
+校 O
+： O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+硕 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+所 O
+属 O
+院 O
+系 O
+： O
+计 O
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+曾 O
+获 O
+荣 O
+誉 O
+： O
+当 O
+选 O
+： O
+年 O
+度 O
+北 O
+京 O
+邮 O
+电 O
+大 O
+学 O
+优 O
+秀 O
+博 O
+士 O
+学 O
+位 O
+论 O
+文 O
+访 O
+问 O
+量 O
+： O
+开 O
+通 O
+时 O
+间 O
+： O
+. O
+. O
+最 O
+后 O
+更 O
+新 O
+时 O
+间 O
+： O
+. O
+. O

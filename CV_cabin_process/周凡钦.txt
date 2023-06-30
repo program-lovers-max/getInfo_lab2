@@ -1,347 +1,351 @@
-个：O
-人：O
-简：O
-介：O
-周：B-NAME
-凡：I-NAME
-钦：E-NAME
-，：O
-讲：B-TITLE
-师：E-TITLE
-，：O
-硕：B-TITLE
-导：E-TITLE
-，：O
-研：O
-究：O
-方：O
-向：O
-为：O
-网：O
-络：O
-智：O
-能：O
-管：O
-理：O
-，：O
-关：O
-注：O
-领：O
-域：O
-包：O
-括：O
-/：O
-网：O
-络：O
-、：O
-工：O
-业：O
-无：O
-线：O
-网：O
-络：O
-、：O
-算：O
-力：O
-网：O
-络：O
-等：O
-。：O
-目：O
-前：O
-负：O
-责：O
-省：O
-部：O
-级：O
-项：O
-目：O
-项：O
-，：O
-企：O
-业：O
-项：O
-目：O
-项：O
-，：O
-参：O
-与：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-计：O
-划：O
-项：O
-目：O
-项：O
-、：O
-其：O
-他：O
-国：O
-家：O
-级：O
-、：O
-省：O
-部：O
-级：O
-以：O
-及：O
-企：O
-业：O
-合：O
-作：O
-项：O
-目：O
-多：O
-项：O
-。：O
-以：O
-第：O
-一：O
-作：O
-者：O
-发：O
-表：O
-\：O
-\：O
-\：O
-等：O
-高：O
-水：O
-平：O
-期：O
-刊：O
-发：O
-表：O
-论：O
-文：O
-论：O
-文：O
-篇：O
-，：O
-已：O
-授：O
-权：O
-发：O
-明：O
-专：O
-利：O
-项：O
-，：O
-获：O
-得：O
-"：O
-中：O
-国：O
-电：O
-工：O
-技：O
-术：O
-学：O
-会：O
-科：O
-学：O
-技：O
-术：O
-奖：O
-"：O
-一：O
-等：O
-奖：O
-（：O
-排：O
-名：O
-）：O
-以：O
-及：O
-学：O
-会：O
-年：O
-度：O
-最：O
-佳：O
-论：O
-文：O
-奖：O
-。：O
-教：O
-育：O
-经：O
-历：O
-[：O
-]：O
-.：O
--：O
-.：O
-北：O
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-|：O
-电：B-PRO
-子：I-PRO
-信：I-PRO
-息：I-PRO
-科：I-PRO
-学：I-PRO
-与：I-PRO
-技：I-PRO
-术：I-PRO
-|：E-PRO
-本：B-EDU
-科：E-EDU
-(：O
-学：B-EDU
-士：E-EDU
-)：O
-|：O
-工：B-PRO
-学：E-PRO
-学：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-[：I-EDU
-]：E-EDU
-.：O
--：O
-.：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-|：O
-通：B-PRO
-信：I-PRO
-与：I-PRO
-信：I-PRO
-息：I-PRO
-系：I-PRO
-统：E-PRO
-|：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-[：O
-]：O
-.：O
--：O
-.：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-|：O
-信：B-PRO
-息：I-PRO
-与：I-PRO
-通：I-PRO
-信：I-PRO
-工：I-PRO
-程：E-PRO
-|：O
-博：B-EDU
-士：E-EDU
-毕：O
-业：O
-|：O
-工：B-PRO
-学：E-PRO
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-工：O
-作：O
-经：O
-历：O
-[：O
-]：O
-.：O
--：O
-至：O
-今：O
-计：B-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：O
-示：O
-范：O
-性：O
-软：O
-件：O
-学：O
-院：O
-）：O
-|：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-[：B-PRO
-]：I-ORG
-.：I-ORG
--：O
-.：O
-计：B-PRO
-算：I-PRO
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：O
-示：O
-范：I-ORG
-性：I-ORG
-软：I-ORG
-件：I-ORG
-学：I-ORG
-院：E-ORG
-）：O
-|：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-研：B-PRO
-究：I-PRO
-方：I-PRO
-向：E-TITLE
-暂：O
-无：O
-内：O
-容：O
-社：O
-会：O
-兼：O
-职：O
-暂：O
-无：O
-内：O
-容：O
-团：O
-队：O
-成：O
-员：O
-暂：O
-无：O
-内：O
-容：O
+https://teacher.bupt.edu.cn/fqzhou
+周 B-NAME
+凡 I-NAME
+钦 E-NAME
+个 O
+人 O
+简 O
+介 O
+周 O
+凡 I-NAME
+钦 E-NAME
+， O
+讲 B-TITLE
+师 E-TITLE
+， O
+硕 B-TITLE
+导 E-TITLE
+， O
+研 O
+究 O
+方 O
+向 O
+为 O
+网 O
+络 O
+智 O
+能 O
+管 O
+理 O
+， O
+关 O
+注 O
+领 O
+域 O
+包 O
+括 O
+/ O
+网 O
+络 O
+、 O
+工 O
+业 O
+无 O
+线 O
+网 O
+络 O
+、 O
+算 O
+力 O
+网 O
+络 O
+等 O
+。 O
+目 O
+前 O
+负 O
+责 O
+省 O
+部 O
+级 O
+项 O
+目 O
+项 O
+， O
+企 O
+业 O
+项 O
+目 O
+项 O
+， O
+参 O
+与 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+计 O
+划 O
+项 O
+目 O
+项 O
+、 O
+其 O
+他 O
+国 O
+家 O
+级 O
+、 O
+省 O
+部 O
+级 O
+以 O
+及 O
+企 O
+业 O
+合 O
+作 O
+项 O
+目 O
+多 O
+项 O
+。 O
+以 O
+第 O
+一 O
+作 O
+者 O
+发 O
+表 O
+\ O
+\ O
+\ O
+等 O
+高 O
+水 O
+平 O
+期 O
+刊 O
+发 O
+表 O
+论 O
+文 O
+论 O
+文 O
+篇 O
+， O
+已 O
+授 O
+权 O
+发 O
+明 O
+专 O
+利 O
+项 O
+， O
+获 O
+得 O
+" O
+中 O
+国 O
+电 O
+工 O
+技 O
+术 O
+学 O
+会 O
+科 O
+学 O
+技 O
+术 O
+奖 O
+" O
+一 O
+等 O
+奖 O
+（ O
+排 O
+名 O
+） O
+以 O
+及 O
+学 O
+会 O
+年 O
+度 O
+最 O
+佳 O
+论 O
+文 O
+奖 O
+。 O
+教 O
+育 O
+经 O
+历 O
+[ O
+] O
+. O
+- O
+. O
+北 O
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+| O
+电 B-PRO
+子 I-PRO
+信 I-PRO
+息 I-PRO
+科 I-PRO
+学 I-PRO
+与 I-PRO
+技 I-PRO
+术 I-PRO
+| E-PRO
+本 B-EDU
+科 E-EDU
+( O
+学 B-EDU
+士 E-EDU
+) O
+| O
+工 B-PRO
+学 E-PRO
+学 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+[ I-EDU
+] E-EDU
+. O
+- O
+. O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+| O
+通 B-PRO
+信 I-PRO
+与 I-PRO
+信 I-PRO
+息 I-PRO
+系 I-PRO
+统 I-PRO
+| E-PRO
+研 B-EDU
+究 I-EDU
+生 E-EDU
+[ O
+] O
+. O
+- O
+. O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+| O
+信 B-PRO
+息 I-PRO
+与 I-PRO
+通 I-PRO
+信 I-PRO
+工 I-PRO
+程 E-PRO
+| O
+博 B-EDU
+士 E-EDU
+毕 O
+业 O
+| O
+工 B-PRO
+学 E-PRO
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+工 O
+作 O
+经 O
+历 O
+[ O
+] O
+. O
+- O
+至 O
+今 O
+计 B-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 O
+性 O
+软 O
+件 O
+学 O
+院 O
+） O
+| O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+[ I-ORG
+] I-ORG
+. I-ORG
+- O
+. O
+计 B-PRO
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 I-ORG
+性 I-ORG
+软 I-ORG
+件 I-ORG
+学 I-ORG
+院 E-ORG
+） O
+| O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+研 B-PRO
+究 I-PRO
+方 I-PRO
+向 E-TITLE
+暂 O
+无 O
+内 O
+容 O
+社 O
+会 O
+兼 O
+职 O
+暂 O
+无 O
+内 O
+容 O
+团 O
+队 O
+成 O
+员 O
+暂 O
+无 O
+内 O
+容 O

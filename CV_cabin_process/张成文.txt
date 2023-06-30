@@ -1,322 +1,326 @@
-个：O
-人：O
-简：O
-介：O
-博：B-EDU
-士：I-EDU
-毕：O
-业：O
-论：O
-文：O
-获：O
-得：O
-北：O
-邮：O
-优：O
-秀：O
-博：O
-士：O
-论：O
-文：O
-称：O
-号：O
-。：O
-在：O
-国：O
-际：O
-期：O
-刊：O
-、：O
-电：O
-子：O
-学：O
-报：O
-英：O
-文：O
-版：O
-等：O
-国：O
-内：O
-外：O
-知：O
-名：O
-期：O
-刊：O
-上：O
-发：O
-表：O
-了：O
-几：O
-十：O
-篇：O
-高：O
-水：O
-平：O
-论：O
-文：O
-，：O
-在：O
-计：O
-算：O
-机：O
-学：O
-报：O
-等：O
-国：O
-内：O
-顶：O
-级：O
-学：O
-报：O
-上：O
-以：O
-及：O
-国：O
-际：O
-会：O
-议：O
-上：O
-发：O
-表：O
-了：O
-几：O
-十：O
-篇：O
-高：O
-水：O
-平：O
-论：O
-文：O
-。：O
-以：O
-项：O
-目：O
-负：O
-责：O
-人：O
-及：O
-骨：O
-干：O
-的：O
-身：O
-份：O
-参：O
-加：O
-了：O
-多：O
-个：O
-国：O
-家：O
-级：O
-和：O
-部：O
-级：O
-科：O
-研：O
-项：O
-目：O
-，：O
-主：O
-要：O
-包：O
-括：O
-国：O
-家：O
-科：O
-技：O
-重：O
-大：O
-专：O
-项：O
-项：O
-目：O
-、：O
-国：O
-家：O
-计：O
-划：O
-项：O
-目：O
-、：O
-国：O
-家：O
-计：O
-划：O
-重：O
-大：O
-项：O
-目：O
-、：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-项：O
-目：O
-、：O
-教：O
-育：O
-部：O
-新：O
-世：O
-纪：O
-优：O
-秀：O
-人：O
-才：O
-计：O
-划：O
-项：O
-目：O
-等：O
-。：O
-在：O
-研：O
-项：O
-目：O
-：：O
-智：O
-能：O
-感：O
-知：O
-网：O
-络：O
-及：O
-其：O
-在：O
-智：O
-慧：O
-城：O
-市：O
-中：O
-应：O
-用：O
-研：O
-究：O
-，：O
-“：O
-智：O
-慧：O
-系：O
-统：O
-”：O
-基：O
-础：O
-理：O
-论：O
-及：O
-体：O
-系：O
-架：O
-构：O
-研：O
-究：O
-，：O
-物：O
-联：O
-网：O
-服：I-TITLE
-务：I-TITLE
-边：I-TITLE
-缘：I-TITLE
-适：I-TITLE
-配：I-TITLE
-与：I-TITLE
-集：I-TITLE
-成：I-TITLE
-协：I-TITLE
-同：I-TITLE
-模：I-TITLE
-式：I-TITLE
-挖：I-TITLE
-掘：I-TITLE
-研：I-TITLE
-究：I-TITLE
-等：I-TITLE
-。：O
-与：O
-、：O
-等：O
-头：O
-部：O
-企：O
-业：O
-有：O
-广：O
-泛：O
-联：O
-系：O
-。：O
-社：O
-会：O
-兼：O
-职：O
-研：O
-究：O
-方：O
-向：O
-中：O
-国：O
-人：O
-工：O
-智：O
-能：O
-学：O
-会：O
-高：B-TITLE
-级：I-TITLE
-会：I-TITLE
-员：E-TITLE
-人：O
-工：I-TITLE
-智：I-TITLE
-能：I-TITLE
-大：I-TITLE
-模：I-TITLE
-型：E-TITLE
-、：O
-数：O
-字：O
-人：O
-、：O
-大：O
-数：O
-据：O
-推：O
-荐：O
-、：O
-知：O
-识：O
-图：O
-谱：O
-、：O
-计：O
-算：O
-机：O
-视：O
-觉：O
-、：O
-云：O
-计：O
-算：O
-。：O
-工：O
-作：O
-经：O
-历：O
-教：O
-育：O
-经：O
-历：O
-暂：O
-无：O
-内：O
-容：O
-暂：O
-无：O
-内：O
-容：O
+https://teacher.bupt.edu.cn/zhangchengwen
+张 B-NAME
+成 I-NAME
+文 E-NAME
+个 O
+人 O
+简 O
+介 O
+博 B-EDU
+士 I-EDU
+毕 O
+业 O
+论 O
+文 O
+获 O
+得 O
+北 O
+邮 O
+优 O
+秀 O
+博 O
+士 O
+论 O
+文 O
+称 O
+号 O
+。 O
+在 O
+国 O
+际 O
+期 O
+刊 O
+、 O
+电 O
+子 O
+学 O
+报 O
+英 O
+文 O
+版 O
+等 O
+国 O
+内 O
+外 O
+知 O
+名 O
+期 O
+刊 O
+上 O
+发 O
+表 O
+了 O
+几 O
+十 O
+篇 O
+高 O
+水 O
+平 O
+论 O
+文 O
+， O
+在 O
+计 O
+算 O
+机 O
+学 O
+报 O
+等 O
+国 O
+内 O
+顶 O
+级 O
+学 O
+报 O
+上 O
+以 O
+及 O
+国 O
+际 O
+会 O
+议 O
+上 O
+发 O
+表 O
+了 O
+几 O
+十 O
+篇 O
+高 O
+水 O
+平 O
+论 O
+文 O
+。 O
+以 O
+项 O
+目 O
+负 O
+责 O
+人 O
+及 O
+骨 O
+干 O
+的 O
+身 O
+份 O
+参 O
+加 O
+了 O
+多 O
+个 O
+国 O
+家 O
+级 O
+和 O
+部 O
+级 O
+科 O
+研 O
+项 O
+目 O
+， O
+主 O
+要 O
+包 O
+括 O
+国 O
+家 O
+科 O
+技 O
+重 O
+大 O
+专 O
+项 O
+项 O
+目 O
+、 O
+国 O
+家 O
+计 O
+划 O
+项 O
+目 O
+、 O
+国 O
+家 O
+计 O
+划 O
+重 O
+大 O
+项 O
+目 O
+、 O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+项 O
+目 O
+、 O
+教 O
+育 O
+部 O
+新 O
+世 O
+纪 O
+优 O
+秀 O
+人 O
+才 O
+计 O
+划 O
+项 O
+目 O
+等 O
+。 O
+在 O
+研 O
+项 O
+目 O
+： O
+智 O
+能 O
+感 O
+知 O
+网 O
+络 O
+及 O
+其 O
+在 O
+智 O
+慧 O
+城 O
+市 O
+中 O
+应 O
+用 O
+研 O
+究 O
+， O
+“ O
+智 O
+慧 O
+系 O
+统 O
+” O
+基 O
+础 O
+理 O
+论 O
+及 O
+体 O
+系 O
+架 O
+构 O
+研 O
+究 O
+， O
+物 O
+联 O
+网 O
+服 I-TITLE
+务 I-TITLE
+边 I-TITLE
+缘 I-TITLE
+适 I-TITLE
+配 I-TITLE
+与 I-TITLE
+集 I-TITLE
+成 I-TITLE
+协 I-TITLE
+同 I-TITLE
+模 I-TITLE
+式 I-TITLE
+挖 I-TITLE
+掘 I-TITLE
+研 I-TITLE
+究 I-TITLE
+等 I-TITLE
+。 O
+与 O
+、 O
+等 O
+头 O
+部 O
+企 O
+业 O
+有 O
+广 O
+泛 O
+联 O
+系 O
+。 O
+社 O
+会 O
+兼 O
+职 O
+研 O
+究 O
+方 O
+向 O
+中 O
+国 O
+人 O
+工 O
+智 O
+能 O
+学 O
+会 O
+高 B-TITLE
+级 I-TITLE
+会 I-TITLE
+员 E-TITLE
+人 I-TITLE
+工 I-TITLE
+智 I-TITLE
+能 I-TITLE
+大 I-TITLE
+模 I-TITLE
+型 E-TITLE
+、 O
+数 O
+字 O
+人 O
+、 O
+大 O
+数 O
+据 O
+推 O
+荐 O
+、 O
+知 O
+识 O
+图 O
+谱 O
+、 O
+计 O
+算 O
+机 O
+视 O
+觉 O
+、 O
+云 O
+计 O
+算 O
+。 O
+工 O
+作 O
+经 O
+历 O
+教 O
+育 O
+经 O
+历 O
+暂 O
+无 O
+内 O
+容 O
+暂 O
+无 O
+内 O
+容 O

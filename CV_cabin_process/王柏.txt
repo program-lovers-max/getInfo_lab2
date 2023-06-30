@@ -1,175 +1,178 @@
-个：O
-人：O
-简：O
-介：O
-西：B-ORG
-安：I-ORG
-交：I-ORG
-通：I-ORG
-大：I-ORG
-学：E-ORG
-计：B-PRO
-算：I-PRO
-机：I-PRO
-软：I-PRO
-件：I-PRO
-本：B-EDU
-科：E-EDU
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-计：B-PRO
-算：I-PRO
-机：I-PRO
-应：I-PRO
-用：I-PRO
-硕：B-EDU
-士：E-EDU
-，：O
-通：B-PRO
-信：I-PRO
-与：I-PRO
-电：I-PRO
-子：I-PRO
-系：I-PRO
-统：I-PRO
-博：B-EDU
-士：E-EDU
-多：O
-年：O
-来：O
-一：O
-直：O
-在：O
-计：O
-算：O
-机：O
-科：O
-学：O
-及：O
-通：O
-信：O
-系：O
-统：O
-软：O
-件：O
-方：O
-面：O
-从：O
-事：O
-教：O
-学：O
-和：O
-研：O
-究：O
-工：O
-作：O
-。：O
-在：O
-软：O
-件：O
-形：O
-式：O
-化：O
-方：O
-法：O
-、：O
-通：O
-信：O
-软：O
-件：O
-工：O
-程：O
-、：O
-通：O
-信：O
-软：O
-件：O
-体：O
-系：O
-结：O
-构：O
-、：O
-智：O
-能：O
-网：O
-等：O
-方：O
-面：O
-组：O
-织：O
-开：O
-展：O
-了：O
-研：O
-究：O
-工：O
-作：O
-。：O
-作：O
-为：O
-主：O
-研：O
-人：O
-员：O
-参：O
-加：O
-过：O
-多：O
-期：O
-国：O
-家：O
-智：O
-能：O
-网：O
-项：O
-目：O
-，：O
-主：O
-持：O
-多：O
-项：O
-国：O
-际：O
-合：O
-作：O
-项：O
-目：O
-、：O
-教：O
-育：O
-部：O
-项：O
-目：O
-等：O
-，：O
-研：O
-究：O
-成：O
-果：O
-数：O
-次：O
-获：O
-奖：O
-。：O
-目：O
-前：O
-主：O
-要：O
-研：O
-究：O
-领：O
-域：O
-：：O
-智：O
-能：O
-信：O
-息：O
-处：O
-理：O
-等：O
-。：O
+https://teacher.bupt.edu.cn/wangbo
+王 B-NAME
+柏 E-NAME
+个 O
+人 O
+简 O
+介 O
+西 B-ORG
+安 I-ORG
+交 I-ORG
+通 I-ORG
+大 I-ORG
+学 E-ORG
+计 B-PRO
+算 I-PRO
+机 I-PRO
+软 I-PRO
+件 I-PRO
+本 B-EDU
+科 E-EDU
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+计 B-PRO
+算 I-PRO
+机 I-PRO
+应 I-PRO
+用 I-PRO
+硕 B-EDU
+士 E-EDU
+， O
+通 B-PRO
+信 I-PRO
+与 I-PRO
+电 I-PRO
+子 I-PRO
+系 I-PRO
+统 I-PRO
+博 B-EDU
+士 E-EDU
+多 O
+年 O
+来 O
+一 O
+直 O
+在 O
+计 O
+算 O
+机 O
+科 O
+学 O
+及 O
+通 O
+信 O
+系 O
+统 O
+软 O
+件 O
+方 O
+面 O
+从 O
+事 O
+教 O
+学 O
+和 O
+研 O
+究 O
+工 O
+作 O
+。 O
+在 O
+软 O
+件 O
+形 O
+式 O
+化 O
+方 O
+法 O
+、 O
+通 O
+信 O
+软 O
+件 O
+工 O
+程 O
+、 O
+通 O
+信 O
+软 O
+件 O
+体 O
+系 O
+结 O
+构 O
+、 O
+智 O
+能 O
+网 O
+等 O
+方 O
+面 O
+组 O
+织 O
+开 O
+展 O
+了 O
+研 O
+究 O
+工 O
+作 O
+。 O
+作 O
+为 O
+主 O
+研 O
+人 O
+员 O
+参 O
+加 O
+过 O
+多 O
+期 O
+国 O
+家 O
+智 O
+能 O
+网 O
+项 O
+目 O
+， O
+主 O
+持 O
+多 O
+项 O
+国 O
+际 O
+合 O
+作 O
+项 O
+目 O
+、 O
+教 O
+育 O
+部 O
+项 O
+目 O
+等 O
+， O
+研 O
+究 O
+成 O
+果 O
+数 O
+次 O
+获 O
+奖 O
+。 O
+目 O
+前 O
+主 O
+要 O
+研 O
+究 O
+领 O
+域 O
+： O
+智 O
+能 O
+信 O
+息 O
+处 O
+理 O
+等 O
+。 O

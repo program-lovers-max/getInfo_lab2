@@ -1,201 +1,205 @@
-个：O
-人：O
-简：O
-介：O
-张：B-NAME
-乐：I-NAME
-剑：E-NAME
-，：O
-男：O
-，：O
-年：O
-月：O
-生：O
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-讲：B-TITLE
-师：E-TITLE
-，：O
-网：B-PRO
-络：I-PRO
-与：I-PRO
-交：I-PRO
-换：I-ORG
-技：I-ORG
-术：I-ORG
-国：I-ORG
-家：I-ORG
-重：I-ORG
-点：I-ORG
-实：I-ORG
-验：I-ORG
-室：E-ORG
--：O
-网：B-PRO
-络：I-PRO
-智：I-PRO
-能：I-PRO
-研：I-ORG
-究：I-ORG
-中：I-ORG
-心：E-ORG
-。：O
-年：O
-毕：O
-业：O
-于：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-网：I-ORG
-络：I-ORG
-与：I-ORG
-交：I-ORG
-换：I-ORG
-国：I-ORG
-家：I-ORG
-重：I-ORG
-点：I-ORG
-实：I-ORG
-验：I-ORG
-室：E-ORG
-获：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-。：O
-长：O
-期：O
-从：O
-事：O
-业：O
-务：O
-网：O
-络：O
-智：O
-能：O
-化：O
-相：O
-关：O
-研：O
-究：O
-工：O
-作：O
-，：O
-具：O
-备：O
-丰：O
-富：O
-的：O
-产：O
-学：O
-研：O
-结：O
-合：O
-经：O
-验：O
-，：O
-实：O
-现：O
-了：O
-多：O
-个：O
-重：O
-大：O
-课：O
-题：O
-的：O
-落：O
-地：O
-和：O
-规：O
-模：O
-化：O
-应：O
-用：O
-。：O
-获：O
-得：O
-项：O
-国：O
-家：O
-科：O
-技：O
-进：O
-步：O
-奖：O
-二：O
-等：O
-奖：O
-、：O
-项：O
-中：O
-国：O
-通：O
-信：O
-学：O
-会：O
-科：O
-学：O
-技：O
-术：O
-奖：O
-一：O
-等：O
-奖：O
-、：O
-项：O
-教：O
-育：O
-部：O
-科：O
-技：O
-进：O
-步：O
-奖：O
-一：O
-等：O
-奖：O
-、：O
-项：O
-教：O
-育：O
-部：O
-科：O
-技：O
-进：O
-步：O
-奖：O
-二：O
-等：O
-奖：O
-，：O
-发：O
-表：O
-论：O
-文：O
-余：O
-篇：O
-，：O
-获：O
-得：O
-国：O
-家：O
-发：O
-明：O
-专：O
-利：O
-授：O
-权：O
-余：O
-项：O
-。：O
+https://teacher.bupt.edu.cn/zhanglejian
+张 B-NAME
+乐 I-NAME
+剑 E-NAME
+个 O
+人 O
+简 O
+介 O
+张 B-NAME
+乐 I-NAME
+剑 E-NAME
+， O
+男 O
+， O
+年 O
+月 O
+生 O
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+讲 B-TITLE
+师 E-TITLE
+， O
+网 B-PRO
+络 I-PRO
+与 I-PRO
+交 I-PRO
+换 I-PRO
+技 I-ORG
+术 I-ORG
+国 I-ORG
+家 I-ORG
+重 I-ORG
+点 I-ORG
+实 I-ORG
+验 I-ORG
+室 E-ORG
+- O
+网 B-PRO
+络 I-PRO
+智 I-PRO
+能 I-PRO
+研 I-PRO
+究 I-ORG
+中 I-ORG
+心 E-ORG
+。 O
+年 O
+毕 O
+业 O
+于 O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+网 I-ORG
+络 I-ORG
+与 I-ORG
+交 I-ORG
+换 I-ORG
+国 I-ORG
+家 I-ORG
+重 I-ORG
+点 I-ORG
+实 I-ORG
+验 I-ORG
+室 E-ORG
+获 O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+。 O
+长 O
+期 O
+从 O
+事 O
+业 O
+务 O
+网 O
+络 O
+智 O
+能 O
+化 O
+相 O
+关 O
+研 O
+究 O
+工 O
+作 O
+， O
+具 O
+备 O
+丰 O
+富 O
+的 O
+产 O
+学 O
+研 O
+结 O
+合 O
+经 O
+验 O
+， O
+实 O
+现 O
+了 O
+多 O
+个 O
+重 O
+大 O
+课 O
+题 O
+的 O
+落 O
+地 O
+和 O
+规 O
+模 O
+化 O
+应 O
+用 O
+。 O
+获 O
+得 O
+项 O
+国 O
+家 O
+科 O
+技 O
+进 O
+步 O
+奖 O
+二 O
+等 O
+奖 O
+、 O
+项 O
+中 O
+国 O
+通 O
+信 O
+学 O
+会 O
+科 O
+学 O
+技 O
+术 O
+奖 O
+一 O
+等 O
+奖 O
+、 O
+项 O
+教 O
+育 O
+部 O
+科 O
+技 O
+进 O
+步 O
+奖 O
+一 O
+等 O
+奖 O
+、 O
+项 O
+教 O
+育 O
+部 O
+科 O
+技 O
+进 O
+步 O
+奖 O
+二 O
+等 O
+奖 O
+， O
+发 O
+表 O
+论 O
+文 O
+余 O
+篇 O
+， O
+获 O
+得 O
+国 O
+家 O
+发 O
+明 O
+专 O
+利 O
+授 O
+权 O
+余 O
+项 O
+。 O

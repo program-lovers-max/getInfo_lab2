@@ -1,148 +1,152 @@
-黄：B-NAME
-小：I-NAME
-红：E-NAME
-所：O
-在：O
-单：O
-位：O
-：：O
-计：B-PRO
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：O
-示：O
-范：O
-性：O
-软：O
-件：O
-学：I-ORG
-院：E-ORG
-）：O
-职：O
-务：O
-：：O
-无：O
-学：O
-历：O
-：：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-毕：O
-业：O
-性：O
-别：O
-：：O
-女：O
-学：B-EDU
-位：E-EDU
-：：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-职：O
-称：O
-：：O
-教：B-TITLE
-授：E-TITLE
-在：O
-职：O
-信：O
-息：O
-：：O
-在：O
-职：O
-主：O
-要：O
-任：O
-职：O
-：：O
-信：B-TITLE
-息：I-TITLE
-网：I-TITLE
-络：I-TITLE
-中：I-TITLE
-心：I-TITLE
-主：I-TITLE
-任：E-TITLE
-毕：O
-业：O
-院：O
-校：O
-：：O
-新：B-ORG
-加：I-ORG
-坡：I-ORG
-南：I-ORG
-洋：I-ORG
-理：I-ORG
-工：I-ORG
-大：I-ORG
-学：E-ORG
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-硕：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-学：O
-科：O
-：：O
-计：B-TITLE
-算：I-TITLE
-机：I-TITLE
-科：I-ORG
-学：I-ORG
-与：I-ORG
-技：I-ORG
-术：I-ORG
-*：O
-所：O
-属：O
-院：O
-系：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-访：B-TITLE
-问：I-TITLE
-量：E-TITLE
-：：O
-开：O
-通：O
-时：O
-间：O
-：：O
-.：O
-.：O
-最：O
-后：O
-更：O
-新：O
-时：O
-间：O
-：：O
-.：O
-.：O
-同：O
-专：O
-业：O
-博：B-TITLE
-导：E-TITLE
-同：O
-专：I-EDU
-业：I-EDU
-硕：I-EDU
-导：I-EDU
+https://teacher.bupt.edu.cn/huangxiaohong/
+黄 B-NAME
+小 I-NAME
+红 E-NAME
+黄 B-NAME
+小 I-NAME
+红 E-NAME
+所 O
+在 O
+单 O
+位 O
+： O
+计 B-PRO
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 O
+示 O
+范 O
+性 O
+软 O
+件 O
+学 O
+院 E-ORG
+） O
+职 O
+务 O
+： O
+无 O
+学 O
+历 O
+： O
+研 B-EDU
+究 I-EDU
+生 E-EDU
+毕 O
+业 O
+性 O
+别 O
+： O
+女 O
+学 B-EDU
+位 E-EDU
+： O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+职 O
+称 O
+： O
+教 B-TITLE
+授 E-TITLE
+在 O
+职 O
+信 O
+息 O
+： O
+在 O
+职 O
+主 O
+要 O
+任 O
+职 O
+： O
+信 B-TITLE
+息 I-TITLE
+网 I-TITLE
+络 I-TITLE
+中 I-TITLE
+心 I-TITLE
+主 I-TITLE
+任 E-TITLE
+毕 O
+业 O
+院 O
+校 O
+： O
+新 B-ORG
+加 I-ORG
+坡 I-ORG
+南 I-ORG
+洋 I-ORG
+理 I-ORG
+工 I-ORG
+大 I-ORG
+学 E-ORG
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+硕 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+学 O
+科 O
+： O
+计 B-TITLE
+算 I-TITLE
+机 I-TITLE
+科 I-ORG
+学 I-ORG
+与 I-ORG
+技 I-ORG
+术 I-ORG
+* O
+所 O
+属 O
+院 O
+系 O
+： O
+计 O
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+访 B-TITLE
+问 I-TITLE
+量 E-TITLE
+： O
+开 O
+通 O
+时 O
+间 O
+： O
+. O
+. O
+最 O
+后 O
+更 O
+新 O
+时 O
+间 O
+： O
+. O
+. O
+同 O
+专 O
+业 O
+博 B-TITLE
+导 E-TITLE
+同 O
+专 I-EDU
+业 I-EDU
+硕 I-EDU
+导 I-EDU

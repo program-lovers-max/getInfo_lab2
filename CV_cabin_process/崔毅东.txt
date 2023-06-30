@@ -1,510 +1,511 @@
-个：O
-人：O
-简：O
-介：O
-一：O
-、：O
-经：O
-历：O
-明：B-ORG
-光：I-ORG
-村：I-ORG
-邮：I-ORG
-电：I-ORG
-男：I-ORG
-专：E-ORG
-土：B-TITLE
-著：E-TITLE
-。：O
-初：O
-入：O
-学：O
-，：O
-好：O
-三：O
-国：O
-四：O
-国：O
-，：O
-四：O
-年：O
-尽：O
-。：O
-后：O
-续：O
-学：O
-，：O
-开：O
-窍：O
-而：O
-成：O
-一：O
-文：O
-，：O
-借：O
-师：O
-祖：O
-余：O
-荫：O
-，：O
-辩：O
-而：O
-过：O
-。：O
-遂：O
-从：O
-教：O
-，：O
-弹：O
-指：O
-间：O
-，：O
-人：O
-无：O
-数：O
-。：O
-二：O
-、：O
-工：O
-作：O
-不：O
-算：O
-太：O
-咸：O
-鱼：O
-。：O
-名：O
-与：O
-身：O
-孰：O
-亲：O
-？：O
-身：O
-与：O
-货：O
-孰：O
-多：O
-？：O
-得：O
-与：O
-亡：O
-孰：O
-病：O
-？：O
-甚：O
-爱：O
-必：O
-大：O
-费：O
-；：O
-多：O
-藏：O
-必：O
-厚：O
-亡：O
-。：O
-故：O
-知：O
-足：O
-不：O
-辱：O
-，：O
-知：O
-止：O
-不：O
-殆：O
-，：O
-可：O
-以：O
-长：O
-久：O
-。：O
-意：O
-思：O
-是：O
-：：O
-该：O
-忙：O
-忙：O
-，：O
-该：O
-歇：O
-歇：O
-，：O
-不：O
-能：O
-躺：O
-平：O
-，：O
-也：O
-不：O
-能：O
-卷：O
-王：O
-。：O
-三：O
-、：O
-招：O
-生：O
-喜：O
-欢：O
-有：O
-音：O
-乐：O
-/：O
-艺：O
-术：O
-特：O
-长：O
-的：O
-学：O
-生：O
-，：O
-会：O
-点：O
-乐：I-ORG
-器：E-ORG
-，：O
-懂：O
-点：O
-乐：O
-理：O
-都：O
-好：O
-。：O
-能：O
-作：O
-曲：O
-编：O
-曲：O
-配：O
-器：O
-演：O
-奏：O
-混：I-TITLE
-音：I-TITLE
-就：I-TITLE
-更：I-TITLE
-好：I-TITLE
-了：O
-。：O
-懂：O
-绘：O
-画：O
-书：O
-法：O
-等：O
-艺：O
-术：O
-也：O
-行：O
-（：O
-我：O
-不：O
-懂：O
-但：O
-喜：O
-欢：O
-看：O
-）：O
-。：O
-当：O
-然：O
-，：O
-专：O
-业：O
-知：O
-识：O
-不：O
-要：O
-挂：O
-科：O
-。：O
-我：O
-们：O
-的：O
-目：O
-标：O
-是：O
-做：O
-有：O
-知：O
-识：O
-也：O
-有：O
-文：O
-化：O
-的：O
-攻：O
-城：O
-狮：O
-。：O
-四：O
-、：O
-其：O
-它：O
-《：O
-书：O
-剑：O
-恩：O
-仇：O
-录：O
-》：O
-第：O
-八：O
-回：O
-：：O
-乾：O
-隆：O
-.：O
-.：O
-.：O
-.：O
-.：O
-.：O
-从：O
-身：O
-上：O
-解：O
-下：O
-一：O
-块：O
-佩：O
-玉：O
-.：O
-.：O
-.：O
-.：O
-.：O
-.：O
-玉：O
-色：O
-晶：O
-莹：O
-，：O
-在：O
-月：O
-亮：O
-下：O
-发：O
-出：O
-淡：O
-淡：O
-柔：O
-光：O
-，：O
-陈：B-NAME
-家：I-NAME
-洛：E-NAME
-谢：O
-了：O
-接：O
-过：O
-，：O
-触：O
-手：O
-生：O
-温：O
-.：O
-.：O
-.：O
-.：O
-.：O
-.：O
-玉：O
-上：O
-以：O
-金：O
-丝：O
-嵌：O
-着：O
-四：O
-行：O
-细：O
-篆：O
-铭：O
-文：O
-：：O
-“：O
-情：O
-深：O
-不：O
-寿：O
-，：O
-强：O
-极：O
-则：O
-辱：O
-。：O
-谦：I-NAME
-谦：E-NAME
-君：O
-子：E-NAME
-，：O
-温：O
-润：O
-如：O
-玉：E-NAME
-。：O
-”：O
-五：O
-、：O
-最：O
-后：O
-你：O
-想：O
-知：O
-道：O
-我：O
-研：O
-究：O
-啥：O
-，：O
-讲：O
-啥：O
-课：O
-，：O
-发：O
-了：O
-啥：O
-论：O
-文：O
-，：O
-申：O
-请：O
-了：O
-啥：O
-专：O
-利：O
-，：O
-得：O
-了：O
-什：O
-么：O
-奖：O
-，：O
-就：O
-去：O
-相：O
-应：O
-栏：O
-目：O
-找：O
-吧：O
-，：O
-那：O
-些：O
-.：O
-.：O
-.：O
-.：O
-.：O
-.：O
-.：O
-不：O
-怎：O
-么：O
-重：O
-要：O
-。：O
-教：O
-育：O
-经：O
-历：O
-[：O
-]：O
--：O
--：O
--：O
--：O
--：O
--：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
->：O
-电：I-ORG
-路：I-ORG
-与：I-ORG
-系：I-ORG
-统：I-ORG
->：O
-博：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
->：O
-博：B-EDU
-士：I-EDU
-[：I-EDU
-]：E-EDU
--：O
--：O
--：O
--：O
--：O
--：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
->：I-ORG
-机：I-ORG
-械：I-ORG
-电：I-ORG
-子：I-ORG
-工：I-ORG
-程：I-ORG
->：E-ORG
-学：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
->：O
-大：B-EDU
-学：I-EDU
-本：I-EDU
-科：E-EDU
-(：O
-简：O
-称：O
-“：O
-大：O
-学：I-EDU
-”：E-EDU
-)：O
-工：O
-作：O
-经：O
-历：O
-[：O
-]：O
--：O
--：O
--：O
--：O
--：O
--：O
->：O
->：O
-访：B-TITLE
-问：I-TITLE
-学：I-TITLE
-者：E-TITLE
-[：I-ORG
-]：I-ORG
--：O
--：O
--：O
--：O
-至：O
-今：O
-电：B-ORG
-信：I-ORG
-工：I-ORG
-程：I-ORG
+https://teacher.bupt.edu.cn/cyd
+崔 B-NAME
+毅 I-NAME
+东 E-NAME
+个 O
+人 O
+简 O
+介 O
+一 O
+、 O
+经 O
+历 O
+明 O
+光 O
+村 O
+邮 I-ORG
+电 I-ORG
+男 I-ORG
+专 E-ORG
+土 B-TITLE
+著 E-TITLE
+。 O
+初 O
+入 O
+学 O
+， O
+好 O
+三 B-ORG
+国 I-ORG
+四 I-ORG
+国 E-ORG
+， O
+四 O
+年 O
+尽 O
+。 O
+后 O
+续 O
+学 O
+， O
+开 O
+窍 O
+而 O
+成 O
+一 O
+文 O
+， O
+借 O
+师 O
+祖 O
+余 O
+荫 O
+， O
+辩 O
+而 O
+过 O
+。 O
+遂 O
+从 O
+教 O
+， O
+弹 O
+指 O
+间 O
+， O
+人 O
+无 O
+数 O
+。 O
+二 O
+、 O
+工 O
+作 O
+不 O
+算 O
+太 O
+咸 O
+鱼 O
+。 O
+名 O
+与 O
+身 O
+孰 O
+亲 O
+？ O
+身 O
+与 O
+货 O
+孰 O
+多 O
+？ O
+得 O
+与 O
+亡 O
+孰 O
+病 O
+？ O
+甚 O
+爱 O
+必 O
+大 O
+费 O
+； O
+多 O
+藏 O
+必 O
+厚 O
+亡 O
+。 O
+故 O
+知 O
+足 O
+不 O
+辱 O
+， O
+知 O
+止 O
+不 O
+殆 O
+， O
+可 O
+以 O
+长 O
+久 O
+。 O
+意 O
+思 O
+是 O
+： O
+该 O
+忙 O
+忙 O
+， O
+该 O
+歇 O
+歇 O
+， O
+不 O
+能 O
+躺 O
+平 O
+， O
+也 O
+不 O
+能 I-ORG
+卷 I-ORG
+王 I-ORG
+。 O
+三 O
+、 O
+招 O
+生 O
+喜 O
+欢 O
+有 O
+音 O
+乐 O
+/ O
+艺 O
+术 O
+特 O
+长 O
+的 O
+学 O
+生 O
+， O
+会 O
+点 O
+乐 I-ORG
+器 E-ORG
+， O
+懂 O
+点 O
+乐 O
+理 O
+都 O
+好 O
+。 O
+能 O
+作 O
+曲 O
+编 O
+曲 O
+配 O
+器 O
+演 O
+奏 O
+混 B-TITLE
+音 I-TITLE
+就 I-TITLE
+更 I-TITLE
+好 I-TITLE
+了 I-TITLE
+。 O
+懂 O
+绘 O
+画 O
+书 O
+法 O
+等 O
+艺 O
+术 O
+也 O
+行 O
+（ O
+我 O
+不 O
+懂 O
+但 O
+喜 O
+欢 O
+看 O
+） O
+。 O
+当 O
+然 O
+， O
+专 B-EDU
+业 I-EDU
+知 O
+识 O
+不 O
+要 O
+挂 O
+科 O
+。 O
+我 O
+们 O
+的 O
+目 O
+标 O
+是 O
+做 O
+有 O
+知 O
+识 O
+也 O
+有 O
+文 O
+化 O
+的 O
+攻 O
+城 O
+狮 O
+。 O
+四 O
+、 O
+其 O
+它 O
+《 O
+书 O
+剑 O
+恩 O
+仇 O
+录 O
+》 O
+第 O
+八 O
+回 O
+： O
+乾 O
+隆 O
+. O
+. O
+. O
+. O
+. O
+. O
+从 O
+身 O
+上 O
+解 O
+下 O
+一 O
+块 O
+佩 O
+玉 O
+. O
+. O
+. O
+. O
+. O
+. O
+玉 O
+色 O
+晶 O
+莹 O
+， O
+在 O
+月 O
+亮 O
+下 O
+发 O
+出 O
+淡 O
+淡 O
+柔 O
+光 O
+， O
+陈 B-NAME
+家 I-NAME
+洛 E-NAME
+谢 O
+了 O
+接 O
+过 O
+， O
+触 O
+手 O
+生 O
+温 O
+. O
+. O
+. O
+. O
+. O
+. O
+玉 O
+上 O
+以 O
+金 O
+丝 O
+嵌 O
+着 O
+四 O
+行 O
+细 O
+篆 O
+铭 O
+文 O
+： O
+“ O
+情 O
+深 O
+不 O
+寿 O
+， O
+强 O
+极 O
+则 O
+辱 O
+。 O
+谦 I-NAME
+谦 E-NAME
+君 O
+子 O
+， O
+温 O
+润 O
+如 O
+玉 O
+。 O
+” O
+五 O
+、 O
+最 O
+后 O
+你 O
+想 O
+知 O
+道 O
+我 O
+研 O
+究 O
+啥 O
+， O
+讲 O
+啥 O
+课 O
+， O
+发 O
+了 O
+啥 O
+论 O
+文 O
+， O
+申 O
+请 O
+了 O
+啥 O
+专 O
+利 O
+， O
+得 O
+了 O
+什 O
+么 O
+奖 O
+， O
+就 O
+去 O
+相 O
+应 O
+栏 O
+目 O
+找 O
+吧 O
+， O
+那 O
+些 O
+. O
+. O
+. O
+. O
+. O
+. O
+. O
+不 O
+怎 O
+么 O
+重 O
+要 O
+。 O
+教 O
+育 O
+经 O
+历 O
+[ O
+] O
+- O
+- O
+- O
+- O
+- O
+- O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+> O
+电 I-ORG
+路 I-ORG
+与 I-ORG
+系 I-ORG
+统 I-ORG
+> O
+博 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+> O
+博 B-EDU
+士 I-EDU
+[ I-EDU
+] E-EDU
+- O
+- O
+- O
+- O
+- O
+- O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+> I-ORG
+机 I-ORG
+械 I-ORG
+电 I-ORG
+子 I-ORG
+工 I-ORG
+程 I-ORG
+> I-ORG
+学 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+> O
+大 B-EDU
+学 I-EDU
+本 I-EDU
+科 E-EDU
+( O
+简 O
+称 O
+“ O
+大 O
+学 E-ORG
+” E-EDU
+) O
+工 O
+作 O
+经 O
+历 O
+[ O
+] O
+- O
+- O
+- O
+- O
+- O
+- O
+> O
+> O
+访 B-TITLE
+问 I-TITLE
+学 I-TITLE
+者 E-TITLE
+[ I-ORG
+] E-ORG
+- O
+- O
+- O
+- O
+至 O
+今 O
+电 B-ORG

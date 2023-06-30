@@ -1,315 +1,319 @@
-个：O
-人：O
-简：O
-介：O
-刘：B-NAME
-炳：I-NAME
-言：E-NAME
-，：O
-男：O
-，：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-副：B-TITLE
-研：I-TITLE
-究：I-TITLE
-员：E-TITLE
-，：O
-博：B-TITLE
-士：I-TITLE
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-，：O
-校：B-TITLE
-级：I-TITLE
-人：I-TITLE
-才：I-TITLE
-计：I-TITLE
-划：E-TITLE
-。：O
-中：B-ORG
-国：I-ORG
-人：I-ORG
-工：I-ORG
-智：I-ORG
-能：I-ORG
-学：I-ORG
-会：E-ORG
-智：B-TITLE
-能：I-TITLE
-服：I-TITLE
-务：I-TITLE
-专：I-TITLE
-委：I-TITLE
-会：I-TITLE
-委：I-TITLE
-员：E-TITLE
-，：O
-中：B-ORG
-国：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-会：E-ORG
-系：B-TITLE
-统：I-TITLE
-软：I-TITLE
-件：I-TITLE
-专：I-TITLE
-委：I-TITLE
-会：I-TITLE
-委：I-TITLE
-员：E-TITLE
-，：O
-智：B-ORG
-能：I-ORG
-通：I-ORG
-信：I-ORG
-软：I-ORG
-件：I-ORG
-与：I-ORG
-多：I-ORG
-媒：I-ORG
-体：I-ORG
-北：I-ORG
-京：I-ORG
-市：I-ORG
-重：I-ORG
-点：I-ORG
-实：I-ORG
-验：I-ORG
-室：E-ORG
-成：B-TITLE
-员：E-TITLE
-。：O
-博：B-EDU
-士：E-EDU
-毕：O
-业：O
-于：O
-北：B-ORG
-京：I-ORG
-大：I-ORG
-学：I-ORG
-计：I-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-，：O
-主：O
-要：O
-研：O
-究：O
-方：O
-向：O
-包：O
-括：O
-移：O
-动：O
-大：O
-数：O
-据：O
-处：O
-理：O
-、：O
-联：O
-邦：O
-学：O
-习：O
-、：O
-隐：O
-私：O
-计：O
-算：O
-、：O
-人：O
-工：O
-智：O
-能：O
-安：O
-全：O
-等：O
-，：O
-近：O
-几：O
-年：O
-在：O
-、：O
-、：O
-、：O
-、：O
-、：O
-等：O
--：O
-类：O
-顶：O
-级：O
-学：O
-术：O
-会：O
-议：O
-期：O
-刊：O
-上：O
-发：O
-表：O
-论：O
-文：O
-余：O
-篇：O
-，：O
-相：O
-关：O
-研：O
-究：O
-工：O
-作：O
-应：O
-用：O
-于：O
-华：O
-为：O
-阿：O
-里：O
-巴：O
-巴：O
-等：O
-顶：O
-级：O
-互：O
-联：O
-网：O
-公：O
-司：O
-，：O
-研：O
-究：O
-成：O
-果：O
-被：O
-多：O
-个：O
-学：O
-术：O
-直：O
-播：O
-间：O
-和：O
-公：O
-众：O
-号：O
-专：O
-题：O
-报：O
-道：O
-。：O
-担：O
-任：O
-、：O
-、：O
-、：O
-、：O
-、：O
-、：O
-等：O
-多：O
-个：O
-类：O
-顶：O
-级：O
-会：O
-议：O
-期：O
-刊：O
-审：O
-稿：O
-人：E-TITLE
-，：O
-负：O
-责：O
-参：O
-与：O
-了：O
-多：O
-项：O
-国：O
-家：O
-自：O
-然：O
-科：O
-学：O
-基：O
-金：O
-重：O
-大：O
-项：O
-目：O
-、：O
-国：O
-家：O
-重：O
-点：O
-研：O
-发：O
-计：O
-划：O
-以：O
-及：O
-国：O
-防：O
-科：O
-技：O
-等：O
-科：O
-研：O
-项：O
-目：O
-，：O
-曾：O
-获：O
-微：O
-软：O
-“：O
-明：O
-日：O
-之：O
-星：O
-”：O
-、：O
-学：O
-术：O
-创：O
-新：O
-奖：O
-等：O
-荣：O
-誉：O
-。：O
-详：O
-细：O
-信：O
-息：O
-见：O
-个：O
-人：O
-主：O
-页：O
-:：O
-/：O
-/：O
-.：O
-.：O
-/：O
-。：O
+https://teacher.bupt.edu.cn/liubingyan/zh_CN/index.htm
+刘 B-NAME
+炳 I-NAME
+言 E-NAME
+个 O
+人 O
+简 O
+介 O
+刘 B-NAME
+炳 I-NAME
+言 E-NAME
+， O
+男 O
+， O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+副 B-TITLE
+研 I-TITLE
+究 I-TITLE
+员 E-TITLE
+， O
+博 B-TITLE
+士 I-TITLE
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+， O
+校 B-TITLE
+级 I-TITLE
+人 I-TITLE
+才 I-TITLE
+计 I-TITLE
+划 E-TITLE
+。 O
+中 B-ORG
+国 I-ORG
+人 I-ORG
+工 I-ORG
+智 I-ORG
+能 I-ORG
+学 I-ORG
+会 E-ORG
+智 B-TITLE
+能 I-TITLE
+服 I-TITLE
+务 I-TITLE
+专 I-TITLE
+委 I-TITLE
+会 I-TITLE
+委 I-TITLE
+员 E-TITLE
+， O
+中 B-ORG
+国 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+会 E-ORG
+系 B-TITLE
+统 I-TITLE
+软 I-TITLE
+件 I-TITLE
+专 I-TITLE
+委 I-TITLE
+会 E-ORG
+委 B-TITLE
+员 E-TITLE
+， O
+智 B-ORG
+能 I-ORG
+通 I-ORG
+信 I-ORG
+软 I-ORG
+件 I-ORG
+与 I-ORG
+多 I-ORG
+媒 I-ORG
+体 I-ORG
+北 I-ORG
+京 I-ORG
+市 I-ORG
+重 I-ORG
+点 I-ORG
+实 I-ORG
+验 I-ORG
+室 E-ORG
+成 B-TITLE
+员 E-TITLE
+。 O
+博 B-EDU
+士 E-EDU
+毕 O
+业 O
+于 O
+北 B-ORG
+京 I-ORG
+大 I-ORG
+学 I-ORG
+计 I-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+， O
+主 O
+要 O
+研 O
+究 O
+方 O
+向 O
+包 O
+括 O
+移 O
+动 O
+大 O
+数 O
+据 O
+处 O
+理 O
+、 O
+联 O
+邦 O
+学 O
+习 O
+、 O
+隐 O
+私 O
+计 O
+算 O
+、 O
+人 O
+工 O
+智 O
+能 O
+安 O
+全 O
+等 O
+， O
+近 O
+几 O
+年 O
+在 O
+、 O
+、 O
+、 O
+、 O
+、 O
+等 O
+- O
+类 O
+顶 O
+级 O
+学 O
+术 O
+会 O
+议 O
+期 O
+刊 O
+上 O
+发 O
+表 O
+论 O
+文 O
+余 O
+篇 O
+， O
+相 O
+关 O
+研 O
+究 O
+工 O
+作 O
+应 O
+用 O
+于 O
+华 O
+为 O
+阿 O
+里 O
+巴 O
+巴 O
+等 O
+顶 O
+级 O
+互 O
+联 O
+网 O
+公 O
+司 O
+， O
+研 O
+究 O
+成 O
+果 O
+被 O
+多 O
+个 O
+学 O
+术 O
+直 O
+播 O
+间 O
+和 O
+公 O
+众 O
+号 O
+专 O
+题 O
+报 O
+道 O
+。 O
+担 O
+任 O
+、 O
+、 O
+、 O
+、 O
+、 O
+、 O
+等 O
+多 O
+个 O
+类 O
+顶 O
+级 O
+会 O
+议 O
+期 O
+刊 O
+审 O
+稿 O
+人 E-TITLE
+， O
+负 O
+责 O
+参 O
+与 O
+了 O
+多 O
+项 O
+国 O
+家 O
+自 O
+然 O
+科 O
+学 O
+基 O
+金 O
+重 O
+大 O
+项 O
+目 O
+、 O
+国 O
+家 O
+重 O
+点 O
+研 O
+发 O
+计 O
+划 O
+以 O
+及 O
+国 O
+防 O
+科 O
+技 O
+等 O
+科 O
+研 O
+项 O
+目 O
+， O
+曾 O
+获 O
+微 O
+软 O
+“ O
+明 O
+日 O
+之 O
+星 O
+” O
+、 O
+学 O
+术 O
+创 O
+新 O
+奖 O
+等 O
+荣 O
+誉 O
+。 O
+详 O
+细 O
+信 O
+息 O
+见 O
+个 O
+人 O
+主 O
+页 O
+: O
+/ O
+/ O
+. O
+. O
+/ O
+。 O

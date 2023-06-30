@@ -1,510 +1,511 @@
-杨：B-NAME
-亚：E-NAME
-教：O
-师：O
-英：O
-文：O
-名：O
-称：O
-：：O
-电：O
-子：O
-邮：O
-箱：O
-：：O
-@：O
-.：O
-.：O
-所：O
-在：O
-单：O
-位：O
-：：O
-计：O
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-（：O
-国：O
-家：I-ORG
-示：I-ORG
-范：I-ORG
-性：I-ORG
-软：I-ORG
-件：I-ORG
-学：I-ORG
-院：E-ORG
-）：O
-职：O
-务：O
-：：O
-程：B-TITLE
-序：I-TITLE
-设：I-TITLE
-计：I-TITLE
-与：I-TITLE
-先：O
-进：O
-计：O
-算：O
-创：O
-新：O
-实：O
-践：O
-基：O
-地：O
-主：B-TITLE
-任：E-TITLE
-学：O
-历：O
-：：O
-研：B-EDU
-究：I-EDU
-生：E-EDU
-毕：O
-业：O
-办：O
-公：O
-地：O
-点：O
-：：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：I-ORG
-主：I-ORG
-楼：I-ORG
-室：O
-性：O
-别：O
-：：O
-男：O
-学：O
-位：O
-：：O
-硕：B-EDU
-士：I-EDU
-学：I-EDU
-位：E-EDU
-职：O
-称：O
-：：O
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-在：O
-职：O
-信：O
-息：O
-：：O
-在：O
-职：O
-主：O
-要：O
-任：O
-职：O
-：：O
-国：B-ORG
-际：I-ORG
-大：I-ORG
-学：I-ORG
-生：I-ORG
-程：I-ORG
-序：I-ORG
-设：I-ORG
-计：I-ORG
-竞：I-ORG
-赛：I-ORG
-集：I-ORG
-训：I-ORG
-队：E-ORG
-主：B-TITLE
-教：I-TITLE
-练：E-TITLE
-其：O
-他：O
-任：O
-职：O
-：：O
-/：O
-/：O
-/：O
-级：O
-实：O
-验：I-ORG
-班：E-ORG
-班：B-TITLE
-主：I-TITLE
-任：E-TITLE
-毕：O
-业：O
-院：O
-校：O
-：：O
-北：B-ORG
-京：I-ORG
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-硕：B-EDU
-士：I-EDU
-生：I-TITLE
-导：I-TITLE
-师：E-TITLE
-所：O
-属：O
-院：O
-系：O
-：：O
-计：B-ORG
-算：I-ORG
-机：I-ORG
-学：I-ORG
-院：E-ORG
-曾：O
-获：O
-荣：O
-誉：O
-：：O
-当：O
-选：O
-：：O
-赛：O
-季：O
-金：O
-银：O
-铜：O
-；：O
-金：O
-银：O
-铜：O
-；：O
-全：O
-国：O
-第：O
-；：O
-全：O
-国：O
-第：O
-。：O
-第：O
-二：O
-十：O
-四：O
-届：O
-中：O
-国：O
-机：O
-器：O
-人：O
-及：O
-人：O
-工：I-TITLE
-智：I-TITLE
-能：I-TITLE
-大：O
-赛：O
-全：O
-国：O
-总：O
-决：O
-赛：O
-，：O
-获：O
-得：O
-百：O
-度：O
-城：O
-市：O
-道：I-TITLE
-路：I-TITLE
-自：I-TITLE
-动：I-TITLE
-驾：I-TITLE
-驶：I-TITLE
-虚：I-TITLE
-拟：I-TITLE
-仿：I-TITLE
-真：I-TITLE
-赛：I-TITLE
-全：I-TITLE
-国：I-TITLE
-一：I-TITLE
-等：I-TITLE
-奖：I-TITLE
-项：E-TITLE
-。：O
-当：O
-选：O
-：：O
-赛：O
-季：O
-金：O
-银：O
-铜：O
-；：O
-金：O
-银：O
-铜：O
-；：O
-全：O
-国：O
-第：O
-；：O
-全：O
-国：O
-第：O
-当：O
-选：O
-：：O
-北：O
-京：O
-邮：I-ORG
-电：I-ORG
-大：I-ORG
-学：E-ORG
-烛：O
-光：O
-奖：O
-（：O
-提：O
-名：O
-奖：O
-）：O
-当：O
-选：O
-：：O
-赛：O
-季：O
-金：O
-银：O
-铜：O
-；：O
-金：O
-银：I-TITLE
-铜：E-TITLE
-；：O
-全：O
-国：O
-第：O
-；：O
-全：O
-国：O
-第：O
-当：O
-选：O
-：：O
-赛：O
-季：O
-金：O
-银：I-TITLE
-铜：E-TITLE
-；：O
-金：O
-银：I-TITLE
-铜：E-TITLE
-；：O
-全：O
-国：O
-第：O
-；：O
-全：O
-国：O
-第：O
-当：O
-选：O
-：：O
-赛：O
-季：O
-金：O
-银：I-TITLE
-铜：E-TITLE
-；：O
-银：O
-铜：E-TITLE
-；：O
-全：O
-国：O
-第：O
-；：O
-全：O
-国：O
-第：O
-当：O
-选：O
-：：O
-国：O
-际：O
-大：O
-学：O
-生：O
-程：O
-序：O
-设：O
-计：O
-竞：O
-赛：O
-世：O
-界：O
-总：O
-决：O
-赛：O
-优：O
-秀：O
-奖：O
-（：O
-教：O
-练：E-TITLE
-）：O
-当：O
-选：O
-：：O
-国：O
-际：O
-大：O
-学：O
-生：O
-程：O
-序：O
-设：O
-计：O
-竞：O
-赛：O
-世：O
-界：O
-总：O
-决：O
-赛：O
-第：O
-名：O
-（：O
-教：B-TITLE
-练：E-TITLE
-）：O
-当：O
-选：O
-：：O
-国：O
-际：O
-大：O
-学：O
-生：O
-程：O
-序：O
-设：O
-计：O
-竞：O
-赛：O
-世：O
-界：O
-总：O
-决：O
-赛：O
-第：O
-名：O
-（：O
-教：B-TITLE
-练：E-TITLE
-）：O
-访：O
-问：O
-量：O
-：：O
-开：O
-通：O
-时：O
-间：O
-：：O
-.：O
-.：O
-最：O
-后：O
-更：O
-新：O
-时：O
-间：O
-：：O
-.：O
-.：O
-个：O
-人：O
-简：O
-介：O
-一：O
-、：O
-感：O
-言：O
-一：O
-晃：O
-已：O
-经：O
-在：O
-北：B-ORG
-邮：I-ORG
-待：O
-了：O
-多：O
-年：O
-了：O
-，：O
-从：O
-学：O
-生：O
-到：O
-老：O
-师：E-TITLE
-，：O
-从：O
-做：O
-项：O
-目：O
-、：O
-做：O
-科：O
-研：O
-、：O
-搞：O
-创：O
-业：O
-、：O
-出：O
-国：O
-访：O
-学：O
-到：O
-带：O
-竞：O
-赛：O
-，：O
-也：O
-算：O
-是：O
-体：O
-验：O
-了：O
-不：O
-同：O
-的：O
-精：O
-彩：O
-人：O
-生：O
-！：O
-主：O
-要：O
-研：O
-究：O
-方：O
-向：O
-包：O
-括：O
-企：O
-业：O
-信：O
-息：O
-化：O
-、：O
+https://teacher.bupt.edu.cn/yangya
+杨 B-NAME
+亚 I-NAME
+杨 I-NAME
+亚 E-NAME
+教 I-NAME
+师 E-NAME
+英 O
+文 O
+名 O
+称 O
+： O
+电 O
+子 O
+邮 O
+箱 O
+： O
+@ O
+. O
+. O
+所 O
+在 O
+单 O
+位 O
+： O
+计 O
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+（ O
+国 O
+家 I-ORG
+示 I-ORG
+范 I-ORG
+性 I-ORG
+软 I-ORG
+件 I-ORG
+学 I-ORG
+院 E-ORG
+） O
+职 O
+务 O
+： O
+程 B-TITLE
+序 I-TITLE
+设 I-TITLE
+计 I-TITLE
+与 I-TITLE
+先 O
+进 O
+计 O
+算 O
+创 O
+新 O
+实 O
+践 O
+基 O
+地 O
+主 O
+任 O
+学 O
+历 O
+： O
+研 B-EDU
+究 I-EDU
+生 E-EDU
+毕 O
+业 O
+办 O
+公 O
+地 O
+点 O
+： O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 I-ORG
+主 I-ORG
+楼 I-ORG
+室 O
+性 O
+别 O
+： O
+男 O
+学 O
+位 O
+： O
+硕 B-EDU
+士 I-EDU
+学 I-EDU
+位 E-EDU
+职 O
+称 O
+： O
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+在 O
+职 O
+信 O
+息 O
+： O
+在 O
+职 O
+主 O
+要 O
+任 O
+职 O
+： O
+国 B-ORG
+际 I-ORG
+大 I-ORG
+学 I-ORG
+生 I-ORG
+程 I-ORG
+序 I-ORG
+设 I-ORG
+计 I-ORG
+竞 I-ORG
+赛 I-ORG
+集 I-ORG
+训 I-ORG
+队 E-ORG
+主 B-TITLE
+教 I-TITLE
+练 E-TITLE
+其 O
+他 O
+任 O
+职 O
+： O
+/ O
+/ O
+/ O
+级 O
+实 O
+验 I-ORG
+班 E-ORG
+班 B-TITLE
+主 I-TITLE
+任 E-TITLE
+毕 O
+业 O
+院 O
+校 O
+： O
+北 B-ORG
+京 I-ORG
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+硕 B-EDU
+士 I-EDU
+生 I-TITLE
+导 I-TITLE
+师 E-TITLE
+所 O
+属 O
+院 O
+系 O
+： O
+计 B-ORG
+算 I-ORG
+机 I-ORG
+学 I-ORG
+院 E-ORG
+曾 O
+获 O
+荣 O
+誉 O
+： O
+当 O
+选 O
+： O
+赛 O
+季 O
+金 O
+银 O
+铜 O
+； O
+金 O
+银 O
+铜 O
+； O
+全 O
+国 O
+第 O
+； O
+全 O
+国 O
+第 O
+。 O
+第 O
+二 O
+十 O
+四 O
+届 O
+中 O
+国 O
+机 O
+器 O
+人 O
+及 O
+人 O
+工 O
+智 O
+能 O
+大 O
+赛 O
+全 O
+国 O
+总 O
+决 O
+赛 O
+， O
+获 O
+得 O
+百 O
+度 O
+城 O
+市 I-TITLE
+道 I-TITLE
+路 I-TITLE
+自 I-TITLE
+动 I-TITLE
+驾 I-TITLE
+驶 I-TITLE
+虚 I-TITLE
+拟 I-TITLE
+仿 I-TITLE
+真 I-TITLE
+赛 I-TITLE
+全 I-TITLE
+国 I-TITLE
+一 I-TITLE
+等 I-TITLE
+奖 I-TITLE
+项 E-TITLE
+。 O
+当 O
+选 O
+： O
+赛 O
+季 O
+金 O
+银 O
+铜 O
+； O
+金 O
+银 O
+铜 O
+； O
+全 O
+国 O
+第 O
+； O
+全 O
+国 O
+第 O
+当 O
+选 O
+： O
+北 O
+京 O
+邮 I-ORG
+电 I-ORG
+大 I-ORG
+学 E-ORG
+烛 O
+光 O
+奖 O
+（ O
+提 O
+名 O
+奖 O
+） O
+当 O
+选 O
+： O
+赛 O
+季 O
+金 O
+银 O
+铜 O
+； O
+金 O
+银 I-TITLE
+铜 E-TITLE
+； O
+全 O
+国 O
+第 O
+； O
+全 O
+国 O
+第 O
+当 O
+选 O
+： O
+赛 O
+季 O
+金 O
+银 I-TITLE
+铜 E-TITLE
+； O
+金 O
+银 I-TITLE
+铜 E-TITLE
+； O
+全 O
+国 O
+第 O
+； O
+全 O
+国 O
+第 O
+当 O
+选 O
+： O
+赛 O
+季 O
+金 O
+银 I-TITLE
+铜 E-TITLE
+； O
+银 O
+铜 E-TITLE
+； O
+全 O
+国 O
+第 O
+； O
+全 O
+国 O
+第 O
+当 O
+选 O
+： O
+国 O
+际 O
+大 O
+学 O
+生 O
+程 O
+序 O
+设 O
+计 O
+竞 O
+赛 O
+世 O
+界 O
+总 O
+决 O
+赛 O
+优 O
+秀 O
+奖 O
+（ O
+教 O
+练 E-TITLE
+） O
+当 O
+选 O
+： O
+国 O
+际 O
+大 O
+学 O
+生 O
+程 O
+序 O
+设 O
+计 O
+竞 O
+赛 O
+世 O
+界 O
+总 O
+决 O
+赛 O
+第 O
+名 O
+（ O
+教 B-TITLE
+练 E-TITLE
+） O
+当 O
+选 O
+： O
+国 O
+际 O
+大 O
+学 O
+生 O
+程 O
+序 O
+设 O
+计 O
+竞 O
+赛 O
+世 O
+界 O
+总 O
+决 O
+赛 O
+第 O
+名 O
+（ O
+教 B-TITLE
+练 E-TITLE
+） O
+访 O
+问 O
+量 O
+： O
+开 O
+通 O
+时 O
+间 O
+： O
+. O
+. O
+最 O
+后 O
+更 O
+新 O
+时 O
+间 O
+： O
+. O
+. O
+个 O
+人 O
+简 O
+介 O
+一 O
+、 O
+感 O
+言 O
+一 O
+晃 O
+已 O
+经 O
+在 O
+北 B-ORG
+邮 I-ORG
+待 O
+了 O
+多 O
+年 O
+了 O
+， O
+从 O
+学 O
+生 O
+到 O
+老 O
+师 E-TITLE
+， O
+从 O
+做 O
+项 O
+目 O
+、 O
+做 O
+科 O
+研 O
+、 O
+搞 O
+创 O
+业 O
+、 O
+出 O
+国 O
+访 O
+学 O
+到 O
+带 O
+竞 O
+赛 O
+， O
+也 O
+算 O
+是 O
+体 O
+验 O
+了 O
+不 O
+同 O
+的 O
+精 O
+彩 O
+人 O
+生 O
+！ O
+主 O
+要 O
+研 O
+究 O
+方 O
+向 O
+包 O
+括 O
+企 O
+业 O
+信 O
+息 O

@@ -1,510 +1,511 @@
-个：O
-人：O
-简：O
-介：O
-副：B-TITLE
-教：I-TITLE
-授：E-TITLE
-，：O
-博：B-TITLE
-、：I-TITLE
-硕：I-TITLE
-导：E-TITLE
-。：O
-主：O
-要：O
-以：O
-工：O
-业：O
-与：O
-能：O
-源：O
-互：O
-联：O
-网：O
-信：O
-息：O
-通：O
-信：O
-工：O
-程：O
-为：O
-主：O
-要：O
-研：O
-究：O
-对：O
-象：O
-，：O
-重：O
-点：O
-将：O
-“：O
-区：O
-块：O
-链：O
-+：O
-、：O
-边：O
-缘：O
-智：O
-能：O
-+：O
-”：O
-作：O
-为：O
-研：O
-究：O
-方：O
-向：O
-，：O
-牵：O
-头：O
-在：O
-研：O
-承：O
-担：O
-承：O
-担：O
-了：O
-自：O
-然：O
-科：O
-学：O
-面：O
-上：O
-项：O
-目：O
-、：O
-重：O
-点：O
-研：O
-发：O
-计：O
-划：O
-课：O
-题：O
-各：O
-项：O
-，：O
-任：O
-务：O
-负：O
-责：O
-人：O
-承：O
-担：O
-科：O
-技：O
-部：O
-支：O
-撑：O
-计：O
-划：O
-、：O
-工：O
-信：O
-部：O
-工：O
-业：O
-互：O
-联：O
-网：O
-等：O
-多：O
-项：O
-纵：O
-向：O
-项：O
-目：O
-，：O
-取：O
-得：O
-电：O
-力：O
-通：O
-信：O
-网：O
-融：O
-合：O
-控：O
-制：O
-模：O
-型：O
-与：O
-方：O
-法：O
-、：O
-网：O
-络：O
-数：O
-据：O
-共：O
-享：O
-沙：O
-盒：O
-计：O
-算：O
-机：O
-理：O
-与：O
-技：O
-术：O
-、：O
-多：O
-层：O
-次：O
-聚：O
-中：O
-心：O
-的：O
-泛：O
-化：O
-认：O
-证：O
-模：O
-型：O
-与：O
-机：O
-理：O
-等：O
-创：O
-新：O
-成：O
-果：O
-，：O
-在：O
-行：O
-业：O
-内：O
-规：O
-模：O
-化：O
-应：O
-用：O
-，：O
-被：O
-央：O
-视：O
-等：O
-媒：O
-体：O
-专：O
-题：O
-报：O
-道：O
-，：O
-依：O
-此：O
-取：O
-得：O
-如：O
-下：O
-成：O
-绩：O
-：：O
-–：O
-学：O
-术：O
-论：O
-文：O
-：：O
-以：O
-第：O
-一：O
-或：O
-通：O
-信：O
-作：O
-者：O
-在：O
-.：O
-等：O
-期：O
-刊：O
-上：O
-发：O
-表：O
-高：O
-质：O
-量：O
-论：O
-文：O
-篇：O
-（：O
-篇：O
-中：O
-科：O
-院：O
-大：O
-类：O
-一：O
-/：O
-二：O
-区：O
-，：O
-篇：O
-高：O
-被：O
-引：O
-和：O
-篇：O
-热：O
-点：O
-论：O
-文：O
-）：O
-，：O
-篇：O
-会：O
-议：O
-论：O
-文：O
-获：O
-大：O
-会：O
-最：O
-佳：O
-论：O
-文：O
-奖：O
-；：O
-–：O
-发：O
-明：O
-专：O
-利：O
-：：O
-获：O
-授：O
-权：O
-国：O
-际：O
-和：O
-国：O
-内：O
-发：O
-明：O
-专：O
-利：O
-项：O
-（：O
-项：O
-美：O
-国：O
-，：O
-项：O
-第：B-TITLE
-一：I-TITLE
-发：I-TITLE
-明：I-TITLE
-人：E-TITLE
-，：O
-项：O
-已：O
-实：O
-施：O
-）：O
-；：O
-–：O
-技：O
-术：O
-标：O
-准：O
-：：O
-牵：O
-头：O
-完：O
-成：O
--：O
-国：O
-际：O
-标：O
-准：O
-项：O
-和：O
-国：O
-内：O
-通：O
-信：O
-行：O
-业：O
-标：O
-准：O
-项：O
-，：O
-参：O
-与：O
-完：O
-成：O
--：O
-国：O
-际：O
-标：O
-准：O
-项：O
-、：O
-国：O
-家：O
-标：O
-准：O
-项：O
-、：O
-通：O
-信：O
-行：O
-业：O
-标：O
-准：O
-项：O
-；：O
-–：O
-应：O
-用：O
-获：O
-奖：O
-：：O
-获：O
-河：O
-南：O
-省：O
-和：O
-电：O
-子：O
-学：O
-会：O
-科：O
-技：O
-进：O
-步：O
-二：O
-等：O
-奖：O
-项：O
-（：O
-排：O
-名：O
-第：O
-一：O
-）：O
-、：O
-河：O
-南：O
-省：O
-和：O
-江：O
-苏：I-ORG
-省：E-ORG
-科：O
-技：O
-进：O
-步：O
-二：O
-等：O
-奖：O
-项：O
-（：O
-排：O
-名：O
-第：O
-二：O
-、：O
-第：O
-五：O
-）：O
-、：O
-中：O
-国：O
-通：I-ORG
-信：I-ORG
-学：I-ORG
-会：E-ORG
-科：O
-技：O
-进：O
-步：O
-二：O
-等：O
-奖：O
-项：O
-（：O
-排：O
-名：O
-第：O
-二：O
-）：O
-等：O
-；：O
-–：O
-活：O
-动：O
-兼：O
-职：O
-：：O
-担：O
-任：O
-中：B-ORG
-国：I-ORG
-电：I-ORG
-力：I-ORG
-企：I-ORG
-业：I-ORG
-联：I-ORG
-合：I-ORG
-会：E-ORG
-电：B-TITLE
-力：I-TITLE
-区：I-TITLE
-块：I-TITLE
-链：I-TITLE
-标：I-TITLE
-准：I-ORG
-化：I-ORG
-技：I-ORG
-术：I-ORG
-委：I-ORG
-员：I-ORG
-会：E-ORG
-（：O
-第：B-TITLE
-一：I-TITLE
-届：I-TITLE
-）：I-TITLE
-副：I-TITLE
-秘：I-TITLE
-书：I-TITLE
-长：E-TITLE
-和：O
-第：B-ORG
-一：I-ORG
-届：I-ORG
-中：I-ORG
-国：I-ORG
-通：I-ORG
-信：I-ORG
-学：I-ORG
-会：E-ORG
-区：B-TITLE
-块：I-TITLE
-链：I-TITLE
-专：I-TITLE
-委：I-TITLE
-会：E-ORG
-委：B-TITLE
-员：E-TITLE
-；：O
-受：O
-国：O
-际：O
-学：O
-术：O
-会：O
-议：O
-、：O
-中：B-ORG
-国：I-ORG
-通：I-ORG
-信：I-ORG
-学：I-ORG
-会：E-ORG
-、：O
+https://teacher.bupt.edu.cn/guoshaoyong
+郭 B-NAME
+少 I-NAME
+勇 E-NAME
+个 O
+人 O
+简 O
+介 O
+副 B-TITLE
+教 I-TITLE
+授 E-TITLE
+， O
+博 B-TITLE
+、 I-TITLE
+硕 I-TITLE
+导 E-TITLE
+。 O
+主 O
+要 O
+以 O
+工 O
+业 O
+与 O
+能 O
+源 O
+互 O
+联 O
+网 O
+信 O
+息 O
+通 O
+信 O
+工 O
+程 O
+为 O
+主 O
+要 O
+研 O
+究 O
+对 O
+象 O
+， O
+重 O
+点 O
+将 O
+“ O
+区 O
+块 O
+链 O
++ O
+、 O
+边 O
+缘 O
+智 O
+能 O
++ O
+” O
+作 O
+为 O
+研 O
+究 O
+方 O
+向 O
+， O
+牵 O
+头 O
+在 O
+研 O
+承 O
+担 O
+承 O
+担 O
+了 O
+自 O
+然 O
+科 O
+学 O
+面 O
+上 O
+项 O
+目 O
+、 O
+重 O
+点 O
+研 O
+发 O
+计 O
+划 O
+课 O
+题 O
+各 O
+项 O
+， O
+任 O
+务 O
+负 O
+责 O
+人 O
+承 O
+担 O
+科 O
+技 O
+部 O
+支 O
+撑 O
+计 O
+划 O
+、 O
+工 O
+信 O
+部 O
+工 O
+业 O
+互 O
+联 O
+网 O
+等 O
+多 O
+项 O
+纵 O
+向 O
+项 O
+目 O
+， O
+取 O
+得 O
+电 O
+力 O
+通 O
+信 O
+网 O
+融 O
+合 O
+控 O
+制 O
+模 O
+型 O
+与 O
+方 O
+法 O
+、 O
+网 O
+络 O
+数 O
+据 O
+共 O
+享 O
+沙 O
+盒 O
+计 O
+算 O
+机 O
+理 O
+与 O
+技 O
+术 O
+、 O
+多 O
+层 O
+次 O
+聚 O
+中 O
+心 O
+的 O
+泛 O
+化 O
+认 O
+证 O
+模 O
+型 O
+与 O
+机 O
+理 O
+等 O
+创 O
+新 O
+成 O
+果 O
+， O
+在 O
+行 O
+业 O
+内 O
+规 O
+模 O
+化 O
+应 O
+用 O
+， O
+被 O
+央 O
+视 O
+等 O
+媒 O
+体 O
+专 O
+题 O
+报 O
+道 O
+， O
+依 O
+此 O
+取 O
+得 O
+如 O
+下 O
+成 O
+绩 O
+： O
+– O
+学 O
+术 O
+论 O
+文 O
+： O
+以 O
+第 O
+一 O
+或 O
+通 O
+信 O
+作 O
+者 O
+在 O
+. O
+等 O
+期 O
+刊 O
+上 O
+发 O
+表 O
+高 O
+质 O
+量 O
+论 O
+文 O
+篇 O
+（ O
+篇 O
+中 O
+科 O
+院 O
+大 O
+类 O
+一 O
+/ O
+二 O
+区 O
+， O
+篇 O
+高 O
+被 O
+引 O
+和 O
+篇 O
+热 O
+点 O
+论 O
+文 O
+） O
+， O
+篇 O
+会 O
+议 O
+论 O
+文 O
+获 O
+大 O
+会 O
+最 O
+佳 O
+论 O
+文 O
+奖 O
+； O
+– O
+发 O
+明 O
+专 O
+利 O
+： O
+获 O
+授 O
+权 O
+国 O
+际 O
+和 O
+国 O
+内 O
+发 O
+明 O
+专 O
+利 O
+项 O
+（ O
+项 O
+美 O
+国 O
+， O
+项 O
+第 B-TITLE
+一 I-TITLE
+发 I-TITLE
+明 I-TITLE
+人 E-TITLE
+， O
+项 O
+已 O
+实 O
+施 O
+） O
+； O
+– O
+技 O
+术 O
+标 O
+准 O
+： O
+牵 O
+头 O
+完 O
+成 O
+- O
+国 O
+际 O
+标 O
+准 O
+项 O
+和 O
+国 O
+内 O
+通 O
+信 O
+行 O
+业 O
+标 O
+准 O
+项 O
+， O
+参 O
+与 O
+完 O
+成 O
+- O
+国 O
+际 O
+标 O
+准 O
+项 O
+、 O
+国 O
+家 O
+标 O
+准 O
+项 O
+、 O
+通 O
+信 O
+行 O
+业 O
+标 O
+准 O
+项 O
+； O
+– O
+应 O
+用 O
+获 O
+奖 O
+： O
+获 O
+河 O
+南 O
+省 O
+和 O
+电 O
+子 O
+学 O
+会 O
+科 O
+技 O
+进 O
+步 O
+二 O
+等 O
+奖 O
+项 O
+（ O
+排 O
+名 O
+第 O
+一 O
+） O
+、 O
+河 O
+南 O
+省 O
+和 O
+江 O
+苏 I-ORG
+省 I-ORG
+科 I-ORG
+技 I-ORG
+进 O
+步 O
+二 O
+等 O
+奖 O
+项 O
+（ O
+排 O
+名 O
+第 O
+二 O
+、 O
+第 O
+五 O
+） O
+、 O
+中 O
+国 O
+通 I-ORG
+信 I-ORG
+学 I-ORG
+会 E-ORG
+科 O
+技 O
+进 O
+步 O
+二 O
+等 O
+奖 O
+项 O
+（ O
+排 O
+名 O
+第 O
+二 O
+） O
+等 O
+； O
+– O
+活 O
+动 O
+兼 O
+职 O
+： O
+担 O
+任 O
+中 B-ORG
+国 I-ORG
+电 I-ORG
+力 I-ORG
+企 I-ORG
+业 I-ORG
+联 I-ORG
+合 I-ORG
+会 E-ORG
+电 B-TITLE
+力 I-TITLE
+区 I-TITLE
+块 I-TITLE
+链 I-TITLE
+标 I-ORG
+准 I-ORG
+化 I-ORG
+技 I-ORG
+术 I-ORG
+委 I-ORG
+员 I-ORG
+会 E-ORG
+（ O
+第 B-TITLE
+一 I-TITLE
+届 I-TITLE
+） I-TITLE
+副 I-TITLE
+秘 I-TITLE
+书 I-TITLE
+长 E-TITLE
+和 O
+第 B-ORG
+一 I-ORG
+届 I-ORG
+中 I-ORG
+国 I-ORG
+通 I-ORG
+信 I-ORG
+学 I-ORG
+会 E-ORG
+区 B-TITLE
+块 I-TITLE
+链 I-ORG
+专 I-ORG
+委 I-ORG
+会 E-ORG
+委 B-TITLE
+员 E-TITLE
+； O
+受 O
+国 O
+际 O
+学 O
+术 O
+会 O
+议 O
+、 O
+中 B-ORG
+国 I-ORG
+通 I-ORG
+信 I-ORG
